@@ -21,7 +21,7 @@ The dashboard covers:
 ![Total Energy Consumption](screenshots/01_Total_Energy_Consumption.png)
 
 ### Renewable vs Non-Renewable
-![Renewable vs Non-Renewable](screenshots/02_Renewable_vs_Non-renewable.png)
+![Renewable_vs_Non-Renewable](screenshots/02_Renewable_vs_Non-renewable.png)
 
 ### Country Comparison
 ![Country Comparison](screenshots/03_Country_Comparison.png)
