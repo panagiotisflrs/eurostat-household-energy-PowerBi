@@ -183,7 +183,7 @@ eurostat-household-energy-PowerBi/
 
 1. Download `dashboard/eu_household_energy.pbix`
 2. Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
-3. If prompted about data sources, repoint them to the files in the `exports/` folder
+3. If prompted about data sources, repoint them to the files in the `dataset/` folder
 
 ---
 
