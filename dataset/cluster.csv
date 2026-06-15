@@ -1,0 +1,39 @@
+geo,siec,max_value,dominance
+AL,electricity,293.025,electric-heavy
+AT,renewables/biomass,1979.81,renewables-heavy
+BA,renewables/biomass,1115.53,renewables-heavy
+BE,"natural gas",2918.972,gas-heavy
+BG,electricity,1109.891,electric-heavy
+CY,electricity,161.337,electric-heavy
+CZ,renewables/biomass,1803.419,renewables-heavy
+DE,"natural gas",19264.67,gas-heavy
+DK,"district heating",1679.347,District-heating-heavy
+EE,renewables/biomass,395.185,renewables-heavy
+EL,electricity,1482.674,electric-heavy
+ES,electricity,6462.428,electric-heavy
+FI,electricity,1894.669,electric-heavy
+FR,electricity,12978.485,electric-heavy
+GE,"natural gas",1283.124,gas-heavy
+HR,renewables/biomass,919.607,renewables-heavy
+HU,"natural gas",2467.863,gas-heavy
+IE,"other petroleum products",798.243,oil-heavy
+IS,"district heating",395.551,District-heating-heavy
+IT,"natural gas",13186.455,gas-heavy
+LT,renewables/biomass,479.841,renewables-heavy
+LU,"natural gas",203.703,gas-heavy
+LV,renewables/biomass,438.698,renewables-heavy
+MD,renewables/biomass,455.169,renewables-heavy
+ME,renewables/biomass,153.759,renewables-heavy
+MK,electricity,270.881,electric-heavy
+MT,electricity,93.408,electric-heavy
+NL,"natural gas",4687.379,gas-heavy
+NO,electricity,3358.047,electric-heavy
+PL,renewables/biomass,4413.275,renewables-heavy
+PT,electricity,1269.77,electric-heavy
+RO,renewables/biomass,2717.355,renewables-heavy
+RS,renewables/biomass,1431.633,renewables-heavy
+SE,electricity,3419.776,electric-heavy
+SI,electricity,365.387,electric-heavy
+SK,"natural gas",994.72,gas-heavy
+TR,"natural gas",15579.126,gas-heavy
+XK,electricity,261.561,electric-heavy

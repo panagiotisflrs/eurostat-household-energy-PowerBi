@@ -1,0 +1,5017 @@
+geo,siec,year,value
+AL,coal,2013,0.235
+AT,coal,2013,31.656
+BA,coal,2013,NULL
+BE,coal,2013,117.172
+BG,coal,2013,188.965
+CY,coal,2013,0
+CZ,coal,2013,977.504
+DE,coal,2013,691.631
+DK,coal,2013,0.437
+EE,coal,2013,5.836
+EL,coal,2013,0.873
+ES,coal,2013,94.789
+FI,coal,2013,0.594
+FR,coal,2013,47.428
+GE,coal,2013,0.416
+HR,coal,2013,5.182
+HU,coal,2013,133.497
+IE,coal,2013,244.306
+IS,coal,2013,0
+IT,coal,2013,0
+LT,coal,2013,50.033
+LU,coal,2013,0.635
+LV,coal,2013,12.643
+MD,coal,2013,57.928
+ME,coal,2013,2.42
+MK,coal,2013,1.148
+MT,coal,2013,0
+NL,coal,2013,0.955
+NO,coal,2013,0
+PL,coal,2013,6919.583
+PT,coal,2013,0
+RO,coal,2013,25.348
+RS,coal,2013,204.668
+SE,coal,2013,0
+SI,coal,2013,0.454
+SK,coal,2013,26.47
+TR,coal,2013,2170.147
+XK,coal,2013,18.262
+AL,electricity,2013,331.9
+AT,electricity,2013,1517.555
+BA,electricity,2013,NULL
+BE,electricity,2013,1654.136
+BG,electricity,2013,906.019
+CY,electricity,2013,123.56
+CZ,electricity,2013,1265.348
+DE,electricity,2013,11693.895
+DK,electricity,2013,886.242
+EE,electricity,2013,160.361
+EL,electricity,2013,1500.086
+ES,electricity,2013,6110.06
+FI,electricity,2013,1849.527
+FR,electricity,2013,14456.511
+GE,electricity,2013,193.809
+HR,electricity,2013,536.285
+HU,electricity,2013,909.716
+IE,electricity,2013,683.383
+IS,electricity,2013,71.969
+IT,electricity,2013,5759.501
+LT,electricity,2013,222.786
+LU,electricity,2013,84.195
+LV,electricity,2013,153.31
+MD,electricity,2013,138.521
+ME,electricity,2013,109.802
+MK,electricity,2013,263.543
+MT,electricity,2013,52.365
+NL,electricity,2013,2008.681
+NO,electricity,2013,3344.971
+PL,electricity,2013,2445.572
+PT,electricity,2013,1058.813
+RO,electricity,2013,1022.872
+RS,electricity,2013,1216.337
+SE,electricity,2013,3740.671
+SI,electricity,2013,277.644
+SK,electricity,2013,423.904
+TR,electricity,2013,3866.896
+XK,electricity,2013,229.321
+AL,"natural gas",2013,0
+AT,"natural gas",2013,1429.039
+BA,"natural gas",2013,NULL
+BE,"natural gas",2013,3738.559
+BG,"natural gas",2013,44.949
+CY,"natural gas",2013,0
+CZ,"natural gas",2013,2029.944
+DE,"natural gas",2013,22509.462
+DK,"natural gas",2013,649.907
+EE,"natural gas",2013,52.279
+EL,"natural gas",2013,232.439
+ES,"natural gas",2013,3193.569
+FI,"natural gas",2013,29.449
+FR,"natural gas",2013,14507.507
+GE,"natural gas",2013,471.305
+HR,"natural gas",2013,488.306
+HU,"natural gas",2013,2513.07
+IE,"natural gas",2013,604.987
+IS,"natural gas",2013,0
+IT,"natural gas",2013,18073.087
+LT,"natural gas",2013,123.173
+LU,"natural gas",2013,211.339
+LV,"natural gas",2013,101.698
+MD,"natural gas",2013,210.404
+ME,"natural gas",2013,0
+MK,"natural gas",2013,0
+MT,"natural gas",2013,0
+NL,"natural gas",2013,8573.746
+NO,"natural gas",2013,3.716
+PL,"natural gas",2013,3419.933
+PT,"natural gas",2013,244.733
+RO,"natural gas",2013,2444.669
+RS,"natural gas",2013,174.011
+SE,"natural gas",2013,33.405
+SI,"natural gas",2013,114.402
+SK,"natural gas",2013,1144.69
+TR,"natural gas",2013,7853.805
+XK,"natural gas",2013,0
+AL,"district heating",2013,0
+AT,"district heating",2013,732.6
+BA,"district heating",2013,NULL
+BE,"district heating",2013,10.588
+BG,"district heating",2013,318.334
+CY,"district heating",2013,0
+CZ,"district heating",2013,1194.229
+DE,"district heating",2013,4406.372
+DK,"district heating",2013,1645.911
+EE,"district heating",2013,330.085
+EL,"district heating",2013,41.511
+ES,"district heating",2013,0
+FI,"district heating",2013,1598.285
+FR,"district heating",2013,1095.112
+GE,"district heating",2013,0
+HR,"district heating",2013,138.148
+HU,"district heating",2013,523.24
+IE,"district heating",2013,0
+IS,"district heating",2013,311.837
+IT,"district heating",2013,930.52
+LT,"district heating",2013,464.675
+LU,"district heating",2013,0
+LV,"district heating",2013,368.276
+MD,"district heating",2013,108.818
+ME,"district heating",2013,0
+MK,"district heating",2013,28.255
+MT,"district heating",2013,0
+NL,"district heating",2013,325.404
+NO,"district heating",2013,93.08
+PL,"district heating",2013,4203.688
+PT,"district heating",2013,0.979
+RO,"district heating",2013,905.083
+RS,"district heating",2013,376.564
+SE,"district heating",2013,2643.857
+SI,"district heating",2013,81.446
+SK,"district heating",2013,499.236
+TR,"district heating",2013,0
+XK,"district heating",2013,2.388
+AL,"heating oil",2013,82.49
+AT,"heating oil",2013,30.651
+BA,"heating oil",2013,NULL
+BE,"heating oil",2013,132.942
+BG,"heating oil",2013,24.171
+CY,"heating oil",2013,37.281
+CZ,"heating oil",2013,38.707
+DE,"heating oil",2013,860.855
+DK,"heating oil",2013,16.48
+EE,"heating oil",2013,3.26
+EL,"heating oil",2013,60.428
+ES,"heating oil",2013,1172.671
+FI,"heating oil",2013,4.423
+FR,"heating oil",2013,1073.051
+GE,"heating oil",2013,15.382
+HR,"heating oil",2013,60.477
+HU,"heating oil",2013,84.193
+IE,"heating oil",2013,40.039
+IS,"heating oil",2013,1.123
+IT,"heating oil",2013,1192.08
+LT,"heating oil",2013,38.805
+LU,"heating oil",2013,0.386
+LV,"heating oil",2013,21.754
+MD,"heating oil",2013,63.818
+ME,"heating oil",2013,0
+MK,"heating oil",2013,7.838
+MT,"heating oil",2013,15.382
+NL,"heating oil",2013,30.226
+NO,"heating oil",2013,8.809
+PL,"heating oil",2013,516.385
+PT,"heating oil",2013,452.661
+RO,"heating oil",2013,204.648
+RS,"heating oil",2013,70.06
+SE,"heating oil",2013,4.578
+SI,"heating oil",2013,29.697
+SK,"heating oil",2013,8.79
+TR,"heating oil",2013,942.413
+XK,"heating oil",2013,8.793
+AL,"other petroleum products",2013,0
+AT,"other petroleum products",2013,0
+BA,"other petroleum products",2013,NULL
+BE,"other petroleum products",2013,40.465
+BG,"other petroleum products",2013,0
+CY,"other petroleum products",2013,12.554
+CZ,"other petroleum products",2013,0
+DE,"other petroleum products",2013,3.067
+DK,"other petroleum products",2013,0
+EE,"other petroleum products",2013,0
+EL,"other petroleum products",2013,4.108
+ES,"other petroleum products",2013,0
+FI,"other petroleum products",2013,0
+FR,"other petroleum products",2013,187.379
+GE,"other petroleum products",2013,0
+HR,"other petroleum products",2013,1.05
+HU,"other petroleum products",2013,0
+IE,"other petroleum products",2013,724.919
+IS,"other petroleum products",2013,0
+IT,"other petroleum products",2013,7.189
+LT,"other petroleum products",2013,0
+LU,"other petroleum products",2013,0.716
+LV,"other petroleum products",2013,0
+MD,"other petroleum products",2013,0
+ME,"other petroleum products",2013,0
+MK,"other petroleum products",2013,0
+MT,"other petroleum products",2013,0
+NL,"other petroleum products",2013,6.177
+NO,"other petroleum products",2013,40.148
+PL,"other petroleum products",2013,0
+PT,"other petroleum products",2013,1.045
+RO,"other petroleum products",2013,0
+RS,"other petroleum products",2013,0
+SE,"other petroleum products",2013,0
+SI,"other petroleum products",2013,0
+SK,"other petroleum products",2013,0
+TR,"other petroleum products",2013,58.584
+XK,"other petroleum products",2013,0
+AL,"domestic heating oil",2013,0
+AT,"domestic heating oil",2013,1089.508
+BA,"domestic heating oil",2013,NULL
+BE,"domestic heating oil",2013,2659.702
+BG,"domestic heating oil",2013,0
+CY,"domestic heating oil",2013,63.245
+CZ,"domestic heating oil",2013,0
+DE,"domestic heating oil",2013,13240.92
+DK,"domestic heating oil",2013,281.077
+EE,"domestic heating oil",2013,4.041
+EL,"domestic heating oil",2013,923.875
+ES,"domestic heating oil",2013,1558.016
+FI,"domestic heating oil",2013,368.358
+FR,"domestic heating oil",2013,6192.701
+GE,"domestic heating oil",2013,0
+HR,"domestic heating oil",2013,85.689
+HU,"domestic heating oil",2013,0
+IE,"domestic heating oil",2013,319.107
+IS,"domestic heating oil",2013,1.027
+IT,"domestic heating oil",2013,1505.876
+LT,"domestic heating oil",2013,10.287
+LU,"domestic heating oil",2013,179.356
+LV,"domestic heating oil",2013,25.371
+MD,"domestic heating oil",2013,0
+ME,"domestic heating oil",2013,1.02
+MK,"domestic heating oil",2013,5.137
+MT,"domestic heating oil",2013,1.027
+NL,"domestic heating oil",2013,7.223
+NO,"domestic heating oil",2013,89.729
+PL,"domestic heating oil",2013,82.736
+PT,"domestic heating oil",2013,61.622
+RO,"domestic heating oil",2013,0
+RS,"domestic heating oil",2013,3.133
+SE,"domestic heating oil",2013,127.252
+SI,"domestic heating oil",2013,152.626
+SK,"domestic heating oil",2013,0
+TR,"domestic heating oil",2013,0
+XK,"domestic heating oil",2013,3.315
+AL,renewables/biomass,2013,160.003
+AT,renewables/biomass,2013,1850.415
+BA,renewables/biomass,2013,NULL
+BE,renewables/biomass,2013,633.228
+BG,renewables/biomass,2013,749.642
+CY,renewables/biomass,2013,6.78
+CZ,renewables/biomass,2013,1686.73
+DE,renewables/biomass,2013,7326.144
+DK,renewables/biomass,2013,857.086
+EE,renewables/biomass,2013,373.651
+EL,renewables/biomass,2013,774.792
+ES,renewables/biomass,2013,2494.387
+FI,renewables/biomass,2013,1251.433
+FR,renewables/biomass,2013,7474.073
+GE,renewables/biomass,2013,472.891
+HR,renewables/biomass,2013,1146.532
+HU,renewables/biomass,2013,2036.472
+IE,renewables/biomass,2013,28.255
+IS,renewables/biomass,2013,0
+IT,renewables/biomass,2013,6591.502
+LT,renewables/biomass,2013,539.672
+LU,renewables/biomass,2013,19.072
+LV,renewables/biomass,2013,575.738
+MD,renewables/biomass,2013,567.713
+ME,renewables/biomass,2013,155.274
+MK,renewables/biomass,2013,213.098
+MT,renewables/biomass,2013,0.86
+NL,renewables/biomass,2013,399.877
+NO,renewables/biomass,2013,482.636
+PL,renewables/biomass,2013,2790.914
+PT,renewables/biomass,2013,763.543
+RO,renewables/biomass,2013,3109.033
+RS,renewables/biomass,2013,800.994
+SE,renewables/biomass,2013,968.783
+SI,renewables/biomass,2013,552.785
+SK,renewables/biomass,2013,733.735
+TR,renewables/biomass,2013,3281.456
+XK,renewables/biomass,2013,228.814
+AL,"solar thermal",2013,5.374
+AT,"solar thermal",2013,119.221
+BA,"solar thermal",2013,NULL
+BE,"solar thermal",2013,17.455
+BG,"solar thermal",2013,8.957
+CY,"solar thermal",2013,55.842
+CZ,"solar thermal",2013,10.812
+DE,"solar thermal",2013,548.414
+DK,"solar thermal",2013,11.198
+EE,"solar thermal",2013,0
+EL,"solar thermal",2013,236.434
+ES,"solar thermal",2013,171.369
+FI,"solar thermal",2013,1.242
+FR,"solar thermal",2013,133.486
+GE,"solar thermal",2013,0.549
+HR,"solar thermal",2013,5.78
+HU,"solar thermal",2013,8.598
+IE,"solar thermal",2013,9.936
+IS,"solar thermal",2013,0
+IT,"solar thermal",2013,124.439
+LT,"solar thermal",2013,0
+LU,"solar thermal",2013,1.633
+LV,"solar thermal",2013,0
+MD,"solar thermal",2013,0
+ME,"solar thermal",2013,0
+MK,"solar thermal",2013,0
+MT,"solar thermal",2013,4.366
+NL,"solar thermal",2013,21.138
+NO,"solar thermal",2013,0
+PL,"solar thermal",2013,20.445
+PT,"solar thermal",2013,43.661
+RO,"solar thermal",2013,0
+RS,"solar thermal",2013,0
+SE,"solar thermal",2013,11.178
+SI,"solar thermal",2013,10.168
+SK,"solar thermal",2013,5.278
+TR,"solar thermal",2013,517.985
+XK,"solar thermal",2013,0.096
+AL,"heat pumps",2013,0
+AT,"heat pumps",2013,99.636
+BA,"heat pumps",2013,NULL
+BE,"heat pumps",2013,27.969
+BG,"heat pumps",2013,0
+CY,"heat pumps",2013,1.481
+CZ,"heat pumps",2013,65.858
+DE,"heat pumps",2013,702.852
+DK,"heat pumps",2013,111.643
+EE,"heat pumps",2013,0
+EL,"heat pumps",2013,0
+ES,"heat pumps",2013,0
+FI,"heat pumps",2013,0
+FR,"heat pumps",2013,1686.039
+GE,"heat pumps",2013,0
+HR,"heat pumps",2013,15.004
+HU,"heat pumps",2013,0
+IE,"heat pumps",2013,12.878
+IS,"heat pumps",2013,0
+IT,"heat pumps",2013,0
+LT,"heat pumps",2013,0
+LU,"heat pumps",2013,0.725
+LV,"heat pumps",2013,0
+MD,"heat pumps",2013,0
+ME,"heat pumps",2013,0
+MK,"heat pumps",2013,0
+MT,"heat pumps",2013,0
+NL,"heat pumps",2013,32.675
+NO,"heat pumps",2013,366.235
+PL,"heat pumps",2013,78.532
+PT,"heat pumps",2013,0
+RO,"heat pumps",2013,0
+RS,"heat pumps",2013,0
+SE,"heat pumps",2013,0
+SI,"heat pumps",2013,19.217
+SK,"heat pumps",2013,0
+TR,"heat pumps",2013,0
+XK,"heat pumps",2013,0
+AL,TOTAL,2013,580.003
+AT,TOTAL,2013,6911.132
+BA,TOTAL,2013,NULL
+BE,TOTAL,2013,9085.395
+BG,TOTAL,2013,2241.036
+CY,TOTAL,2013,304.971
+CZ,TOTAL,2013,7269.133
+DE,TOTAL,2013,62517.628
+DK,TOTAL,2013,4484.143
+EE,TOTAL,2013,933.506
+EL,TOTAL,2013,3821.337
+ES,TOTAL,2013,14888.925
+FI,TOTAL,2013,5172.734
+FR,TOTAL,2013,46934.921
+GE,TOTAL,2013,1159.32
+HR,TOTAL,2013,2493.453
+HU,TOTAL,2013,6209.747
+IE,TOTAL,2013,2920.575
+IS,TOTAL,2013,399.164
+IT,TOTAL,2013,34230.62
+LT,TOTAL,2013,1467.198
+LU,TOTAL,2013,498.056
+LV,TOTAL,2013,1267.242
+MD,TOTAL,2013,1147.203
+ME,TOTAL,2013,269.251
+MK,TOTAL,2013,519.019
+MT,TOTAL,2013,73.999
+NL,TOTAL,2013,11412.549
+NO,TOTAL,2013,4451.032
+PL,TOTAL,2013,20492.305
+PT,TOTAL,2013,2634.808
+RO,TOTAL,2013,7721.97
+RS,TOTAL,2013,2846.752
+SE,TOTAL,2013,7694.262
+SI,TOTAL,2013,1238.44
+SK,TOTAL,2013,2842.735
+TR,TOTAL,2013,19807.984
+XK,TOTAL,2013,494.163
+AL,coal,2014,0.65
+AT,coal,2014,26.15
+BA,coal,2014,56.449
+BE,coal,2014,76.259
+BG,coal,2014,131.669
+CY,coal,2014,NULL
+CZ,coal,2014,830.102
+DE,coal,2014,572.765
+DK,coal,2014,NULL
+EE,coal,2014,4.54
+EL,coal,2014,2.888
+ES,coal,2014,91.848
+FI,coal,2014,0.592
+FR,coal,2014,35.139
+GE,coal,2014,0.406
+HR,coal,2014,3.559
+HU,coal,2014,102.428
+IE,coal,2014,217.558
+IS,coal,2014,NULL
+IT,coal,2014,NULL
+LT,coal,2014,42.541
+LU,coal,2014,0.498
+LV,coal,2014,12.696
+MD,coal,2014,40.18
+ME,coal,2014,2.86
+MK,coal,2014,0.798
+MT,coal,2014,NULL
+NL,coal,2014,0.632
+NO,coal,2014,NULL
+PL,coal,2014,6339.431
+PT,coal,2014,NULL
+RO,coal,2014,69.776
+RS,coal,2014,169.576
+SE,coal,2014,NULL
+SI,coal,2014,0.455
+SK,coal,2014,19.605
+TR,coal,2014,1848.568
+XK,coal,2014,13.976
+AL,electricity,2014,300.946
+AT,electricity,2014,1445.877
+BA,electricity,2014,395.959
+BE,electricity,2014,1572.227
+BG,electricity,2014,910.576
+CY,electricity,2014,122.528
+CZ,electricity,2014,1214.531
+DE,electricity,2014,11143.594
+DK,electricity,2014,868.788
+EE,electricity,2014,149.527
+EL,electricity,2014,1474.721
+ES,electricity,2014,6079.966
+FI,electricity,2014,1828.375
+FR,electricity,2014,12967.755
+GE,electricity,2014,211.952
+HR,electricity,2014,518.745
+HU,electricity,2014,896.217
+IE,electricity,2014,662.407
+IS,electricity,2014,72.306
+IT,electricity,2014,5524.936
+LT,electricity,2014,228.375
+LU,electricity,2014,86.922
+LV,electricity,2014,150.215
+MD,electricity,2014,142.648
+ME,electricity,2014,101.634
+MK,electricity,2014,261.909
+MT,electricity,2014,52.88
+NL,electricity,2014,1962.967
+NO,electricity,2014,3170.349
+PL,electricity,2014,2414.703
+PT,electricity,2014,1024.506
+RO,electricity,2014,1024.076
+RS,electricity,2014,1186.758
+SE,electricity,2014,3551.161
+SI,electricity,2014,268.702
+SK,electricity,2014,422.786
+TR,electricity,2014,3971.625
+XK,electricity,2014,219.69
+AL,"natural gas",2014,NULL
+AT,"natural gas",2014,1251.537
+BA,"natural gas",2014,26.87
+BE,"natural gas",2014,2914.752
+BG,"natural gas",2014,45.186
+CY,"natural gas",2014,NULL
+CZ,"natural gas",2014,1645.013
+DE,"natural gas",2014,18298.055
+DK,"natural gas",2014,565.667
+EE,"natural gas",2014,52.214
+EL,"natural gas",2014,231.578
+ES,"natural gas",2014,3094.346
+FI,"natural gas",2014,28.676
+FR,"natural gas",2014,10840.899
+GE,"natural gas",2014,503.09
+HR,"natural gas",2014,433.126
+HU,"natural gas",2014,2320.679
+IE,"natural gas",2014,534.59
+IS,"natural gas",2014,NULL
+IT,"natural gas",2014,15150.838
+LT,"natural gas",2014,119.991
+LU,"natural gas",2014,203.107
+LV,"natural gas",2014,101.333
+MD,"natural gas",2014,215.219
+ME,"natural gas",2014,NULL
+MK,"natural gas",2014,0.043
+MT,"natural gas",2014,NULL
+NL,"natural gas",2014,6393.981
+NO,"natural gas",2014,3.801
+PL,"natural gas",2014,3143.1
+PT,"natural gas",2014,258.147
+RO,"natural gas",2014,2173.259
+RS,"natural gas",2014,142.568
+SE,"natural gas",2014,29.127
+SI,"natural gas",2014,88.564
+SK,"natural gas",2014,1037.059
+TR,"natural gas",2014,7660.383
+XK,"natural gas",2014,NULL
+AL,"district heating",2014,NULL
+AT,"district heating",2014,684.141
+BA,"district heating",2014,83.739
+BE,"district heating",2014,9.274
+BG,"district heating",2014,310.739
+CY,"district heating",2014,NULL
+CZ,"district heating",2014,1006.043
+DE,"district heating",2014,3662.511
+DK,"district heating",2014,1510.246
+EE,"district heating",2014,298.366
+EL,"district heating",2014,49.513
+ES,"district heating",2014,NULL
+FI,"district heating",2014,1572.49
+FR,"district heating",2014,1032.156
+GE,"district heating",2014,NULL
+HR,"district heating",2014,114.336
+HU,"district heating",2014,433.386
+IE,"district heating",2014,NULL
+IS,"district heating",2014,296.623
+IT,"district heating",2014,818.382
+LT,"district heating",2014,440.002
+LU,"district heating",2014,NULL
+LV,"district heating",2014,350.65
+MD,"district heating",2014,106.788
+ME,"district heating",2014,NULL
+MK,"district heating",2014,27.252
+MT,"district heating",2014,NULL
+NL,"district heating",2014,260.772
+NO,"district heating",2014,85.962
+PL,"district heating",2014,3893.188
+PT,"district heating",2014,0.908
+RO,"district heating",2014,799.107
+RS,"district heating",2014,358.054
+SE,"district heating",2014,2447.645
+SI,"district heating",2014,66.829
+SK,"district heating",2014,427.677
+TR,"district heating",2014,NULL
+XK,"district heating",2014,2.651
+AL,"heating oil",2014,89.27
+AT,"heating oil",2014,26.196
+BA,"heating oil",2014,8.96
+BE,"heating oil",2014,115.363
+BG,"heating oil",2014,23.073
+CY,"heating oil",2014,35.022
+CZ,"heating oil",2014,44.984
+DE,"heating oil",2014,713.823
+DK,"heating oil",2014,13.184
+EE,"heating oil",2014,4.347
+EL,"heating oil",2014,86.797
+ES,"heating oil",2014,1095.849
+FI,"heating oil",2014,4.423
+FR,"heating oil",2014,922.017
+GE,"heating oil",2014,17.579
+HR,"heating oil",2014,52.638
+HU,"heating oil",2014,72.967
+IE,"heating oil",2014,35.967
+IS,"heating oil",2014,1.123
+IT,"heating oil",2014,1080.013
+LT,"heating oil",2014,35.479
+LU,"heating oil",2014,0.499
+LV,"heating oil",2014,23.929
+MD,"heating oil",2014,63.818
+ME,"heating oil",2014,1.12
+MK,"heating oil",2014,6.702
+MT,"heating oil",2014,14.283
+NL,"heating oil",2014,23.749
+NO,"heating oil",2014,8.809
+PL,"heating oil",2014,510.891
+PT,"heating oil",2014,409.812
+RO,"heating oil",2014,209.247
+RS,"heating oil",2014,39.55
+SE,"heating oil",2014,6.647
+SI,"heating oil",2014,24.197
+SK,"heating oil",2014,4.395
+TR,"heating oil",2014,905.305
+XK,"heating oil",2014,7.694
+AL,"other petroleum products",2014,NULL
+AT,"other petroleum products",2014,NULL
+BA,"other petroleum products",2014,NULL
+BE,"other petroleum products",2014,27.114
+BG,"other petroleum products",2014,NULL
+CY,"other petroleum products",2014,9.415
+CZ,"other petroleum products",2014,NULL
+DE,"other petroleum products",2014,2.045
+DK,"other petroleum products",2014,NULL
+EE,"other petroleum products",2014,NULL
+EL,"other petroleum products",2014,3.081
+ES,"other petroleum products",2014,NULL
+FI,"other petroleum products",2014,NULL
+FR,"other petroleum products",2014,141.7
+GE,"other petroleum products",2014,NULL
+HR,"other petroleum products",2014,NULL
+HU,"other petroleum products",2014,NULL
+IE,"other petroleum products",2014,687.105
+IS,"other petroleum products",2014,NULL
+IT,"other petroleum products",2014,4.108
+LT,"other petroleum products",2014,NULL
+LU,"other petroleum products",2014,0.431
+LV,"other petroleum products",2014,NULL
+MD,"other petroleum products",2014,NULL
+ME,"other petroleum products",2014,NULL
+MK,"other petroleum products",2014,NULL
+MT,"other petroleum products",2014,NULL
+NL,"other petroleum products",2014,6.177
+NO,"other petroleum products",2014,28.824
+PL,"other petroleum products",2014,NULL
+PT,"other petroleum products",2014,NULL
+RO,"other petroleum products",2014,2.053
+RS,"other petroleum products",2014,NULL
+SE,"other petroleum products",2014,NULL
+SI,"other petroleum products",2014,NULL
+SK,"other petroleum products",2014,NULL
+TR,"other petroleum products",2014,35.569
+XK,"other petroleum products",2014,NULL
+AL,"domestic heating oil",2014,NULL
+AT,"domestic heating oil",2014,953.79
+BA,"domestic heating oil",2014,76.508
+BE,"domestic heating oil",2014,2167.24
+BG,"domestic heating oil",2014,1.01
+CY,"domestic heating oil",2014,58.276
+CZ,"domestic heating oil",2014,NULL
+DE,"domestic heating oil",2014,11526.642
+DK,"domestic heating oil",2014,195.952
+EE,"domestic heating oil",2014,4.041
+EL,"domestic heating oil",2014,961.522
+ES,"domestic heating oil",2014,1608.34
+FI,"domestic heating oil",2014,355.976
+FR,"domestic heating oil",2014,4784.375
+GE,"domestic heating oil",2014,NULL
+HR,"domestic heating oil",2014,69.368
+HU,"domestic heating oil",2014,NULL
+IE,"domestic heating oil",2014,257.468
+IS,"domestic heating oil",2014,2.054
+IT,"domestic heating oil",2014,1157.896
+LT,"domestic heating oil",2014,11.316
+LU,"domestic heating oil",2014,152.646
+LV,"domestic heating oil",2014,25.371
+MD,"domestic heating oil",2014,NULL
+ME,"domestic heating oil",2014,NULL
+MK,"domestic heating oil",2014,4.103
+MT,"domestic heating oil",2014,1.027
+NL,"domestic heating oil",2014,7.223
+NO,"domestic heating oil",2014,66.791
+PL,"domestic heating oil",2014,72.394
+PT,"domestic heating oil",2014,58.541
+RO,"domestic heating oil",2014,NULL
+RS,"domestic heating oil",2014,3.133
+SE,"domestic heating oil",2014,105.832
+SI,"domestic heating oil",2014,124.127
+SK,"domestic heating oil",2014,NULL
+TR,"domestic heating oil",2014,NULL
+XK,"domestic heating oil",2014,4.146
+AL,renewables/biomass,2014,160.003
+AT,renewables/biomass,2014,1623.582
+BA,renewables/biomass,2014,321.057
+BE,renewables/biomass,2014,456.898
+BG,renewables/biomass,2014,733.305
+CY,renewables/biomass,2014,4.389
+CZ,renewables/biomass,2014,1726.378
+DE,renewables/biomass,2014,5798.629
+DK,renewables/biomass,2014,835.517
+EE,renewables/biomass,2014,371.477
+EL,renewables/biomass,2014,749.976
+ES,renewables/biomass,2014,2510.318
+FI,renewables/biomass,2014,1267.269
+FR,renewables/biomass,2014,5858.735
+GE,renewables/biomass,2014,456.936
+HR,renewables/biomass,2014,1009.219
+HU,renewables/biomass,2014,1651.333
+IE,renewables/biomass,2014,26.175
+IS,renewables/biomass,2014,NULL
+IT,renewables/biomass,2014,5631.389
+LT,renewables/biomass,2014,508.288
+LU,renewables/biomass,2014,21.141
+LV,renewables/biomass,2014,565.826
+MD,renewables/biomass,2014,601.103
+ME,renewables/biomass,2014,149.924
+MK,renewables/biomass,2014,222.772
+MT,renewables/biomass,2014,1.075
+NL,renewables/biomass,2014,397.146
+NO,renewables/biomass,2014,415.425
+PL,renewables/biomass,2014,2518.63
+PT,renewables/biomass,2014,759.649
+RO,renewables/biomass,2014,3119.041
+RS,renewables/biomass,2014,851.462
+SE,renewables/biomass,2014,905.632
+SI,renewables/biomass,2014,457.175
+SK,renewables/biomass,2014,408.904
+TR,renewables/biomass,2014,3115.004
+XK,renewables/biomass,2014,230.63
+AL,"solar thermal",2014,5.374
+AT,"solar thermal",2014,117.079
+BA,"solar thermal",2014,NULL
+BE,"solar thermal",2014,20.71
+BG,"solar thermal",2014,9.434
+CY,"solar thermal",2014,56.774
+CZ,"solar thermal",2014,11.526
+DE,"solar thermal",2014,590.714
+DK,"solar thermal",2014,11.461
+EE,"solar thermal",2014,NULL
+EL,"solar thermal",2014,242.476
+ES,"solar thermal",2014,183.79
+FI,"solar thermal",2014,1.361
+FR,"solar thermal",2014,141.07
+GE,"solar thermal",2014,NULL
+HR,"solar thermal",2014,6.544
+HU,"solar thermal",2014,9.482
+IE,"solar thermal",2014,10.579
+IS,"solar thermal",2014,NULL
+IT,"solar thermal",2014,132.87
+LT,"solar thermal",2014,NULL
+LU,"solar thermal",2014,1.76
+LV,"solar thermal",2014,NULL
+MD,"solar thermal",2014,NULL
+ME,"solar thermal",2014,NULL
+MK,"solar thermal",2014,NULL
+MT,"solar thermal",2014,4.639
+NL,"solar thermal",2014,21.544
+NO,"solar thermal",2014,NULL
+PL,"solar thermal",2014,29.975
+PT,"solar thermal",2014,46.121
+RO,"solar thermal",2014,NULL
+RS,"solar thermal",2014,NULL
+SE,"solar thermal",2014,11.178
+SI,"solar thermal",2014,10.232
+SK,"solar thermal",2014,4.61
+TR,"solar thermal",2014,523.001
+XK,"solar thermal",2014,0.096
+AL,"heat pumps",2014,NULL
+AT,"heat pumps",2014,104.691
+BA,"heat pumps",2014,NULL
+BE,"heat pumps",2014,33.422
+BG,"heat pumps",2014,NULL
+CY,"heat pumps",2014,1.552
+CZ,"heat pumps",2014,75.595
+DE,"heat pumps",2014,775.652
+DK,"heat pumps",2014,117.742
+EE,"heat pumps",2014,NULL
+EL,"heat pumps",2014,NULL
+ES,"heat pumps",2014,74.14
+FI,"heat pumps",2014,NULL
+FR,"heat pumps",2014,1447.543
+GE,"heat pumps",2014,NULL
+HR,"heat pumps",2014,12.403
+HU,"heat pumps",2014,NULL
+IE,"heat pumps",2014,14.36
+IS,"heat pumps",2014,NULL
+IT,"heat pumps",2014,NULL
+LT,"heat pumps",2014,NULL
+LU,"heat pumps",2014,1.022
+LV,"heat pumps",2014,NULL
+MD,"heat pumps",2014,NULL
+ME,"heat pumps",2014,NULL
+MK,"heat pumps",2014,NULL
+MT,"heat pumps",2014,NULL
+NL,"heat pumps",2014,36.316
+NO,"heat pumps",2014,385.631
+PL,"heat pumps",2014,97.151
+PT,"heat pumps",2014,211.258
+RO,"heat pumps",2014,NULL
+RS,"heat pumps",2014,NULL
+SE,"heat pumps",2014,NULL
+SI,"heat pumps",2014,20.066
+SK,"heat pumps",2014,NULL
+TR,"heat pumps",2014,NULL
+XK,"heat pumps",2014,NULL
+AL,TOTAL,2014,556.243
+AT,TOTAL,2014,6239.87
+BA,TOTAL,2014,980.816
+BE,TOTAL,2014,7442.63
+BG,TOTAL,2014,2164.991
+CY,TOTAL,2014,292.183
+CZ,TOTAL,2014,6554.173
+DE,TOTAL,2014,53648.149
+DK,TOTAL,2014,4143.762
+EE,TOTAL,2014,888.143
+EL,TOTAL,2014,3844.875
+ES,TOTAL,2014,14787.31
+FI,TOTAL,2014,5126.2
+FR,TOTAL,2014,38260.942
+GE,TOTAL,2014,1194.979
+HR,TOTAL,2014,2228.532
+HU,TOTAL,2014,5487.452
+IE,TOTAL,2014,2671.878
+IS,TOTAL,2014,384.692
+IT,TOTAL,2014,29545.98
+LT,TOTAL,2014,1400.9
+LU,TOTAL,2014,468.025
+LV,TOTAL,2014,1238.471
+MD,TOTAL,2014,1169.757
+ME,TOTAL,2014,256.273
+MK,TOTAL,2014,523.579
+MT,TOTAL,2014,73.904
+NL,TOTAL,2014,9116.954
+NO,TOTAL,2014,4188.006
+PL,TOTAL,2014,19034.846
+PT,TOTAL,2014,2776.692
+RO,TOTAL,2014,7409.681
+RS,TOTAL,2014,2752.802
+SE,TOTAL,2014,7229.333
+SI,TOTAL,2014,1060.348
+SK,TOTAL,2014,2325.037
+TR,TOTAL,2014,19166.344
+XK,TOTAL,2014,479.943
+AL,coal,2015,NULL
+AT,coal,2015,21.283
+BA,coal,2015,55.122
+BE,coal,2015,75.707
+BG,coal,2015,133.448
+CY,coal,2015,NULL
+CZ,coal,2015,830.505
+DE,coal,2015,600.785
+DK,coal,2015,NULL
+EE,coal,2015,2.594
+EL,coal,2015,4.663
+ES,coal,2015,88.588
+FI,coal,2015,NULL
+FR,coal,2015,36.374
+GE,coal,2015,0.406
+HR,coal,2015,3.129
+HU,coal,2015,94.677
+IE,coal,2015,233.621
+IS,coal,2015,NULL
+IT,coal,2015,NULL
+LT,coal,2015,34.799
+LU,coal,2015,0.616
+LV,coal,2015,11.993
+MD,coal,2015,38.693
+ME,coal,2015,3.3
+MK,coal,2015,1.002
+MT,coal,2015,NULL
+NL,coal,2015,0.542
+NO,coal,2015,NULL
+PL,coal,2015,6211.262
+PT,coal,2015,NULL
+RO,coal,2015,80.123
+RS,coal,2015,156.119
+SE,coal,2015,NULL
+SI,coal,2015,NULL
+SK,coal,2015,17.878
+TR,coal,2015,1968.284
+XK,coal,2015,10.063
+AL,electricity,2015,274.377
+AT,electricity,2015,1480.249
+BA,electricity,2015,406.363
+BE,electricity,2015,1561.281
+BG,electricity,2015,915.219
+CY,electricity,2015,130.267
+CZ,electricity,2015,1236.629
+DE,electricity,2015,11066.208
+DK,electricity,2015,875.035
+EE,electricity,2015,148.581
+EL,electricity,2015,1507.997
+ES,electricity,2015,6024.85
+FI,electricity,2015,1798.624
+FR,electricity,2015,13525.513
+GE,electricity,2015,211.694
+HR,electricity,2015,533.276
+HU,electricity,2015,931.986
+IE,electricity,2015,677.623
+IS,electricity,2015,70.699
+IT,electricity,2015,5691.058
+LT,electricity,2015,228.719
+LU,electricity,2015,85.063
+LV,electricity,2015,151.247
+MD,electricity,2015,143.594
+ME,electricity,2015,106.879
+MK,electricity,2015,270.163
+MT,electricity,2015,56.406
+NL,electricity,2015,1907.304
+NO,electricity,2015,3316.415
+PL,electricity,2015,2431.642
+PT,electricity,2015,1029.579
+RO,electricity,2015,1039.983
+RS,electricity,2015,1209.114
+SE,electricity,2015,3696.217
+SI,electricity,2015,275.58
+SK,electricity,2015,432.932
+TR,electricity,2015,4118.745
+XK,electricity,2015,203.525
+AL,"natural gas",2015,NULL
+AT,"natural gas",2015,1357.578
+BA,"natural gas",2015,33.169
+BE,"natural gas",2015,3211.42
+BG,"natural gas",2015,51.763
+CY,"natural gas",2015,NULL
+CZ,"natural gas",2015,1789.402
+DE,"natural gas",2015,19738.844
+DK,"natural gas",2015,598.165
+EE,"natural gas",2015,49.312
+EL,"natural gas",2015,355.694
+ES,"natural gas",2015,3318.02
+FI,"natural gas",2015,25.365
+FR,"natural gas",2015,11673.43
+GE,"natural gas",2015,573.824
+HR,"natural gas",2015,446.26
+HU,"natural gas",2015,2625.838
+IE,"natural gas",2015,553.989
+IS,"natural gas",2015,NULL
+IT,"natural gas",2015,16985.555
+LT,"natural gas",2015,122.678
+LU,"natural gas",2015,221.364
+LV,"natural gas",2015,98.087
+MD,"natural gas",2015,202.945
+ME,"natural gas",2015,NULL
+MK,"natural gas",2015,0.064
+MT,"natural gas",2015,NULL
+NL,"natural gas",2015,6813.968
+NO,"natural gas",2015,3.36
+PL,"natural gas",2015,3157.719
+PT,"natural gas",2015,262.889
+RO,"natural gas",2015,2242.82
+RS,"natural gas",2015,151.14
+SE,"natural gas",2015,27.365
+SI,"natural gas",2015,103.482
+SK,"natural gas",2015,1050.537
+TR,"natural gas",2015,9056.621
+XK,"natural gas",2015,NULL
+AL,"district heating",2015,NULL
+AT,"district heating",2015,751.797
+BA,"district heating",2015,96.135
+BE,"district heating",2015,7.636
+BG,"district heating",2015,332.665
+CY,"district heating",2015,NULL
+CZ,"district heating",2015,1016.17
+DE,"district heating",2015,4070.03
+DK,"district heating",2015,1620.089
+EE,"district heating",2015,283.486
+EL,"district heating",2015,49.99
+ES,"district heating",2015,NULL
+FI,"district heating",2015,1545.691
+FR,"district heating",2015,1154.738
+GE,"district heating",2015,NULL
+HR,"district heating",2015,119.59
+HU,"district heating",2015,468.162
+IE,"district heating",2015,NULL
+IS,"district heating",2015,305.675
+IT,"district heating",2015,908.403
+LT,"district heating",2015,429.732
+LU,"district heating",2015,NULL
+LV,"district heating",2015,336.797
+MD,"district heating",2015,117.87
+ME,"district heating",2015,NULL
+MK,"district heating",2015,31.981
+MT,"district heating",2015,NULL
+NL,"district heating",2015,288.478
+NO,"district heating",2015,89.174
+PL,"district heating",2015,3881.246
+PT,"district heating",2015,0.86
+RO,"district heating",2015,801.543
+RS,"district heating",2015,401.572
+SE,"district heating",2015,2472.222
+SI,"district heating",2015,76.693
+SK,"district heating",2015,452.876
+TR,"district heating",2015,NULL
+XK,"district heating",2015,6.162
+AL,"heating oil",2015,91.53
+AT,"heating oil",2015,26.477
+BA,"heating oil",2015,7.84
+BE,"heating oil",2015,118.659
+BG,"heating oil",2015,34.059
+CY,"heating oil",2015,38.411
+CZ,"heating oil",2015,44.984
+DE,"heating oil",2015,587.283
+DK,"heating oil",2015,17.917
+EE,"heating oil",2015,5.434
+EL,"heating oil",2015,79.106
+ES,"heating oil",2015,1076.643
+FI,"heating oil",2015,5.529
+FR,"heating oil",2015,929.442
+GE,"heating oil",2015,19.776
+HR,"heating oil",2015,53.758
+HU,"heating oil",2015,72.967
+IE,"heating oil",2015,36.511
+IS,"heating oil",2015,2.245
+IT,"heating oil",2015,1085.507
+LT,"heating oil",2015,31.689
+LU,"heating oil",2015,0.474
+LV,"heating oil",2015,18.491
+MD,"heating oil",2015,66.019
+ME,"heating oil",2015,1.12
+MK,"heating oil",2015,6.707
+MT,"heating oil",2015,16.48
+NL,"heating oil",2015,23.214
+NO,"heating oil",2015,1.101
+PL,"heating oil",2015,510.891
+PT,"heating oil",2015,379.048
+RO,"heating oil",2015,239.139
+RS,"heating oil",2015,61.02
+SE,"heating oil",2015,4.101
+SI,"heating oil",2015,32.997
+SK,"heating oil",2015,4.395
+TR,"heating oil",2015,272.398
+XK,"heating oil",2015,7.694
+AL,"other petroleum products",2015,NULL
+AT,"other petroleum products",2015,NULL
+BA,"other petroleum products",2015,NULL
+BE,"other petroleum products",2015,31.838
+BG,"other petroleum products",2015,NULL
+CY,"other petroleum products",2015,14.646
+CZ,"other petroleum products",2015,NULL
+DE,"other petroleum products",2015,3.067
+DK,"other petroleum products",2015,0.221
+EE,"other petroleum products",2015,NULL
+EL,"other petroleum products",2015,4.108
+ES,"other petroleum products",2015,NULL
+FI,"other petroleum products",2015,NULL
+FR,"other petroleum products",2015,161.117
+GE,"other petroleum products",2015,NULL
+HR,"other petroleum products",2015,NULL
+HU,"other petroleum products",2015,NULL
+IE,"other petroleum products",2015,800.232
+IS,"other petroleum products",2015,NULL
+IT,"other petroleum products",2015,1.027
+LT,"other petroleum products",2015,NULL
+LU,"other petroleum products",2015,0.866
+LV,"other petroleum products",2015,NULL
+MD,"other petroleum products",2015,NULL
+ME,"other petroleum products",2015,NULL
+MK,"other petroleum products",2015,NULL
+MT,"other petroleum products",2015,NULL
+NL,"other petroleum products",2015,6.12
+NO,"other petroleum products",2015,25.736
+PL,"other petroleum products",2015,NULL
+PT,"other petroleum products",2015,NULL
+RO,"other petroleum products",2015,1.026
+RS,"other petroleum products",2015,NULL
+SE,"other petroleum products",2015,NULL
+SI,"other petroleum products",2015,NULL
+SK,"other petroleum products",2015,NULL
+TR,"other petroleum products",2015,45.295
+XK,"other petroleum products",2015,NULL
+AL,"domestic heating oil",2015,NULL
+AT,"domestic heating oil",2015,994.496
+BA,"domestic heating oil",2015,70.388
+BE,"domestic heating oil",2015,2565.076
+BG,"domestic heating oil",2015,NULL
+CY,"domestic heating oil",2015,66.669
+CZ,"domestic heating oil",2015,NULL
+DE,"domestic heating oil",2015,11030.73
+DK,"domestic heating oil",2015,201.035
+EE,"domestic heating oil",2015,4.041
+EL,"domestic heating oil",2015,1380.725
+ES,"domestic heating oil",2015,1941.101
+FI,"domestic heating oil",2015,315.326
+FR,"domestic heating oil",2015,4979.652
+GE,"domestic heating oil",2015,NULL
+HR,"domestic heating oil",2015,86.709
+HU,"domestic heating oil",2015,NULL
+IE,"domestic heating oil",2015,240.268
+IS,"domestic heating oil",2015,1.027
+IT,"domestic heating oil",2015,1287.117
+LT,"domestic heating oil",2015,9.213
+LU,"domestic heating oil",2015,174.761
+LV,"domestic heating oil",2015,25.371
+MD,"domestic heating oil",2015,NULL
+ME,"domestic heating oil",2015,NULL
+MK,"domestic heating oil",2015,4.103
+MT,"domestic heating oil",2015,1.027
+NL,"domestic heating oil",2015,7.276
+NO,"domestic heating oil",2015,62.314
+PL,"domestic heating oil",2015,76.001
+PT,"domestic heating oil",2015,54.433
+RO,"domestic heating oil",2015,NULL
+RS,"domestic heating oil",2015,NULL
+SE,"domestic heating oil",2015,106.317
+SI,"domestic heating oil",2015,121.078
+SK,"domestic heating oil",2015,NULL
+TR,"domestic heating oil",2015,NULL
+XK,"domestic heating oil",2015,7.256
+AL,renewables/biomass,2015,160.003
+AT,renewables/biomass,2015,1726.856
+BA,renewables/biomass,2015,432.741
+BE,renewables/biomass,2015,541.614
+BG,renewables/biomass,2015,716.108
+CY,renewables/biomass,2015,10.462
+CZ,renewables/biomass,2015,1753.081
+DE,renewables/biomass,2015,5800.373
+DK,renewables/biomass,2015,967.766
+EE,renewables/biomass,2015,361.445
+EL,renewables/biomass,2015,784.155
+ES,renewables/biomass,2015,2489.777
+FI,renewables/biomass,2015,1195.113
+FR,renewables/biomass,2015,6273.895
+GE,renewables/biomass,2015,390.561
+HR,renewables/biomass,2015,1157.113
+HU,renewables/biomass,2015,1764.737
+IE,renewables/biomass,2015,33.718
+IS,renewables/biomass,2015,NULL
+IT,renewables/biomass,2015,6351.533
+LT,renewables/biomass,2015,490.661
+LU,renewables/biomass,2015,22.428
+LV,renewables/biomass,2015,456.912
+MD,renewables/biomass,2015,610.824
+ME,renewables/biomass,2015,153.387
+MK,renewables/biomass,2015,217.039
+MT,renewables/biomass,2015,1.146
+NL,renewables/biomass,2015,393.523
+NO,renewables/biomass,2015,443.8
+PL,renewables/biomass,2015,2588.97
+PT,renewables/biomass,2015,755.708
+RO,renewables/biomass,2015,2950.941
+RS,renewables/biomass,2015,847.186
+SE,renewables/biomass,2015,913.06
+SI,renewables/biomass,2015,524.601
+SK,renewables/biomass,2015,610.012
+TR,renewables/biomass,2015,2804.003
+XK,renewables/biomass,2015,241.593
+AL,"solar thermal",2015,6.377
+AT,"solar thermal",2015,127.428
+BA,"solar thermal",2015,NULL
+BE,"solar thermal",2015,22.635
+BG,"solar thermal",2015,9.649
+CY,"solar thermal",2015,57.681
+CZ,"solar thermal",2015,12.335
+DE,"solar thermal",2015,632.512
+DK,"solar thermal",2015,11.79
+EE,"solar thermal",2015,NULL
+EL,"solar thermal",2015,248.28
+ES,"solar thermal",2015,197.627
+FI,"solar thermal",2015,1.481
+FR,"solar thermal",2015,154.086
+GE,"solar thermal",2015,NULL
+HR,"solar thermal",2015,7.285
+HU,"solar thermal",2015,10.485
+IE,"solar thermal",2015,11.264
+IS,"solar thermal",2015,NULL
+IT,"solar thermal",2015,140.537
+LT,"solar thermal",2015,NULL
+LU,"solar thermal",2015,1.909
+LV,"solar thermal",2015,NULL
+MD,"solar thermal",2015,NULL
+ME,"solar thermal",2015,NULL
+MK,"solar thermal",2015,NULL
+MT,"solar thermal",2015,4.806
+NL,"solar thermal",2015,21.735
+NO,"solar thermal",2015,NULL
+PL,"solar thermal",2015,39.529
+PT,"solar thermal",2015,48.151
+RO,"solar thermal",2015,NULL
+RS,"solar thermal",2015,NULL
+SE,"solar thermal",2015,11.274
+SI,"solar thermal",2015,10.367
+SK,"solar thermal",2015,4.657
+TR,"solar thermal",2015,544.545
+XK,"solar thermal",2015,0.096
+AL,"heat pumps",2015,NULL
+AT,"heat pumps",2015,136.798
+BA,"heat pumps",2015,NULL
+BE,"heat pumps",2015,41.617
+BG,"heat pumps",2015,NULL
+CY,"heat pumps",2015,1.552
+CZ,"heat pumps",2015,86.404
+DE,"heat pumps",2015,844.511
+DK,"heat pumps",2015,131.932
+EE,"heat pumps",2015,NULL
+EL,"heat pumps",2015,NULL
+ES,"heat pumps",2015,90.314
+FI,"heat pumps",2015,NULL
+FR,"heat pumps",2015,1710.848
+GE,"heat pumps",2015,NULL
+HR,"heat pumps",2015,14.842
+HU,"heat pumps",2015,NULL
+IE,"heat pumps",2015,16.845
+IS,"heat pumps",2015,NULL
+IT,"heat pumps",2015,NULL
+LT,"heat pumps",2015,NULL
+LU,"heat pumps",2015,1.465
+LV,"heat pumps",2015,NULL
+MD,"heat pumps",2015,NULL
+ME,"heat pumps",2015,NULL
+MK,"heat pumps",2015,NULL
+MT,"heat pumps",2015,NULL
+NL,"heat pumps",2015,40.369
+NO,"heat pumps",2015,405.73
+PL,"heat pumps",2015,119.039
+PT,"heat pumps",2015,213.329
+RO,"heat pumps",2015,NULL
+RS,"heat pumps",2015,NULL
+SE,"heat pumps",2015,NULL
+SI,"heat pumps",2015,27.677
+SK,"heat pumps",2015,NULL
+TR,"heat pumps",2015,NULL
+XK,"heat pumps",2015,NULL
+AL,TOTAL,2015,532.287
+AT,TOTAL,2015,6631.937
+BA,TOTAL,2015,1113.03
+BE,TOTAL,2015,8229.602
+BG,TOTAL,2015,2192.912
+CY,TOTAL,2015,323.916
+CZ,TOTAL,2015,6769.51
+DE,TOTAL,2015,54959.824
+DK,TOTAL,2015,4445.518
+EE,TOTAL,2015,857.435
+EL,TOTAL,2015,4460.625
+ES,TOTAL,2015,15269.842
+FI,TOTAL,2015,4950.975
+FR,TOTAL,2015,40692.404
+GE,TOTAL,2015,1201.348
+HR,TOTAL,2015,2429.916
+HU,TOTAL,2015,5969.813
+IE,TOTAL,2015,2829.165
+IS,TOTAL,2015,392.234
+IT,TOTAL,2015,32494.483
+LT,TOTAL,2015,1359.131
+LU,TOTAL,2015,508.946
+LV,TOTAL,2015,1105.582
+MD,TOTAL,2015,1179.946
+ME,TOTAL,2015,265.421
+MK,TOTAL,2015,531.06
+MT,TOTAL,2015,79.865
+NL,TOTAL,2015,9534.29
+NO,TOTAL,2015,4352.562
+PL,TOTAL,2015,19032.461
+PT,TOTAL,2015,2751.749
+RO,TOTAL,2015,7375.183
+RS,TOTAL,2015,2826.152
+SE,TOTAL,2015,7411.176
+SI,TOTAL,2015,1172.476
+SK,TOTAL,2015,2573.288
+TR,TOTAL,2015,20153.33
+XK,TOTAL,2015,476.388
+AL,coal,2016,NULL
+AT,coal,2016,20.544
+BA,coal,2016,73.537
+BE,coal,2016,73.261
+BG,coal,2016,150.582
+CY,coal,2016,NULL
+CZ,coal,2016,820.004
+DE,coal,2016,519.58
+DK,coal,2016,0.02
+EE,coal,2016,1.945
+EL,coal,2016,1.947
+ES,coal,2016,79.063
+FI,coal,2016,NULL
+FR,coal,2016,37.776
+GE,coal,2016,0.812
+HR,coal,2016,2.944
+HU,coal,2016,120.56
+IE,coal,2016,242.135
+IS,coal,2016,NULL
+IT,coal,2016,NULL
+LT,coal,2016,36.541
+LU,coal,2016,0.587
+LV,coal,2016,11.897
+MD,coal,2016,28.989
+ME,coal,2016,4.53
+MK,coal,2016,0.911
+MT,coal,2016,NULL
+NL,coal,2016,1.078
+NO,coal,2016,NULL
+PL,coal,2016,6585.721
+PT,coal,2016,NULL
+RO,coal,2016,56.401
+RS,coal,2016,215.643
+SE,coal,2016,NULL
+SI,coal,2016,NULL
+SK,coal,2016,29.594
+TR,coal,2016,2052.774
+XK,coal,2016,8.758
+AL,electricity,2016,257.18
+AT,electricity,2016,1533.864
+BA,electricity,2016,406.965
+BE,electricity,2016,1549.175
+BG,electricity,2016,922.872
+CY,electricity,2016,136.285
+CZ,electricity,2016,1284.179
+DE,electricity,2016,11023.216
+DK,electricity,2016,883.099
+EE,electricity,2016,164.488
+EL,electricity,2016,1719.433
+ES,electricity,2016,5988.65
+FI,electricity,2016,1936.199
+FR,electricity,2016,14024.428
+GE,electricity,2016,208.34
+HR,electricity,2016,526.913
+HU,electricity,2016,941.874
+IE,electricity,2016,676.934
+IS,electricity,2016,72.099
+IT,electricity,2016,5529.149
+LT,electricity,2016,238.607
+LU,electricity,2016,83.902
+LV,electricity,2016,154.17
+MD,electricity,2016,140.499
+ME,electricity,2016,107.567
+MK,electricity,2016,262.894
+MT,electricity,2016,57.261
+NL,electricity,2016,1890.683
+NO,electricity,2016,3425.891
+PL,electricity,2016,2485.727
+PT,electricity,2016,1115.45
+RO,electricity,2016,1037.575
+RS,electricity,2016,1197.85
+SE,electricity,2016,3827.945
+SI,electricity,2016,280.31
+SK,electricity,2016,438.263
+TR,electricity,2016,4402.752
+XK,electricity,2016,181.857
+AL,"natural gas",2016,NULL
+AT,"natural gas",2016,1500.408
+BA,"natural gas",2016,34.544
+BE,"natural gas",2016,3394.755
+BG,"natural gas",2016,58.899
+CY,"natural gas",2016,NULL
+CZ,"natural gas",2016,1993.686
+DE,"natural gas",2016,22092.35
+DK,"natural gas",2016,639.619
+EE,"natural gas",2016,57.868
+EL,"natural gas",2016,329.084
+ES,"natural gas",2016,3335.066
+FI,"natural gas",2016,26.226
+FR,"natural gas",2016,12630.385
+GE,"natural gas",2016,652.918
+HR,"natural gas",2016,466.082
+HU,"natural gas",2016,2813.435
+IE,"natural gas",2016,561.849
+IS,"natural gas",2016,NULL
+IT,"natural gas",2016,17097.463
+LT,"natural gas",2016,145.464
+LU,"natural gas",2016,235.478
+LV,"natural gas",2016,106.362
+MD,"natural gas",2016,212.79
+ME,"natural gas",2016,NULL
+MK,"natural gas",2016,0.086
+MT,"natural gas",2016,NULL
+NL,"natural gas",2016,7099.801
+NO,"natural gas",2016,3.608
+PL,"natural gas",2016,3466.693
+PT,"natural gas",2016,243.84
+RO,"natural gas",2016,2287.661
+RS,"natural gas",2016,167.735
+SE,"natural gas",2016,30.224
+SI,"natural gas",2016,114.961
+SK,"natural gas",2016,1067.949
+TR,"natural gas",2016,9567.068
+XK,"natural gas",2016,NULL
+AL,"district heating",2016,NULL
+AT,"district heating",2016,788.713
+BA,"district heating",2016,95.323
+BE,"district heating",2016,12.033
+BG,"district heating",2016,324.615
+CY,"district heating",2016,NULL
+CZ,"district heating",2016,1056.965
+DE,"district heating",2016,4419.7
+DK,"district heating",2016,1664.023
+EE,"district heating",2016,311.861
+EL,"district heating",2016,39.744
+ES,"district heating",2016,NULL
+FI,"district heating",2016,1684.795
+FR,"district heating",2016,1261.535
+GE,"district heating",2016,NULL
+HR,"district heating",2016,119.208
+HU,"district heating",2016,491.019
+IE,"district heating",2016,NULL
+IS,"district heating",2016,336.586
+IT,"district heating",2016,946.666
+LT,"district heating",2016,466.347
+LU,"district heating",2016,NULL
+LV,"district heating",2016,369.471
+MD,"district heating",2016,122.934
+ME,"district heating",2016,NULL
+MK,"district heating",2016,32.686
+MT,"district heating",2016,NULL
+NL,"district heating",2016,293.175
+NO,"district heating",2016,104.184
+PL,"district heating",2016,3893.188
+PT,"district heating",2016,0.86
+RO,"district heating",2016,803.979
+RS,"district heating",2016,404.342
+SE,"district heating",2016,2606.286
+SI,"district heating",2016,82.044
+SK,"district heating",2016,448.433
+TR,"district heating",2016,NULL
+XK,"district heating",2016,8.766
+AL,"heating oil",2016,96.05
+AT,"heating oil",2016,26.479
+BA,"heating oil",2016,8.96
+BE,"heating oil",2016,129.646
+BG,"heating oil",2016,27.467
+CY,"heating oil",2016,39.541
+CZ,"heating oil",2016,44.984
+DE,"heating oil",2016,754.114
+DK,"heating oil",2016,19.749
+EE,"heating oil",2016,7.607
+EL,"heating oil",2016,76.908
+ES,"heating oil",2016,1110.535
+FI,"heating oil",2016,4.423
+FR,"heating oil",2016,922.015
+GE,"heating oil",2016,17.579
+HR,"heating oil",2016,54.877
+HU,"heating oil",2016,59.536
+IE,"heating oil",2016,48.276
+IS,"heating oil",2016,1.083
+IT,"heating oil",2016,1118.468
+LT,"heating oil",2016,33.874
+LU,"heating oil",2016,0.463
+LV,"heating oil",2016,18.491
+MD,"heating oil",2016,69.314
+ME,"heating oil",2016,1.12
+MK,"heating oil",2016,7.655
+MT,"heating oil",2016,14.283
+NL,"heating oil",2016,23.214
+NO,"heating oil",2016,1.101
+PL,"heating oil",2016,516.385
+PT,"heating oil",2016,374.654
+RO,"heating oil",2016,242.589
+RS,"heating oil",2016,65.54
+SE,"heating oil",2016,4.429
+SI,"heating oil",2016,31.897
+SK,"heating oil",2016,8.79
+TR,"heating oil",2016,232.622
+XK,"heating oil",2016,7.694
+AL,"other petroleum products",2016,NULL
+AT,"other petroleum products",2016,NULL
+BA,"other petroleum products",2016,NULL
+BE,"other petroleum products",2016,30.606
+BG,"other petroleum products",2016,NULL
+CY,"other petroleum products",2016,14.646
+CZ,"other petroleum products",2016,NULL
+DE,"other petroleum products",2016,6.134
+DK,"other petroleum products",2016,0.028
+EE,"other petroleum products",2016,NULL
+EL,"other petroleum products",2016,3.081
+ES,"other petroleum products",2016,NULL
+FI,"other petroleum products",2016,NULL
+FR,"other petroleum products",2016,176.132
+GE,"other petroleum products",2016,NULL
+HR,"other petroleum products",2016,NULL
+HU,"other petroleum products",2016,NULL
+IE,"other petroleum products",2016,846.434
+IS,"other petroleum products",2016,NULL
+IT,"other petroleum products",2016,2.054
+LT,"other petroleum products",2016,NULL
+LU,"other petroleum products",2016,0.506
+LV,"other petroleum products",2016,NULL
+MD,"other petroleum products",2016,NULL
+ME,"other petroleum products",2016,NULL
+MK,"other petroleum products",2016,NULL
+MT,"other petroleum products",2016,NULL
+NL,"other petroleum products",2016,5.99
+NO,"other petroleum products",2016,25.736
+PL,"other petroleum products",2016,NULL
+PT,"other petroleum products",2016,NULL
+RO,"other petroleum products",2016,1.026
+RS,"other petroleum products",2016,NULL
+SE,"other petroleum products",2016,NULL
+SI,"other petroleum products",2016,NULL
+SK,"other petroleum products",2016,NULL
+TR,"other petroleum products",2016,15.764
+XK,"other petroleum products",2016,NULL
+AL,"domestic heating oil",2016,NULL
+AT,"domestic heating oil",2016,988.64
+BA,"domestic heating oil",2016,75.488
+BE,"domestic heating oil",2016,2325.967
+BG,"domestic heating oil",2016,NULL
+CY,"domestic heating oil",2016,66.636
+CZ,"domestic heating oil",2016,NULL
+DE,"domestic heating oil",2016,10666.381
+DK,"domestic heating oil",2016,192.848
+EE,"domestic heating oil",2016,3.031
+EL,"domestic heating oil",2016,1186.386
+ES,"domestic heating oil",2016,1659.692
+FI,"domestic heating oil",2016,327.388
+FR,"domestic heating oil",2016,4930.735
+GE,"domestic heating oil",2016,NULL
+HR,"domestic heating oil",2016,85.689
+HU,"domestic heating oil",2016,NULL
+IE,"domestic heating oil",2016,257.823
+IS,"domestic heating oil",2016,0.922
+IT,"domestic heating oil",2016,1168.071
+LT,"domestic heating oil",2016,14.332
+LU,"domestic heating oil",2016,174.995
+LV,"domestic heating oil",2016,27.401
+MD,"domestic heating oil",2016,NULL
+ME,"domestic heating oil",2016,NULL
+MK,"domestic heating oil",2016,3.859
+MT,"domestic heating oil",2016,NULL
+NL,"domestic heating oil",2016,7.269
+NO,"domestic heating oil",2016,69.431
+PL,"domestic heating oil",2016,71.893
+PT,"domestic heating oil",2016,55.46
+RO,"domestic heating oil",2016,NULL
+RS,"domestic heating oil",2016,NULL
+SE,"domestic heating oil",2016,79.426
+SI,"domestic heating oil",2016,111.921
+SK,"domestic heating oil",2016,NULL
+TR,"domestic heating oil",2016,NULL
+XK,"domestic heating oil",2016,4.146
+AL,renewables/biomass,2016,136.62
+AT,renewables/biomass,2016,1774.505
+BA,renewables/biomass,2016,432.645
+BE,renewables/biomass,2016,606.716
+BG,renewables/biomass,2016,758.025
+CY,renewables/biomass,2016,10.731
+CZ,renewables/biomass,2016,1776.894
+DE,renewables/biomass,2016,5344.941
+DK,renewables/biomass,2016,1021.505
+EE,renewables/biomass,2016,383.778
+EL,renewables/biomass,2016,681.021
+ES,renewables/biomass,2016,1806.606
+FI,renewables/biomass,2016,1300.396
+FR,renewables/biomass,2016,6818.686
+GE,renewables/biomass,2016,380.577
+HR,renewables/biomass,2016,1123.03
+HU,renewables/biomass,2016,1719.117
+IE,renewables/biomass,2016,34.418
+IS,renewables/biomass,2016,NULL
+IT,renewables/biomass,2016,6129.192
+LT,renewables/biomass,2016,483.902
+LU,renewables/biomass,2016,25.259
+LV,renewables/biomass,2016,449.006
+MD,renewables/biomass,2016,659.143
+ME,renewables/biomass,2016,150.664
+MK,renewables/biomass,2016,183.522
+MT,renewables/biomass,2016,1.087
+NL,renewables/biomass,2016,389.881
+NO,renewables/biomass,2016,424.883
+PL,renewables/biomass,2016,2661.579
+PT,renewables/biomass,2016,757.213
+RO,renewables/biomass,2016,2974.754
+RS,renewables/biomass,2016,873.125
+SE,renewables/biomass,2016,912.129
+SI,renewables/biomass,2016,530.501
+SK,renewables/biomass,2016,690.981
+TR,renewables/biomass,2016,2588.994
+XK,renewables/biomass,2016,337.035
+AL,"solar thermal",2016,6.5
+AT,"solar thermal",2016,131.121
+BA,"solar thermal",2016,NULL
+BE,"solar thermal",2016,21.596
+BG,"solar thermal",2016,9.649
+CY,"solar thermal",2016,58.613
+CZ,"solar thermal",2016,13.021
+DE,"solar thermal",2016,631.962
+DK,"solar thermal",2016,11.955
+EE,"solar thermal",2016,NULL
+EL,"solar thermal",2016,253.201
+ES,"solar thermal",2016,213.283
+FI,"solar thermal",2016,1.648
+FR,"solar thermal",2016,164.004
+GE,"solar thermal",2016,NULL
+HR,"solar thermal",2016,8.097
+HU,"solar thermal",2016,10.963
+IE,"solar thermal",2016,11.926
+IS,"solar thermal",2016,NULL
+IT,"solar thermal",2016,148.061
+LT,"solar thermal",2016,NULL
+LU,"solar thermal",2016,2.059
+LV,"solar thermal",2016,NULL
+MD,"solar thermal",2016,NULL
+ME,"solar thermal",2016,NULL
+MK,"solar thermal",2016,NULL
+MT,"solar thermal",2016,4.944
+NL,"solar thermal",2016,21.926
+NO,"solar thermal",2016,NULL
+PL,"solar thermal",2016,46.408
+PT,"solar thermal",2016,50.373
+RO,"solar thermal",2016,NULL
+RS,"solar thermal",2016,NULL
+SE,"solar thermal",2016,11.178
+SI,"solar thermal",2016,10.494
+SK,"solar thermal",2016,4.681
+TR,"solar thermal",2016,539.004
+XK,"solar thermal",2016,0.096
+AL,"heat pumps",2016,NULL
+AT,"heat pumps",2016,144.797
+BA,"heat pumps",2016,NULL
+BE,"heat pumps",2016,53.707
+BG,"heat pumps",2016,NULL
+CY,"heat pumps",2016,1.552
+CZ,"heat pumps",2016,100.439
+DE,"heat pumps",2016,913.156
+DK,"heat pumps",2016,148.098
+EE,"heat pumps",2016,NULL
+EL,"heat pumps",2016,NULL
+ES,"heat pumps",2016,107.194
+FI,"heat pumps",2016,NULL
+FR,"heat pumps",2016,2054.456
+GE,"heat pumps",2016,NULL
+HR,"heat pumps",2016,15.707
+HU,"heat pumps",2016,NULL
+IE,"heat pumps",2016,20.009
+IS,"heat pumps",2016,NULL
+IT,"heat pumps",2016,NULL
+LT,"heat pumps",2016,NULL
+LU,"heat pumps",2016,1.93
+LV,"heat pumps",2016,NULL
+MD,"heat pumps",2016,NULL
+ME,"heat pumps",2016,NULL
+MK,"heat pumps",2016,NULL
+MT,"heat pumps",2016,NULL
+NL,"heat pumps",2016,48.557
+NO,"heat pumps",2016,426.614
+PL,"heat pumps",2016,141.871
+PT,"heat pumps",2016,214.588
+RO,"heat pumps",2016,NULL
+RS,"heat pumps",2016,NULL
+SE,"heat pumps",2016,NULL
+SI,"heat pumps",2016,34.198
+SK,"heat pumps",2016,NULL
+TR,"heat pumps",2016,NULL
+XK,"heat pumps",2016,NULL
+AL,TOTAL,2016,496.35
+AT,TOTAL,2016,6919.098
+BA,TOTAL,2016,1139.361
+BE,TOTAL,2016,8255.911
+BG,TOTAL,2016,2252.111
+CY,TOTAL,2016,333.642
+CZ,TOTAL,2016,7090.172
+DE,TOTAL,2016,56963.58
+DK,TOTAL,2016,4601.363
+EE,TOTAL,2016,930.578
+EL,TOTAL,2016,4337.452
+ES,TOTAL,2016,14331.695
+FI,TOTAL,2016,5342.235
+FR,TOTAL,2016,43102.268
+GE,TOTAL,2016,1266.269
+HR,TOTAL,2016,2409.158
+HU,TOTAL,2016,6156.505
+IE,TOTAL,2016,2918.087
+IS,TOTAL,2016,423.296
+IT,TOTAL,2016,32185.101
+LT,TOTAL,2016,1433.211
+LU,TOTAL,2016,525.178
+LV,TOTAL,2016,1143.483
+MD,TOTAL,2016,1233.669
+ME,TOTAL,2016,264.617
+MK,TOTAL,2016,491.613
+MT,TOTAL,2016,77.575
+NL,TOTAL,2016,9812.913
+NO,TOTAL,2016,4485.674
+PL,TOTAL,2016,19886.302
+PT,TOTAL,2016,2819.484
+RO,TOTAL,2016,7414.92
+RS,TOTAL,2016,2924.237
+SE,TOTAL,2016,7659.147
+SI,TOTAL,2016,1196.324
+SK,TOTAL,2016,2688.692
+TR,TOTAL,2016,20710.961
+XK,TOTAL,2016,549.413
+AL,coal,2017,NULL
+AT,coal,2017,22.476
+BA,coal,2017,104.375
+BE,coal,2017,70.273
+BG,coal,2017,158.671
+CY,coal,2017,NULL
+CZ,coal,2017,837.64
+DE,coal,2017,500.376
+DK,coal,2017,NULL
+EE,coal,2017,2.102
+EL,coal,2017,4.424
+ES,coal,2017,79.322
+FI,coal,2017,NULL
+FR,coal,2017,35.595
+GE,coal,2017,0.538
+HR,coal,2017,3.635
+HU,coal,2017,141.646
+IE,coal,2017,177.825
+IS,coal,2017,NULL
+IT,coal,2017,NULL
+LT,coal,2017,41.801
+LU,coal,2017,0.381
+LV,coal,2017,9.79
+MD,coal,2017,52.604
+ME,coal,2017,2.317
+MK,coal,2017,0.974
+MT,coal,2017,NULL
+NL,coal,2017,1.126
+NO,coal,2017,NULL
+PL,coal,2017,6554.038
+PT,coal,2017,NULL
+RO,coal,2017,34.313
+RS,coal,2017,228.558
+SE,coal,2017,NULL
+SI,coal,2017,0.112
+SK,coal,2017,34.595
+TR,coal,2017,3251.067
+XK,coal,2017,10.145
+AL,electricity,2017,252.325
+AT,electricity,2017,1547.568
+BA,electricity,2017,408.942
+BE,electricity,2017,1516.311
+BG,electricity,2017,957.656
+CY,electricity,2017,143.119
+CZ,electricity,2017,1307.934
+DE,electricity,2017,11257.438
+DK,electricity,2017,845.793
+EE,electricity,2017,166.81
+EL,electricity,2017,1687.691
+ES,electricity,2017,6138.693
+FI,electricity,2017,1935.684
+FR,electricity,2017,13854.075
+GE,electricity,2017,211.599
+HR,electricity,2017,538.753
+HU,electricity,2017,967.24
+IE,electricity,2017,683.822
+IS,electricity,2017,69.707
+IT,electricity,2017,5631.186
+LT,electricity,2017,243.99
+LU,electricity,2017,83.355
+LV,electricity,2017,142.431
+MD,electricity,2017,140.671
+ME,electricity,2017,110.567
+MK,electricity,2017,266.258
+MT,electricity,2017,62.59
+NL,electricity,2017,1875.405
+NO,electricity,2017,3450.786
+PL,electricity,2017,2509.114
+PT,electricity,2017,1082.517
+RO,electricity,2017,1083.119
+RS,electricity,2017,1187.877
+SE,electricity,2017,3880.653
+SI,electricity,2017,286.072
+SK,electricity,2017,422.7
+TR,electricity,2017,4664.773
+XK,electricity,2017,196.987
+AL,"natural gas",2017,NULL
+AT,"natural gas",2017,1468.812
+BA,"natural gas",2017,37.704
+BE,"natural gas",2017,3325.523
+BG,"natural gas",2017,68.064
+CY,"natural gas",2017,NULL
+CZ,"natural gas",2017,2004.471
+DE,"natural gas",2017,21598.464
+DK,"natural gas",2017,619.369
+EE,"natural gas",2017,53.814
+EL,"natural gas",2017,360.665
+ES,"natural gas",2017,3323.51
+FI,"natural gas",2017,25.9
+FR,"natural gas",2017,12270.857
+GE,"natural gas",2017,744.347
+HR,"natural gas",2017,479.127
+HU,"natural gas",2017,2971.711
+IE,"natural gas",2017,554.373
+IS,"natural gas",2017,NULL
+IT,"natural gas",2017,17260.611
+LT,"natural gas",2017,153.785
+LU,"natural gas",2017,267.553
+LV,"natural gas",2017,111.346
+MD,"natural gas",2017,225.114
+ME,"natural gas",2017,NULL
+MK,"natural gas",2017,0.15
+MT,"natural gas",2017,NULL
+NL,"natural gas",2017,6885.799
+NO,"natural gas",2017,3.216
+PL,"natural gas",2017,3629.954
+PT,"natural gas",2017,250.733
+RO,"natural gas",2017,2473.938
+RS,"natural gas",2017,191.112
+SE,"natural gas",2017,26.074
+SI,"natural gas",2017,119.054
+SK,"natural gas",2017,1150.021
+TR,"natural gas",2017,11134.944
+XK,"natural gas",2017,NULL
+AL,"district heating",2017,NULL
+AT,"district heating",2017,825.19
+BA,"district heating",2017,95.467
+BE,"district heating",2017,12.152
+BG,"district heating",2017,339.79
+CY,"district heating",2017,NULL
+CZ,"district heating",2017,1065.898
+DE,"district heating",2017,4431.141
+DK,"district heating",2017,1678.477
+EE,"district heating",2017,318.143
+EL,"district heating",2017,38.8
+ES,"district heating",2017,NULL
+FI,"district heating",2017,1660.361
+FR,"district heating",2017,1227.912
+GE,"district heating",2017,NULL
+HR,"district heating",2017,117.03
+HU,"district heating",2017,498.662
+IE,"district heating",2017,NULL
+IS,"district heating",2017,337.009
+IT,"district heating",2017,904.942
+LT,"district heating",2017,474.802
+LU,"district heating",2017,NULL
+LV,"district heating",2017,372.433
+MD,"district heating",2017,115.171
+ME,"district heating",2017,NULL
+MK,"district heating",2017,35.078
+MT,"district heating",2017,NULL
+NL,"district heating",2017,285.213
+NO,"district heating",2017,117.411
+PL,"district heating",2017,3917.073
+PT,"district heating",2017,0.86
+RO,"district heating",2017,804.937
+RS,"district heating",2017,394.851
+SE,"district heating",2017,2613.929
+SI,"district heating",2017,79.005
+SK,"district heating",2017,451.896
+TR,"district heating",2017,NULL
+XK,"district heating",2017,9.446
+AL,"heating oil",2017,107.35
+AT,"heating oil",2017,32.026
+BA,"heating oil",2017,10.08
+BE,"heating oil",2017,133.93
+BG,"heating oil",2017,24.159
+CY,"heating oil",2017,36.679
+CZ,"heating oil",2017,44.984
+DE,"heating oil",2017,565.843
+DK,"heating oil",2017,21.112
+EE,"heating oil",2017,7.607
+EL,"heating oil",2017,81.191
+ES,"heating oil",2017,1031.454
+FI,"heating oil",2017,4.423
+FR,"heating oil",2017,919.777
+GE,"heating oil",2017,15.052
+HR,"heating oil",2017,52.078
+HU,"heating oil",2017,74.938
+IE,"heating oil",2017,47.764
+IS,"heating oil",2017,1.549
+IT,"heating oil",2017,1147.797
+LT,"heating oil",2017,36.201
+LU,"heating oil",2017,0.358
+LV,"heating oil",2017,18.961
+MD,"heating oil",2017,62.713
+ME,"heating oil",2017,1.232
+MK,"heating oil",2017,7.648
+MT,"heating oil",2017,16.169
+NL,"heating oil",2017,23.214
+NO,"heating oil",2017,5.505
+PL,"heating oil",2017,527.372
+PT,"heating oil",2017,380.824
+RO,"heating oil",2017,272.089
+RS,"heating oil",2017,47.644
+SE,"heating oil",2017,4.311
+SI,"heating oil",2017,31.688
+SK,"heating oil",2017,8.79
+TR,"heating oil",2017,229.337
+XK,"heating oil",2017,6.021
+AL,"other petroleum products",2017,NULL
+AT,"other petroleum products",2017,NULL
+BA,"other petroleum products",2017,NULL
+BE,"other petroleum products",2017,31.53
+BG,"other petroleum products",2017,NULL
+CY,"other petroleum products",2017,14.908
+CZ,"other petroleum products",2017,NULL
+DE,"other petroleum products",2017,NULL
+DK,"other petroleum products",2017,NULL
+EE,"other petroleum products",2017,NULL
+EL,"other petroleum products",2017,3.765
+ES,"other petroleum products",2017,NULL
+FI,"other petroleum products",2017,NULL
+FR,"other petroleum products",2017,185.229
+GE,"other petroleum products",2017,NULL
+HR,"other petroleum products",2017,NULL
+HU,"other petroleum products",2017,NULL
+IE,"other petroleum products",2017,800.995
+IS,"other petroleum products",2017,NULL
+IT,"other petroleum products",2017,2.054
+LT,"other petroleum products",2017,NULL
+LU,"other petroleum products",2017,0.521
+LV,"other petroleum products",2017,NULL
+MD,"other petroleum products",2017,NULL
+ME,"other petroleum products",2017,NULL
+MK,"other petroleum products",2017,NULL
+MT,"other petroleum products",2017,NULL
+NL,"other petroleum products",2017,5.864
+NO,"other petroleum products",2017,10.294
+PL,"other petroleum products",2017,NULL
+PT,"other petroleum products",2017,0.17
+RO,"other petroleum products",2017,NULL
+RS,"other petroleum products",2017,NULL
+SE,"other petroleum products",2017,NULL
+SI,"other petroleum products",2017,NULL
+SK,"other petroleum products",2017,NULL
+TR,"other petroleum products",2017,15.674
+XK,"other petroleum products",2017,NULL
+AL,"domestic heating oil",2017,NULL
+AT,"domestic heating oil",2017,995.642
+BA,"domestic heating oil",2017,34.684
+BE,"domestic heating oil",2017,2325.459
+BG,"domestic heating oil",2017,0.79
+CY,"domestic heating oil",2017,66.604
+CZ,"domestic heating oil",2017,NULL
+DE,"domestic heating oil",2017,10681.11
+DK,"domestic heating oil",2017,176.824
+EE,"domestic heating oil",2017,2.021
+EL,"domestic heating oil",2017,1161.137
+ES,"domestic heating oil",2017,1621.692
+FI,"domestic heating oil",2017,304.902
+FR,"domestic heating oil",2017,4895.092
+GE,"domestic heating oil",2017,NULL
+HR,"domestic heating oil",2017,85.077
+HU,"domestic heating oil",2017,NULL
+IE,"domestic heating oil",2017,232.436
+IS,"domestic heating oil",2017,2.165
+IT,"domestic heating oil",2017,936.661
+LT,"domestic heating oil",2017,19.041
+LU,"domestic heating oil",2017,155.978
+LV,"domestic heating oil",2017,30.03
+MD,"domestic heating oil",2017,NULL
+ME,"domestic heating oil",2017,NULL
+MK,"domestic heating oil",2017,4.215
+MT,"domestic heating oil",2017,0.23
+NL,"domestic heating oil",2017,7.28
+NO,"domestic heating oil",2017,56.412
+PL,"domestic heating oil",2017,71.893
+PT,"domestic heating oil",2017,47.629
+RO,"domestic heating oil",2017,NULL
+RS,"domestic heating oil",2017,NULL
+SE,"domestic heating oil",2017,78.115
+SI,"domestic heating oil",2017,102.301
+SK,"domestic heating oil",2017,NULL
+TR,"domestic heating oil",2017,NULL
+XK,"domestic heating oil",2017,4.284
+AL,renewables/biomass,2017,124.698
+AT,renewables/biomass,2017,1782.416
+BA,renewables/biomass,2017,345.992
+BE,renewables/biomass,2017,567.221
+BG,renewables/biomass,2017,759.613
+CY,renewables/biomass,2017,13.728
+CZ,renewables/biomass,2017,1810.88
+DE,renewables/biomass,2017,5494.148
+DK,renewables/biomass,2017,972
+EE,renewables/biomass,2017,390.418
+EL,renewables/biomass,2017,695.233
+ES,renewables/biomass,2017,1812.219
+FI,renewables/biomass,2017,1273.526
+FR,renewables/biomass,2017,6603.054
+GE,renewables/biomass,2017,358.438
+HR,renewables/biomass,2017,1084.437
+HU,renewables/biomass,2017,1623.579
+IE,renewables/biomass,2017,28.366
+IS,renewables/biomass,2017,NULL
+IT,renewables/biomass,2017,6717.616
+LT,renewables/biomass,2017,470.192
+LU,renewables/biomass,2017,22.697
+LV,renewables/biomass,2017,503.798
+MD,renewables/biomass,2017,720.479
+ME,renewables/biomass,2017,148.299
+MK,renewables/biomass,2017,214.808
+MT,renewables/biomass,2017,1.354
+NL,renewables/biomass,2017,386.424
+NO,renewables/biomass,2017,453.401
+PL,renewables/biomass,2017,2620.737
+PT,renewables/biomass,2017,757.213
+RO,renewables/biomass,2017,3050.519
+RS,renewables/biomass,2017,803.504
+SE,renewables/biomass,2017,910.672
+SI,renewables/biomass,2017,506.282
+SK,renewables/biomass,2017,666.858
+TR,renewables/biomass,2017,2361.995
+XK,renewables/biomass,2017,343.721
+AL,"solar thermal",2017,7.5
+AT,"solar thermal",2017,121.636
+BA,"solar thermal",2017,NULL
+BE,"solar thermal",2017,22.468
+BG,"solar thermal",2017,9.971
+CY,"solar thermal",2017,59.684
+CZ,"solar thermal",2017,13.632
+DE,"solar thermal",2017,645.577
+DK,"solar thermal",2017,12.119
+EE,"solar thermal",2017,NULL
+EL,"solar thermal",2017,259.936
+ES,"solar thermal",2017,226.327
+FI,"solar thermal",2017,1.791
+FR,"solar thermal",2017,171.163
+GE,"solar thermal",2017,0.074
+HR,"solar thermal",2017,8.997
+HU,"solar thermal",2017,11.536
+IE,"solar thermal",2017,12.479
+IS,"solar thermal",2017,NULL
+IT,"solar thermal",2017,154.491
+LT,"solar thermal",2017,NULL
+LU,"solar thermal",2017,2.176
+LV,"solar thermal",2017,NULL
+MD,"solar thermal",2017,NULL
+ME,"solar thermal",2017,NULL
+MK,"solar thermal",2017,NULL
+MT,"solar thermal",2017,4.989
+NL,"solar thermal",2017,21.759
+NO,"solar thermal",2017,NULL
+PL,"solar thermal",2017,48.557
+PT,"solar thermal",2017,52.781
+RO,"solar thermal",2017,NULL
+RS,"solar thermal",2017,NULL
+SE,"solar thermal",2017,11.082
+SI,"solar thermal",2017,10.529
+SK,"solar thermal",2017,5.852
+TR,"solar thermal",2017,548
+XK,"solar thermal",2017,0.096
+AL,"heat pumps",2017,NULL
+AT,"heat pumps",2017,148.266
+BA,"heat pumps",2017,NULL
+BE,"heat pumps",2017,63.213
+BG,"heat pumps",2017,NULL
+CY,"heat pumps",2017,1.55
+CZ,"heat pumps",2017,117.527
+DE,"heat pumps",2017,988.679
+DK,"heat pumps",2017,152.053
+EE,"heat pumps",2017,NULL
+EL,"heat pumps",2017,61.563
+ES,"heat pumps",2017,126.235
+FI,"heat pumps",2017,500.119
+FR,"heat pumps",2017,2182.981
+GE,"heat pumps",2017,NULL
+HR,"heat pumps",2017,15.859
+HU,"heat pumps",2017,4.825
+IE,"heat pumps",2017,20.654
+IS,"heat pumps",2017,NULL
+IT,"heat pumps",2017,101.719
+LT,"heat pumps",2017,NULL
+LU,"heat pumps",2017,2.56
+LV,"heat pumps",2017,NULL
+MD,"heat pumps",2017,NULL
+ME,"heat pumps",2017,NULL
+MK,"heat pumps",2017,NULL
+MT,"heat pumps",2017,5.763
+NL,"heat pumps",2017,61.761
+NO,"heat pumps",2017,447.066
+PL,"heat pumps",2017,167.44
+PT,"heat pumps",2017,221.673
+RO,"heat pumps",2017,NULL
+RS,"heat pumps",2017,NULL
+SE,"heat pumps",2017,NULL
+SI,"heat pumps",2017,36.339
+SK,"heat pumps",2017,NULL
+TR,"heat pumps",2017,NULL
+XK,"heat pumps",2017,NULL
+AL,TOTAL,2017,492.58
+AT,TOTAL,2017,6955.601
+BA,TOTAL,2017,1045.641
+BE,TOTAL,2017,8131.16
+BG,TOTAL,2017,2318.715
+CY,TOTAL,2017,342.362
+CZ,TOTAL,2017,7202.965
+DE,TOTAL,2017,56777.115
+DK,TOTAL,2017,4498.219
+EE,TOTAL,2017,940.914
+EL,TOTAL,2017,4401.052
+ES,TOTAL,2017,14392.022
+FI,TOTAL,2017,5761.435
+FR,TOTAL,2017,42420.967
+GE,TOTAL,2017,1336.297
+HR,TOTAL,2017,2392.72
+HU,TOTAL,2017,6294.138
+IE,TOTAL,2017,2768.312
+IS,TOTAL,2017,422.526
+IT,TOTAL,2017,32898.639
+LT,TOTAL,2017,1455.374
+LU,TOTAL,2017,535.579
+LV,TOTAL,2017,1195.604
+MD,TOTAL,2017,1316.751
+ME,TOTAL,2017,263.151
+MK,TOTAL,2017,529.132
+MT,TOTAL,2017,91.096
+NL,TOTAL,2017,9584.967
+NO,TOTAL,2017,4549.023
+PL,TOTAL,2017,20063.177
+PT,TOTAL,2017,2801.785
+RO,TOTAL,2017,7732.038
+RS,TOTAL,2017,2853.554
+SE,TOTAL,2017,7696.829
+SI,TOTAL,2017,1171.381
+SK,TOTAL,2017,2744.162
+TR,TOTAL,2017,23456.794
+XK,TOTAL,2017,571.465
+AL,coal,2018,NULL
+AT,coal,2018,19.279
+BA,coal,2018,76.678
+BE,coal,2018,57.479
+BG,coal,2018,114.688
+CY,coal,2018,NULL
+CZ,coal,2018,786.32
+DE,coal,2018,492.475
+DK,coal,2018,NULL
+EE,coal,2018,1.051
+EL,coal,2018,3.595
+ES,coal,2018,68.353
+FI,coal,2018,NULL
+FR,coal,2018,26.356
+GE,coal,2018,0.197
+HR,coal,2018,2.573
+HU,coal,2018,95.18
+IE,coal,2018,191.746
+IS,coal,2018,NULL
+IT,coal,2018,NULL
+LT,coal,2018,41.399
+LU,coal,2018,0.237
+LV,coal,2018,6.592
+MD,coal,2018,36.42
+ME,coal,2018,2.085
+MK,coal,2018,0.755
+MT,coal,2018,NULL
+NL,coal,2018,1.012
+NO,coal,2018,NULL
+PL,coal,2018,6154.371
+PT,coal,2018,NULL
+RO,coal,2018,33.627
+RS,coal,2018,207.614
+SE,coal,2018,NULL
+SI,coal,2018,0.076
+SK,coal,2018,30.204
+TR,coal,2018,2863.787
+XK,coal,2018,2.506
+AL,electricity,2018,270.591
+AT,electricity,2018,1542.786
+BA,electricity,2018,402.837
+BE,electricity,2018,1498.34
+BG,electricity,2018,942.65
+CY,electricity,2018,145.166
+CZ,electricity,2018,1294.027
+DE,electricity,2018,10995.701
+DK,electricity,2018,837.647
+EE,electricity,2018,159.931
+EL,electricity,2018,1441.325
+ES,electricity,2018,6449.355
+FI,electricity,2018,1954.514
+FR,electricity,2018,13777.804
+GE,electricity,2018,213.586
+HR,electricity,2018,533.25
+HU,electricity,2018,977.644
+IE,electricity,2018,701.938
+IS,electricity,2018,72.9
+IT,electricity,2018,5600.842
+LT,electricity,2018,256.621
+LU,electricity,2018,79.821
+LV,electricity,2018,143.601
+MD,electricity,2018,141.187
+ME,electricity,2018,109.381
+MK,electricity,2018,257.848
+MT,electricity,2018,67.849
+NL,electricity,2018,1856.495
+NO,electricity,2018,3474.166
+PL,electricity,2018,2517.971
+PT,electricity,2018,1136.073
+RO,electricity,2018,1098.872
+RS,electricity,2018,1153.445
+SE,electricity,2018,3875.15
+SI,electricity,2018,289.58
+SK,electricity,2018,438.091
+TR,electricity,2018,4693.94
+XK,electricity,2018,202.54
+AL,"natural gas",2018,NULL
+AT,"natural gas",2018,1344.24
+BA,"natural gas",2018,35.985
+BE,"natural gas",2018,3324.986
+BG,"natural gas",2018,77.28
+CY,"natural gas",2018,NULL
+CZ,"natural gas",2018,1878.843
+DE,"natural gas",2018,22264.75
+DK,"natural gas",2018,612.337
+EE,"natural gas",2018,54.981
+EL,"natural gas",2018,331.327
+ES,"natural gas",2018,3653.869
+FI,"natural gas",2018,24.508
+FR,"natural gas",2018,11502.73
+GE,"natural gas",2018,722.73
+HR,"natural gas",2018,467.211
+HU,"natural gas",2018,2830.568
+IE,"natural gas",2018,602.87
+IS,"natural gas",2018,NULL
+IT,"natural gas",2018,16499.391
+LT,"natural gas",2018,164.724
+LU,"natural gas",2018,244.532
+LV,"natural gas",2018,119.182
+MD,"natural gas",2018,258.036
+ME,"natural gas",2018,NULL
+MK,"natural gas",2018,0.193
+MT,"natural gas",2018,NULL
+NL,"natural gas",2018,6840.195
+NO,"natural gas",2018,3.211
+PL,"natural gas",2018,3561.458
+PT,"natural gas",2018,274.225
+RO,"natural gas",2018,2539.206
+RS,"natural gas",2018,194.274
+SE,"natural gas",2018,32.696
+SI,"natural gas",2018,110.945
+SK,"natural gas",2018,1118.851
+TR,"natural gas",2018,10457.465
+XK,"natural gas",2018,NULL
+AL,"district heating",2018,NULL
+AT,"district heating",2018,776.35
+BA,"district heating",2018,94.679
+BE,"district heating",2018,13
+BG,"district heating",2018,323.797
+CY,"district heating",2018,NULL
+CZ,"district heating",2018,998.318
+DE,"district heating",2018,3656.468
+DK,"district heating",2018,1675.02
+EE,"district heating",2018,322.442
+EL,"district heating",2018,40.894
+ES,"district heating",2018,NULL
+FI,"district heating",2018,1610.156
+FR,"district heating",2018,1248.846
+GE,"district heating",2018,NULL
+HR,"district heating",2018,111.563
+HU,"district heating",2018,467.35
+IE,"district heating",2018,NULL
+IS,"district heating",2018,417.88
+IT,"district heating",2018,1091.622
+LT,"district heating",2018,472.031
+LU,"district heating",2018,NULL
+LV,"district heating",2018,370.992
+MD,"district heating",2018,122.337
+ME,"district heating",2018,NULL
+MK,"district heating",2018,33.858
+MT,"district heating",2018,NULL
+NL,"district heating",2018,298.649
+NO,"district heating",2018,121.078
+PL,"district heating",2018,3749.881
+PT,"district heating",2018,1.055
+RO,"district heating",2018,781.775
+RS,"district heating",2018,404.427
+SE,"district heating",2018,2575.069
+SI,"district heating",2018,74.94
+SK,"district heating",2018,416.786
+TR,"district heating",2018,NULL
+XK,"district heating",2018,9.551
+AL,"heating oil",2018,109.61
+AT,"heating oil",2018,29.458
+BA,"heating oil",2018,5.22
+BE,"heating oil",2018,133.381
+BG,"heating oil",2018,21.989
+CY,"heating oil",2018,32.139
+CZ,"heating oil",2018,50.215
+DE,"heating oil",2018,865.225
+DK,"heating oil",2018,21.033
+EE,"heating oil",2018,6.52
+EL,"heating oil",2018,81.693
+ES,"heating oil",2018,1073.254
+FI,"heating oil",2018,4.423
+FR,"heating oil",2018,873.313
+GE,"heating oil",2018,18.887
+HR,"heating oil",2018,47.486
+HU,"heating oil",2018,76.04
+IE,"heating oil",2018,53.842
+IS,"heating oil",2018,1.77
+IT,"heating oil",2018,1116.09
+LT,"heating oil",2018,34.967
+LU,"heating oil",2018,0.456
+LV,"heating oil",2018,16.217
+MD,"heating oil",2018,62.713
+ME,"heating oil",2018,1.68
+MK,"heating oil",2018,7.165
+MT,"heating oil",2018,12.419
+NL,"heating oil",2018,23.214
+NO,"heating oil",2018,6.606
+PL,"heating oil",2018,549.346
+PT,"heating oil",2018,364.246
+RO,"heating oil",2018,277.257
+RS,"heating oil",2018,37.714
+SE,"heating oil",2018,4.11
+SI,"heating oil",2018,28.385
+SK,"heating oil",2018,7.691
+TR,"heating oil",2018,211.942
+XK,"heating oil",2018,5.765
+AL,"other petroleum products",2018,NULL
+AT,"other petroleum products",2018,NULL
+BA,"other petroleum products",2018,NULL
+BE,"other petroleum products",2018,31.53
+BG,"other petroleum products",2018,NULL
+CY,"other petroleum products",2018,9.728
+CZ,"other petroleum products",2018,NULL
+DE,"other petroleum products",2018,7.156
+DK,"other petroleum products",2018,2.758
+EE,"other petroleum products",2018,NULL
+EL,"other petroleum products",2018,2.621
+ES,"other petroleum products",2018,NULL
+FI,"other petroleum products",2018,NULL
+FR,"other petroleum products",2018,169.284
+GE,"other petroleum products",2018,NULL
+HR,"other petroleum products",2018,NULL
+HU,"other petroleum products",2018,NULL
+IE,"other petroleum products",2018,873.307
+IS,"other petroleum products",2018,NULL
+IT,"other petroleum products",2018,2.054
+LT,"other petroleum products",2018,NULL
+LU,"other petroleum products",2018,0.499
+LV,"other petroleum products",2018,NULL
+MD,"other petroleum products",2018,NULL
+ME,"other petroleum products",2018,NULL
+MK,"other petroleum products",2018,NULL
+MT,"other petroleum products",2018,NULL
+NL,"other petroleum products",2018,5.739
+NO,"other petroleum products",2018,9.265
+PL,"other petroleum products",2018,NULL
+PT,"other petroleum products",2018,0.125
+RO,"other petroleum products",2018,NULL
+RS,"other petroleum products",2018,NULL
+SE,"other petroleum products",2018,NULL
+SI,"other petroleum products",2018,NULL
+SK,"other petroleum products",2018,NULL
+TR,"other petroleum products",2018,8.369
+XK,"other petroleum products",2018,NULL
+AL,"domestic heating oil",2018,NULL
+AT,"domestic heating oil",2018,884.572
+BA,"domestic heating oil",2018,21.32
+BE,"domestic heating oil",2018,2267.36
+BG,"domestic heating oil",2018,0.12
+CY,"domestic heating oil",2018,54.726
+CZ,"domestic heating oil",2018,NULL
+DE,"domestic heating oil",2018,9298.447
+DK,"domestic heating oil",2018,178.815
+EE,"domestic heating oil",2018,2.021
+EL,"domestic heating oil",2018,952.232
+ES,"domestic heating oil",2018,1715.152
+FI,"domestic heating oil",2018,278.101
+FR,"domestic heating oil",2018,4390.682
+GE,"domestic heating oil",2018,NULL
+HR,"domestic heating oil",2018,72.02
+HU,"domestic heating oil",2018,NULL
+IE,"domestic heating oil",2018,238.203
+IS,"domestic heating oil",2018,0.877
+IT,"domestic heating oil",2018,1081.585
+LT,"domestic heating oil",2018,22.214
+LU,"domestic heating oil",2018,145.545
+LV,"domestic heating oil",2018,32.916
+MD,"domestic heating oil",2018,NULL
+ME,"domestic heating oil",2018,NULL
+MK,"domestic heating oil",2018,3.857
+MT,"domestic heating oil",2018,0.056
+NL,"domestic heating oil",2018,7.31
+NO,"domestic heating oil",2018,36.174
+PL,"domestic heating oil",2018,82.163
+PT,"domestic heating oil",2018,56.593
+RO,"domestic heating oil",2018,NULL
+RS,"domestic heating oil",2018,NULL
+SE,"domestic heating oil",2018,74.357
+SI,"domestic heating oil",2018,96.16
+SK,"domestic heating oil",2018,NULL
+TR,"domestic heating oil",2018,NULL
+XK,"domestic heating oil",2018,4.595
+AL,renewables/biomass,2018,122.349
+AT,renewables/biomass,2018,1640.86
+BA,renewables/biomass,2018,1076.407
+BE,renewables/biomass,2018,564.73
+BG,renewables/biomass,2018,738.674
+CY,renewables/biomass,2018,14.717
+CZ,renewables/biomass,2018,1882.698
+DE,renewables/biomass,2018,5860.227
+DK,renewables/biomass,2018,917.886
+EE,renewables/biomass,2018,394.096
+EL,renewables/biomass,2018,658.042
+ES,renewables/biomass,2018,1817.02
+FI,renewables/biomass,2018,1251.385
+FR,renewables/biomass,2018,6408.756
+GE,renewables/biomass,2018,265.514
+HR,renewables/biomass,2018,1032.54
+HU,renewables/biomass,2018,1352.226
+IE,renewables/biomass,2018,29.781
+IS,renewables/biomass,2018,NULL
+IT,renewables/biomass,2018,6206.445
+LT,renewables/biomass,2018,479.674
+LU,renewables/biomass,2018,23.933
+LV,renewables/biomass,2018,534.622
+MD,renewables/biomass,2018,718.138
+ME,renewables/biomass,2018,134.136
+MK,renewables/biomass,2018,179.9
+MT,renewables/biomass,2018,1.338
+NL,renewables/biomass,2018,386.858
+NO,renewables/biomass,2018,443.307
+PL,renewables/biomass,2018,5676.666
+PT,renewables/biomass,2018,749.98
+RO,renewables/biomass,2018,3024.516
+RS,renewables/biomass,2018,840.947
+SE,renewables/biomass,2018,776.416
+SI,renewables/biomass,2018,453.515
+SK,renewables/biomass,2018,525.222
+TR,renewables/biomass,2018,1555
+XK,renewables/biomass,2018,347.629
+AL,"solar thermal",2018,7.58
+AT,"solar thermal",2018,110.896
+BA,"solar thermal",2018,NULL
+BE,"solar thermal",2018,24.47
+BG,"solar thermal",2018,10.472
+CY,"solar thermal",2018,60.872
+CZ,"solar thermal",2018,14.049
+DE,"solar thermal",2018,729.77
+DK,"solar thermal",2018,12.251
+EE,"solar thermal",2018,NULL
+EL,"solar thermal",2018,265.453
+ES,"solar thermal",2018,240.516
+FI,"solar thermal",2018,1.982
+FR,"solar thermal",2018,186.421
+GE,"solar thermal",2018,0.081
+HR,"solar thermal",2018,9.757
+HU,"solar thermal",2018,12.348
+IE,"solar thermal",2018,13.382
+IS,"solar thermal",2018,NULL
+IT,"solar thermal",2018,161.632
+LT,"solar thermal",2018,NULL
+LU,"solar thermal",2018,2.24
+LV,"solar thermal",2018,NULL
+MD,"solar thermal",2018,NULL
+ME,"solar thermal",2018,NULL
+MK,"solar thermal",2018,NULL
+MT,"solar thermal",2018,5.031
+NL,"solar thermal",2018,22.093
+NO,"solar thermal",2018,NULL
+PL,"solar thermal",2018,50.85
+PT,"solar thermal",2018,57.376
+RO,"solar thermal",2018,NULL
+RS,"solar thermal",2018,NULL
+SE,"solar thermal",2018,10.915
+SI,"solar thermal",2018,10.561
+SK,"solar thermal",2018,6.401
+TR,"solar thermal",2018,570
+XK,"solar thermal",2018,0.103
+AL,"heat pumps",2018,NULL
+AT,"heat pumps",2018,169.958
+BA,"heat pumps",2018,NULL
+BE,"heat pumps",2018,76.388
+BG,"heat pumps",2018,NULL
+CY,"heat pumps",2018,11.611
+CZ,"heat pumps",2018,138.238
+DE,"heat pumps",2018,1061.909
+DK,"heat pumps",2018,173.397
+EE,"heat pumps",2018,NULL
+EL,"heat pumps",2018,69.337
+ES,"heat pumps",2018,145.146
+FI,"heat pumps",2018,513.328
+FR,"heat pumps",2018,2331.993
+GE,"heat pumps",2018,NULL
+HR,"heat pumps",2018,15.031
+HU,"heat pumps",2018,6.759
+IE,"heat pumps",2018,21.554
+IS,"heat pumps",2018,NULL
+IT,"heat pumps",2018,99.664
+LT,"heat pumps",2018,22.26
+LU,"heat pumps",2018,3.255
+LV,"heat pumps",2018,NULL
+MD,"heat pumps",2018,NULL
+ME,"heat pumps",2018,NULL
+MK,"heat pumps",2018,NULL
+MT,"heat pumps",2018,6.341
+NL,"heat pumps",2018,79.738
+NO,"heat pumps",2018,474.522
+PL,"heat pumps",2018,197.034
+PT,"heat pumps",2018,230.7
+RO,"heat pumps",2018,NULL
+RS,"heat pumps",2018,NULL
+SE,"heat pumps",2018,NULL
+SI,"heat pumps",2018,37.236
+SK,"heat pumps",2018,NULL
+TR,"heat pumps",2018,NULL
+XK,"heat pumps",2018,NULL
+AL,TOTAL,2018,510.484
+AT,TOTAL,2018,6531.091
+BA,TOTAL,2018,1719.424
+BE,TOTAL,2018,8039.139
+BG,TOTAL,2018,2229.672
+CY,TOTAL,2018,334.957
+CZ,TOTAL,2018,7042.708
+DE,TOTAL,2018,55822.36
+DK,TOTAL,2018,4450.344
+EE,TOTAL,2018,941.042
+EL,TOTAL,2018,3903.48
+ES,TOTAL,2018,15178.832
+FI,TOTAL,2018,5691.11
+FR,TOTAL,2018,41029.548
+GE,TOTAL,2018,1227.303
+HR,TOTAL,2018,2298.895
+HU,TOTAL,2018,5818.115
+IE,TOTAL,2018,2950.805
+IS,TOTAL,2018,505.489
+IT,TOTAL,2018,31905.559
+LT,TOTAL,2018,1511.606
+LU,TOTAL,2018,500.518
+LV,TOTAL,2018,1231.009
+MD,TOTAL,2018,1338.83
+ME,TOTAL,2018,248.017
+MK,TOTAL,2018,483.576
+MT,TOTAL,2018,93.033
+NL,TOTAL,2018,9551.684
+NO,TOTAL,2018,4573.027
+PL,TOTAL,2018,22557.493
+PT,TOTAL,2018,2877.758
+RO,TOTAL,2018,7775.08
+RS,TOTAL,2018,2838.427
+SE,TOTAL,2018,7490.34
+SI,TOTAL,2018,1101.397
+SK,TOTAL,2018,2546.007
+TR,TOTAL,2018,21687.504
+XK,TOTAL,2018,573.404
+AL,coal,2019,NULL
+AT,coal,2019,19.733
+BA,coal,2019,57.292
+BE,coal,2019,41.664
+BG,coal,2019,102.302
+CY,coal,2019,NULL
+CZ,coal,2019,646.585
+DE,coal,2019,345.388
+DK,coal,2019,NULL
+EE,coal,2019,1.191
+EL,coal,2019,3.408
+ES,coal,2019,64.93
+FI,coal,2019,NULL
+FR,coal,2019,24.452
+GE,coal,2019,0.224
+HR,coal,2019,2.777
+HU,coal,2019,70.569
+IE,coal,2019,165.633
+IS,coal,2019,NULL
+IT,coal,2019,NULL
+LT,coal,2019,31.679
+LU,coal,2019,0.249
+LV,coal,2019,4.655
+MD,coal,2019,60.492
+ME,coal,2019,2.145
+MK,coal,2019,0.61
+MT,coal,2019,NULL
+NL,coal,2019,1.12
+NO,coal,2019,NULL
+PL,coal,2019,4978.787
+PT,coal,2019,NULL
+RO,coal,2019,40.69
+RS,coal,2019,209.424
+SE,coal,2019,NULL
+SI,coal,2019,0.065
+SK,coal,2019,28.489
+TR,coal,2019,3399.989
+XK,coal,2019,2.518
+AL,electricity,2019,268.293
+AT,electricity,2019,1586.985
+BA,electricity,2019,406.363
+BE,electricity,2019,1480.782
+BG,electricity,2019,932.407
+CY,electricity,2019,152.338
+CZ,electricity,2019,1311.852
+DE,electricity,2019,10880.396
+DK,electricity,2019,880.624
+EE,electricity,2019,177.988
+EL,electricity,2019,1494.199
+ES,electricity,2019,6275.236
+FI,electricity,2019,1938.607
+FR,electricity,2019,13733.627
+GE,electricity,2019,211.608
+HR,electricity,2019,533.611
+HU,electricity,2019,998.968
+IE,electricity,2019,696.991
+IS,electricity,2019,71.059
+IT,electricity,2019,5639.553
+LT,electricity,2019,250.447
+LU,electricity,2019,78.192
+LV,electricity,2019,141.821
+MD,electricity,2019,143.68
+ME,electricity,2019,110.954
+MK,electricity,2019,261.358
+MT,electricity,2019,73.532
+NL,electricity,2019,1856.737
+NO,electricity,2019,3440.037
+PL,electricity,2019,2527.367
+PT,electricity,2019,1137.004
+RO,electricity,2019,1116.448
+RS,electricity,2019,1147.048
+SE,electricity,2019,3771.195
+SI,electricity,2019,293.969
+SK,electricity,2019,468.874
+TR,electricity,2019,4831.824
+XK,electricity,2019,217.366
+AL,"natural gas",2019,NULL
+AT,"natural gas",2019,1426.372
+BA,"natural gas",2019,38.758
+BE,"natural gas",2019,3308.226
+BG,"natural gas",2019,78.685
+CY,"natural gas",2019,NULL
+CZ,"natural gas",2019,1795.387
+DE,"natural gas",2019,22379.522
+DK,"natural gas",2019,613.079
+EE,"natural gas",2019,57.781
+EL,"natural gas",2019,384.376
+ES,"natural gas",2019,3457.094
+FI,"natural gas",2019,26.658
+FR,"natural gas",2019,11221.38
+GE,"natural gas",2019,830.68
+HR,"natural gas",2019,459.103
+HU,"natural gas",2019,2792.906
+IE,"natural gas",2019,590.159
+IS,"natural gas",2019,NULL
+IT,"natural gas",2019,16126.645
+LT,"natural gas",2019,160.859
+LU,"natural gas",2019,246.392
+LV,"natural gas",2019,110.732
+MD,"natural gas",2019,259.392
+ME,"natural gas",2019,NULL
+MK,"natural gas",2019,0.193
+MT,"natural gas",2019,NULL
+NL,"natural gas",2019,6605.151
+NO,"natural gas",2019,1.554
+PL,"natural gas",2019,3638.773
+PT,"natural gas",2019,285.267
+RO,"natural gas",2019,2530.106
+RS,"natural gas",2019,203.179
+SE,"natural gas",2019,19.903
+SI,"natural gas",2019,105.76
+SK,"natural gas",2019,1120.001
+TR,"natural gas",2019,11852.253
+XK,"natural gas",2019,NULL
+AL,"district heating",2019,NULL
+AT,"district heating",2019,766.565
+BA,"district heating",2019,93.174
+BE,"district heating",2019,13.184
+BG,"district heating",2019,307.569
+CY,"district heating",2019,NULL
+CZ,"district heating",2019,971.232
+DE,"district heating",2019,3967.183
+DK,"district heating",2019,1639.458
+EE,"district heating",2019,326.741
+EL,"district heating",2019,38.523
+ES,"district heating",2019,NULL
+FI,"district heating",2019,1592.147
+FR,"district heating",2019,1259.566
+GE,"district heating",2019,NULL
+HR,"district heating",2019,109.625
+HU,"district heating",2019,455.001
+IE,"district heating",2019,NULL
+IS,"district heating",2019,368.388
+IT,"district heating",2019,887.883
+LT,"district heating",2019,445.663
+LU,"district heating",2019,NULL
+LV,"district heating",2019,367.299
+MD,"district heating",2019,108.723
+ME,"district heating",2019,NULL
+MK,"district heating",2019,31.505
+MT,"district heating",2019,NULL
+NL,"district heating",2019,288.567
+NO,"district heating",2019,133.138
+PL,"district heating",2019,3630.458
+PT,"district heating",2019,0.86
+RO,"district heating",2019,704.239
+RS,"district heating",2019,376.463
+SE,"district heating",2019,2567.235
+SI,"district heating",2019,73.896
+SK,"district heating",2019,403.96
+TR,"district heating",2019,NULL
+XK,"district heating",2019,9.583
+AL,"heating oil",2019,109.61
+AT,"heating oil",2019,30.086
+BA,"heating oil",2019,4.492
+BE,"heating oil",2019,127.448
+BG,"heating oil",2019,19.474
+CY,"heating oil",2019,36.317
+CZ,"heating oil",2019,44.984
+DE,"heating oil",2019,787.036
+DK,"heating oil",2019,20.157
+EE,"heating oil",2019,7.249
+EL,"heating oil",2019,80.335
+ES,"heating oil",2019,900.404
+FI,"heating oil",2019,4.423
+FR,"heating oil",2019,819.181
+GE,"heating oil",2019,10.547
+HR,"heating oil",2019,48.718
+HU,"heating oil",2019,73.836
+IE,"heating oil",2019,50.02
+IS,"heating oil",2019,1.867
+IT,"heating oil",2019,1118.323
+LT,"heating oil",2019,38.136
+LU,"heating oil",2019,0.675
+LV,"heating oil",2019,14.842
+MD,"heating oil",2019,57.541
+ME,"heating oil",2019,1.792
+MK,"heating oil",2019,4.864
+MT,"heating oil",2019,13.077
+NL,"heating oil",2019,23.213
+NO,"heating oil",2019,4.524
+PL,"heating oil",2019,582.306
+PT,"heating oil",2019,359.337
+RO,"heating oil",2019,286.057
+RS,"heating oil",2019,47.363
+SE,"heating oil",2019,4.11
+SI,"heating oil",2019,27.268
+SK,"heating oil",2019,6.592
+TR,"heating oil",2019,205.613
+XK,"heating oil",2019,6.421
+AL,"other petroleum products",2019,NULL
+AT,"other petroleum products",2019,NULL
+BA,"other petroleum products",2019,NULL
+BE,"other petroleum products",2019,27.833
+BG,"other petroleum products",2019,NULL
+CY,"other petroleum products",2019,13.135
+CZ,"other petroleum products",2019,NULL
+DE,"other petroleum products",2019,6.134
+DK,"other petroleum products",2019,3.762
+EE,"other petroleum products",2019,NULL
+EL,"other petroleum products",2019,2.779
+ES,"other petroleum products",2019,NULL
+FI,"other petroleum products",2019,NULL
+FR,"other petroleum products",2019,177.309
+GE,"other petroleum products",2019,NULL
+HR,"other petroleum products",2019,NULL
+HU,"other petroleum products",2019,NULL
+IE,"other petroleum products",2019,851.167
+IS,"other petroleum products",2019,NULL
+IT,"other petroleum products",2019,2.054
+LT,"other petroleum products",2019,NULL
+LU,"other petroleum products",2019,0.677
+LV,"other petroleum products",2019,NULL
+MD,"other petroleum products",2019,NULL
+ME,"other petroleum products",2019,NULL
+MK,"other petroleum products",2019,NULL
+MT,"other petroleum products",2019,NULL
+NL,"other petroleum products",2019,5.616
+NO,"other petroleum products",2019,0.58
+PL,"other petroleum products",2019,NULL
+PT,"other petroleum products",2019,0.103
+RO,"other petroleum products",2019,NULL
+RS,"other petroleum products",2019,NULL
+SE,"other petroleum products",2019,NULL
+SI,"other petroleum products",2019,NULL
+SK,"other petroleum products",2019,NULL
+TR,"other petroleum products",2019,9.415
+XK,"other petroleum products",2019,NULL
+AL,"domestic heating oil",2019,NULL
+AT,"domestic heating oil",2019,889.59
+BA,"domestic heating oil",2019,9.429
+BE,"domestic heating oil",2019,1778.052
+BG,"domestic heating oil",2019,0.299
+CY,"domestic heating oil",2019,61.847
+CZ,"domestic heating oil",2019,NULL
+DE,"domestic heating oil",2019,10974.745
+DK,"domestic heating oil",2019,160.838
+EE,"domestic heating oil",2019,2.021
+EL,"domestic heating oil",2019,1070.339
+ES,"domestic heating oil",2019,1492.285
+FI,"domestic heating oil",2019,252.528
+FR,"domestic heating oil",2019,4198.576
+GE,"domestic heating oil",2019,NULL
+HR,"domestic heating oil",2019,51.822
+HU,"domestic heating oil",2019,NULL
+IE,"domestic heating oil",2019,246.357
+IS,"domestic heating oil",2019,0.678
+IT,"domestic heating oil",2019,855.293
+LT,"domestic heating oil",2019,21.293
+LU,"domestic heating oil",2019,115.405
+LV,"domestic heating oil",2019,32.881
+MD,"domestic heating oil",2019,NULL
+ME,"domestic heating oil",2019,NULL
+MK,"domestic heating oil",2019,4.131
+MT,"domestic heating oil",2019,0.041
+NL,"domestic heating oil",2019,7.275
+NO,"domestic heating oil",2019,9.016
+PL,"domestic heating oil",2019,66.757
+PT,"domestic heating oil",2019,48.182
+RO,"domestic heating oil",2019,NULL
+RS,"domestic heating oil",2019,NULL
+SE,"domestic heating oil",2019,75.228
+SI,"domestic heating oil",2019,97.828
+SK,"domestic heating oil",2019,NULL
+TR,"domestic heating oil",2019,NULL
+XK,"domestic heating oil",2019,4.657
+AL,renewables/biomass,2019,119
+AT,renewables/biomass,2019,1676.516
+BA,renewables/biomass,2019,1067.999
+BE,renewables/biomass,2019,555.188
+BG,renewables/biomass,2019,710.563
+CY,renewables/biomass,2019,15.454
+CZ,renewables/biomass,2019,2016.811
+DE,renewables/biomass,2019,5971.959
+DK,renewables/biomass,2019,843.962
+EE,renewables/biomass,2019,378.38
+EL,renewables/biomass,2019,634.434
+ES,renewables/biomass,2019,1823.756
+FI,renewables/biomass,2019,1229.961
+FR,renewables/biomass,2019,6416.083
+GE,renewables/biomass,2019,241.168
+HR,renewables/biomass,2019,999.174
+HU,renewables/biomass,2019,1263.184
+IE,renewables/biomass,2019,25.46
+IS,renewables/biomass,2019,NULL
+IT,renewables/biomass,2019,6195.413
+LT,renewables/biomass,2019,461.379
+LU,renewables/biomass,2019,15.444
+LV,renewables/biomass,2019,508.407
+MD,renewables/biomass,2019,606.716
+ME,renewables/biomass,2019,128.332
+MK,renewables/biomass,2019,189.606
+MT,renewables/biomass,2019,1.674
+NL,renewables/biomass,2019,382.414
+NO,renewables/biomass,2019,404.899
+PL,renewables/biomass,2019,5248.024
+PT,renewables/biomass,2019,753.565
+RO,renewables/biomass,2019,3042.954
+RS,renewables/biomass,2019,871.155
+SE,renewables/biomass,2019,763.28
+SI,renewables/biomass,2019,426.61
+SK,renewables/biomass,2019,574.186
+TR,renewables/biomass,2019,1503
+XK,renewables/biomass,2019,345.478
+AL,"solar thermal",2019,7.8
+AT,"solar thermal",2019,112.768
+BA,"solar thermal",2019,NULL
+BE,"solar thermal",2019,24.348
+BG,"solar thermal",2019,10.953
+CY,"solar thermal",2019,61.829
+CZ,"solar thermal",2019,14.324
+DE,"solar thermal",2019,697.693
+DK,"solar thermal",2019,12.404
+EE,"solar thermal",2019,NULL
+EL,"solar thermal",2019,273.837
+ES,"solar thermal",2019,254.153
+FI,"solar thermal",2019,2.173
+FR,"solar thermal",2019,198.256
+GE,"solar thermal",2019,0.088
+HR,"solar thermal",2019,10.815
+HU,"solar thermal",2019,13.113
+IE,"solar thermal",2019,13.527
+IS,"solar thermal",2019,NULL
+IT,"solar thermal",2019,168.68
+LT,"solar thermal",2019,NULL
+LU,"solar thermal",2019,2.308
+LV,"solar thermal",2019,NULL
+MD,"solar thermal",2019,NULL
+ME,"solar thermal",2019,NULL
+MK,"solar thermal",2019,NULL
+MT,"solar thermal",2019,5.068
+NL,"solar thermal",2019,22.547
+NO,"solar thermal",2019,NULL
+PL,"solar thermal",2019,66.01
+PT,"solar thermal",2019,57.798
+RO,"solar thermal",2019,NULL
+RS,"solar thermal",2019,NULL
+SE,"solar thermal",2019,10.653
+SI,"solar thermal",2019,10.599
+SK,"solar thermal",2019,6.831
+TR,"solar thermal",2019,537
+XK,"solar thermal",2019,0.104
+AL,"heat pumps",2019,NULL
+AT,"heat pumps",2019,172.505
+BA,"heat pumps",2019,NULL
+BE,"heat pumps",2019,90.969
+BG,"heat pumps",2019,NULL
+CY,"heat pumps",2019,12.83
+CZ,"heat pumps",2019,162.211
+DE,"heat pumps",2019,1147.941
+DK,"heat pumps",2019,197.283
+EE,"heat pumps",2019,NULL
+EL,"heat pumps",2019,72.346
+ES,"heat pumps",2019,162.206
+FI,"heat pumps",2019,535.707
+FR,"heat pumps",2019,2636.288
+GE,"heat pumps",2019,NULL
+HR,"heat pumps",2019,14.417
+HU,"heat pumps",2019,9.291
+IE,"heat pumps",2019,24.745
+IS,"heat pumps",2019,NULL
+IT,"heat pumps",2019,96.127
+LT,"heat pumps",2019,23.335
+LU,"heat pumps",2019,3.854
+LV,"heat pumps",2019,NULL
+MD,"heat pumps",2019,NULL
+ME,"heat pumps",2019,NULL
+MK,"heat pumps",2019,NULL
+MT,"heat pumps",2019,8.136
+NL,"heat pumps",2019,107.965
+NO,"heat pumps",2019,501.414
+PL,"heat pumps",2019,236.601
+PT,"heat pumps",2019,241.847
+RO,"heat pumps",2019,NULL
+RS,"heat pumps",2019,NULL
+SE,"heat pumps",2019,NULL
+SI,"heat pumps",2019,40.855
+SK,"heat pumps",2019,28.057
+TR,"heat pumps",2019,NULL
+XK,"heat pumps",2019,NULL
+AL,TOTAL,2019,504.986
+AT,TOTAL,2019,6687.86
+BA,TOTAL,2019,1686.605
+BE,TOTAL,2019,7503.961
+BG,TOTAL,2019,2162.252
+CY,TOTAL,2019,359.703
+CZ,TOTAL,2019,6963.387
+DE,TOTAL,2019,57743.03
+DK,TOTAL,2019,4389.392
+EE,TOTAL,2019,951.351
+EL,TOTAL,2019,4099.875
+ES,TOTAL,2019,14445.322
+FI,TOTAL,2019,5631.035
+FR,TOTAL,2019,40771.075
+GE,TOTAL,2019,1300.65
+HR,TOTAL,2019,2238.586
+HU,TOTAL,2019,5676.869
+IE,TOTAL,2019,2868.37
+IS,TOTAL,2019,454.055
+IT,TOTAL,2019,31138.335
+LT,TOTAL,2019,1447.177
+LU,TOTAL,2019,463.194
+LV,TOTAL,2019,1187.967
+MD,TOTAL,2019,1236.74
+ME,TOTAL,2019,243.959
+MK,TOTAL,2019,492.266
+MT,TOTAL,2019,101.528
+NL,TOTAL,2019,9330.173
+NO,TOTAL,2019,4499.666
+PL,TOTAL,2019,20993.899
+PT,TOTAL,2019,2891.348
+RO,TOTAL,2019,7753.283
+RS,TOTAL,2019,2854.671
+SE,TOTAL,2019,7363.914
+SI,TOTAL,2019,1076.85
+SK,TOTAL,2019,2637.679
+TR,TOTAL,2019,23666.094
+XK,TOTAL,2019,586.881
+AL,coal,2020,NULL
+AT,coal,2020,13.573
+BA,coal,2020,58.407
+BE,coal,2020,32.974
+BG,coal,2020,99.401
+CY,coal,2020,NULL
+CZ,coal,2020,634.435
+DE,coal,2020,315.706
+DK,coal,2020,NULL
+EE,coal,2020,0.959
+EL,coal,2020,3.071
+ES,coal,2020,46.408
+FI,coal,2020,NULL
+FR,coal,2020,20.759
+GE,coal,2020,0.062
+HR,coal,2020,2.392
+HU,coal,2020,56.342
+IE,coal,2020,173.281
+IS,coal,2020,NULL
+IT,coal,2020,NULL
+LT,coal,2020,24.659
+LU,coal,2020,0.23
+LV,coal,2020,1.305
+MD,coal,2020,42.19
+ME,coal,2020,2.043
+MK,coal,2020,0.587
+MT,coal,2020,NULL
+NL,coal,2020,0.345
+NO,coal,2020,NULL
+PL,coal,2020,5200.131
+PT,coal,2020,NULL
+RO,coal,2020,44.891
+RS,coal,2020,248.815
+SE,coal,2020,NULL
+SI,coal,2020,0.061
+SK,coal,2020,53.782
+TR,coal,2020,4060.888
+XK,coal,2020,2.842
+AL,electricity,2020,298.287
+AT,electricity,2020,1757.162
+BA,electricity,2020,412.296
+BE,electricity,2020,1505.537
+BG,electricity,2020,976.456
+CY,electricity,2020,155.274
+CZ,electricity,2020,1373.386
+DE,electricity,2020,10956.664
+DK,electricity,2020,887.07
+EE,electricity,2020,171.797
+EL,electricity,2020,1503.543
+ES,electricity,2020,6296.131
+FI,electricity,2020,1895.099
+FR,electricity,2020,13886.374
+GE,electricity,2020,220.55
+HR,electricity,2020,522.519
+HU,electricity,2020,1055.46
+IE,electricity,2020,746.591
+IS,electricity,2020,74.788
+IT,electricity,2020,5693.177
+LT,electricity,2020,261.754
+LU,electricity,2020,81.67
+LV,electricity,2020,150.56
+MD,electricity,2020,148.753
+ME,electricity,2020,106.715
+MK,electricity,2020,274.386
+MT,electricity,2020,76.416
+NL,electricity,2020,1888.682
+NO,electricity,2020,3429.407
+PL,electricity,2020,2580.053
+PT,electricity,2020,1174.204
+RO,electricity,2020,1171.091
+RS,electricity,2020,1179.547
+SE,electricity,2020,3660.619
+SI,electricity,2020,312.477
+SK,electricity,2020,505.073
+TR,electricity,2020,5218.698
+XK,electricity,2020,238.839
+AL,"natural gas",2020,NULL
+AT,"natural gas",2020,1439.275
+BA,"natural gas",2020,40.606
+BE,"natural gas",2020,3124.269
+BG,"natural gas",2020,96.069
+CY,"natural gas",2020,NULL
+CZ,"natural gas",2020,1855.994
+DE,"natural gas",2020,21745.669
+DK,"natural gas",2020,589.666
+EE,"natural gas",2020,56.208
+EL,"natural gas",2020,441.991
+ES,"natural gas",2020,3474.386
+FI,"natural gas",2020,23.949
+FR,"natural gas",2020,10994.467
+GE,"natural gas",2020,944.932
+HR,"natural gas",2020,485.657
+HU,"natural gas",2020,3026.655
+IE,"natural gas",2020,588.564
+IS,"natural gas",2020,NULL
+IT,"natural gas",2020,15932.597
+LT,"natural gas",2020,174.375
+LU,"natural gas",2020,258.198
+LV,"natural gas",2020,109.571
+MD,"natural gas",2020,288.306
+ME,"natural gas",2020,NULL
+MK,"natural gas",2020,0.248
+MT,"natural gas",2020,NULL
+NL,"natural gas",2020,6323.064
+NO,"natural gas",2020,1.566
+PL,"natural gas",2020,3841.427
+PT,"natural gas",2020,295.747
+RO,"natural gas",2020,2745.97
+RS,"natural gas",2020,241.254
+SE,"natural gas",2020,19.017
+SI,"natural gas",2020,105.605
+SK,"natural gas",2020,1143.392
+TR,"natural gas",2020,12840.934
+XK,"natural gas",2020,NULL
+AL,"district heating",2020,NULL
+AT,"district heating",2020,835.362
+BA,"district heating",2020,98.094
+BE,"district heating",2020,14.004
+BG,"district heating",2020,329.942
+CY,"district heating",2020,NULL
+CZ,"district heating",2020,975.977
+DE,"district heating",2020,3863.762
+DK,"district heating",2020,1588.093
+EE,"district heating",2020,312.888
+EL,"district heating",2020,39.944
+ES,"district heating",2020,NULL
+FI,"district heating",2020,1460.184
+FR,"district heating",2020,1206.728
+GE,"district heating",2020,NULL
+HR,"district heating",2020,113.958
+HU,"district heating",2020,470.096
+IE,"district heating",2020,NULL
+IS,"district heating",2020,393.68
+IT,"district heating",2020,869.621
+LT,"district heating",2020,420.321
+LU,"district heating",2020,NULL
+LV,"district heating",2020,346.889
+MD,"district heating",2020,109.176
+ME,"district heating",2020,NULL
+MK,"district heating",2020,36.389
+MT,"district heating",2020,NULL
+NL,"district heating",2020,281.368
+NO,"district heating",2020,126.101
+PL,"district heating",2020,3636.906
+PT,"district heating",2020,0.86
+RO,"district heating",2020,711.585
+RS,"district heating",2020,436.319
+SE,"district heating",2020,2404.987
+SI,"district heating",2020,75.065
+SK,"district heating",2020,409.573
+TR,"district heating",2020,NULL
+XK,"district heating",2020,11.327
+AL,"heating oil",2020,113.136
+AT,"heating oil",2020,30.726
+BA,"heating oil",2020,6.568
+BE,"heating oil",2020,144.155
+BG,"heating oil",2020,19.986
+CY,"heating oil",2020,35.369
+CZ,"heating oil",2020,48.123
+DE,"heating oil",2020,870.369
+DK,"heating oil",2020,19.587
+EE,"heating oil",2020,4.347
+EL,"heating oil",2020,81.446
+ES,"heating oil",2020,841.657
+FI,"heating oil",2020,5.529
+FR,"heating oil",2020,793.451
+GE,"heating oil",2020,9.668
+HR,"heating oil",2020,45.806
+HU,"heating oil",2020,79.347
+IE,"heating oil",2020,55.286
+IS,"heating oil",2020,1.227
+IT,"heating oil",2020,1100.62
+LT,"heating oil",2020,31.935
+LU,"heating oil",2020,0.485
+LV,"heating oil",2020,15.669
+MD,"heating oil",2020,54.791
+ME,"heating oil",2020,1.904
+MK,"heating oil",2020,4.63
+MT,"heating oil",2020,13.889
+NL,"heating oil",2020,23.213
+NO,"heating oil",2020,5.129
+PL,"heating oil",2020,549.346
+PT,"heating oil",2020,396.509
+RO,"heating oil",2020,250.228
+RS,"heating oil",2020,26.077
+SE,"heating oil",2020,4.11
+SI,"heating oil",2020,26.11
+SK,"heating oil",2020,6.592
+TR,"heating oil",2020,446.363
+XK,"heating oil",2020,6.572
+AL,"other petroleum products",2020,NULL
+AT,"other petroleum products",2020,NULL
+BA,"other petroleum products",2020,NULL
+BE,"other petroleum products",2020,27.2
+BG,"other petroleum products",2020,NULL
+CY,"other petroleum products",2020,13.383
+CZ,"other petroleum products",2020,NULL
+DE,"other petroleum products",2020,6.134
+DK,"other petroleum products",2020,0.759
+EE,"other petroleum products",2020,NULL
+EL,"other petroleum products",2020,2.539
+ES,"other petroleum products",2020,NULL
+FI,"other petroleum products",2020,NULL
+FR,"other petroleum products",2020,160.897
+GE,"other petroleum products",2020,NULL
+HR,"other petroleum products",2020,NULL
+HU,"other petroleum products",2020,NULL
+IE,"other petroleum products",2020,1017.243
+IS,"other petroleum products",2020,NULL
+IT,"other petroleum products",2020,2.054
+LT,"other petroleum products",2020,NULL
+LU,"other petroleum products",2020,0.534
+LV,"other petroleum products",2020,NULL
+MD,"other petroleum products",2020,NULL
+ME,"other petroleum products",2020,NULL
+MK,"other petroleum products",2020,NULL
+MT,"other petroleum products",2020,NULL
+NL,"other petroleum products",2020,5.49
+NO,"other petroleum products",2020,NULL
+PL,"other petroleum products",2020,NULL
+PT,"other petroleum products",2020,0.046
+RO,"other petroleum products",2020,NULL
+RS,"other petroleum products",2020,NULL
+SE,"other petroleum products",2020,NULL
+SI,"other petroleum products",2020,NULL
+SK,"other petroleum products",2020,NULL
+TR,"other petroleum products",2020,8.859
+XK,"other petroleum products",2020,NULL
+AL,"domestic heating oil",2020,NULL
+AT,"domestic heating oil",2020,915.061
+BA,"domestic heating oil",2020,24.53
+BE,"domestic heating oil",2020,2039.388
+BG,"domestic heating oil",2020,1.132
+CY,"domestic heating oil",2020,61.062
+CZ,"domestic heating oil",2020,NULL
+DE,"domestic heating oil",2020,12054.941
+DK,"domestic heating oil",2020,140.091
+EE,"domestic heating oil",2020,2.021
+EL,"domestic heating oil",2020,1200.74
+ES,"domestic heating oil",2020,1611.422
+FI,"domestic heating oil",2020,219.694
+FR,"domestic heating oil",2020,4081.012
+GE,"domestic heating oil",2020,NULL
+HR,"domestic heating oil",2020,59.37
+HU,"domestic heating oil",2020,NULL
+IE,"domestic heating oil",2020,262.688
+IS,"domestic heating oil",2020,0.672
+IT,"domestic heating oil",2020,768.589
+LT,"domestic heating oil",2020,22.035
+LU,"domestic heating oil",2020,134.579
+LV,"domestic heating oil",2020,32.475
+MD,"domestic heating oil",2020,NULL
+ME,"domestic heating oil",2020,NULL
+MK,"domestic heating oil",2020,3.933
+MT,"domestic heating oil",2020,0.026
+NL,"domestic heating oil",2020,7.264
+NO,"domestic heating oil",2020,0.176
+PL,"domestic heating oil",2020,67.784
+PT,"domestic heating oil",2020,53.203
+RO,"domestic heating oil",2020,NULL
+RS,"domestic heating oil",2020,NULL
+SE,"domestic heating oil",2020,91.397
+SI,"domestic heating oil",2020,106.699
+SK,"domestic heating oil",2020,NULL
+TR,"domestic heating oil",2020,NULL
+XK,"domestic heating oil",2020,4.758
+AL,renewables/biomass,2020,119.065
+AT,renewables/biomass,2020,1684.075
+BA,renewables/biomass,2020,1154.056
+BE,renewables/biomass,2020,507.089
+BG,renewables/biomass,2020,847.749
+CY,renewables/biomass,2020,15.374
+CZ,renewables/biomass,2020,2058.426
+DE,renewables/biomass,2020,5629.55
+DK,renewables/biomass,2020,793.662
+EE,renewables/biomass,2020,396.484
+EL,renewables/biomass,2020,599.051
+ES,renewables/biomass,2020,1826.813
+FI,renewables/biomass,2020,1131.079
+FR,renewables/biomass,2020,5818.975
+GE,renewables/biomass,2020,226.539
+HR,renewables/biomass,2020,1014.409
+HU,renewables/biomass,2020,1266.098
+IE,renewables/biomass,2020,26
+IS,renewables/biomass,2020,NULL
+IT,renewables/biomass,2020,5955.436
+LT,renewables/biomass,2020,460.256
+LU,renewables/biomass,2020,15.3
+LV,renewables/biomass,2020,451.495
+MD,renewables/biomass,2020,559.568
+ME,renewables/biomass,2020,131.771
+MK,renewables/biomass,2020,188.387
+MT,renewables/biomass,2020,1.442
+NL,renewables/biomass,2020,379.721
+NO,renewables/biomass,2020,441.932
+PL,renewables/biomass,2020,4854.025
+PT,renewables/biomass,2020,764.684
+RO,renewables/biomass,2020,3060.725
+RS,renewables/biomass,2020,1356.045
+SE,renewables/biomass,2020,860.275
+SI,renewables/biomass,2020,410.849
+SK,renewables/biomass,2020,581.112
+TR,renewables/biomass,2020,1584
+XK,renewables/biomass,2020,343.745
+AL,"solar thermal",2020,7.801
+AT,"solar thermal",2020,121.587
+BA,"solar thermal",2020,NULL
+BE,"solar thermal",2020,25.222
+BG,"solar thermal",2020,11.51
+CY,"solar thermal",2020,62.874
+CZ,"solar thermal",2020,14.713
+DE,"solar thermal",2020,732.134
+DK,"solar thermal",2020,12.404
+EE,"solar thermal",2020,NULL
+EL,"solar thermal",2020,280.799
+ES,"solar thermal",2020,267.325
+FI,"solar thermal",2020,2.388
+FR,"solar thermal",2020,207.175
+GE,"solar thermal",2020,0.088
+HR,"solar thermal",2020,11.441
+HU,"solar thermal",2020,14.713
+IE,"solar thermal",2020,13.901
+IS,"solar thermal",2020,NULL
+IT,"solar thermal",2020,180.184
+LT,"solar thermal",2020,NULL
+LU,"solar thermal",2020,2.392
+LV,"solar thermal",2020,NULL
+MD,"solar thermal",2020,NULL
+ME,"solar thermal",2020,NULL
+MK,"solar thermal",2020,NULL
+MT,"solar thermal",2020,5.115
+NL,"solar thermal",2020,22.475
+NO,"solar thermal",2020,NULL
+PL,"solar thermal",2020,74.535
+PT,"solar thermal",2020,60.415
+RO,"solar thermal",2020,NULL
+RS,"solar thermal",2020,NULL
+SE,"solar thermal",2020,10.414
+SI,"solar thermal",2020,9.479
+SK,"solar thermal",2020,7.237
+TR,"solar thermal",2020,548
+XK,"solar thermal",2020,0.103
+AL,"heat pumps",2020,NULL
+AT,"heat pumps",2020,229.928
+BA,"heat pumps",2020,NULL
+BE,"heat pumps",2020,105.379
+BG,"heat pumps",2020,NULL
+CY,"heat pumps",2020,13.061
+CZ,"heat pumps",2020,186.999
+DE,"heat pumps",2020,1254.06
+DK,"heat pumps",2020,227.291
+EE,"heat pumps",2020,NULL
+EL,"heat pumps",2020,83.405
+ES,"heat pumps",2020,178.294
+FI,"heat pumps",2020,499.618
+FR,"heat pumps",2020,2711.235
+GE,"heat pumps",2020,NULL
+HR,"heat pumps",2020,14.622
+HU,"heat pumps",2020,11.775
+IE,"heat pumps",2020,28.972
+IS,"heat pumps",2020,NULL
+IT,"heat pumps",2020,95.314
+LT,"heat pumps",2020,27.754
+LU,"heat pumps",2020,4.349
+LV,"heat pumps",2020,NULL
+MD,"heat pumps",2020,NULL
+ME,"heat pumps",2020,NULL
+MK,"heat pumps",2020,NULL
+MT,"heat pumps",2020,9.046
+NL,"heat pumps",2020,149.648
+NO,"heat pumps",2020,518.781
+PL,"heat pumps",2020,277.91
+PT,"heat pumps",2020,255.111
+RO,"heat pumps",2020,NULL
+RS,"heat pumps",2020,NULL
+SE,"heat pumps",2020,NULL
+SI,"heat pumps",2020,44.987
+SK,"heat pumps",2020,37.119
+TR,"heat pumps",2020,NULL
+XK,"heat pumps",2020,NULL
+AL,TOTAL,2020,538.642
+AT,TOTAL,2020,7033.251
+BA,TOTAL,2020,1800.155
+BE,TOTAL,2020,7581.389
+BG,TOTAL,2020,2382.245
+CY,TOTAL,2020,363.552
+CZ,TOTAL,2020,7148.052
+DE,TOTAL,2020,57979.779
+DK,TOTAL,2020,4273.399
+EE,TOTAL,2020,944.704
+EL,TOTAL,2020,4277.83
+ES,TOTAL,2020,14555.763
+FI,TOTAL,2020,5284.813
+FR,TOTAL,2020,39984.582
+GE,TOTAL,2020,1408.174
+HR,TOTAL,2020,2277.143
+HU,TOTAL,2020,5980.487
+IE,TOTAL,2020,3132.847
+IS,TOTAL,2020,482.238
+IT,TOTAL,2020,30655.992
+LT,TOTAL,2020,1433.361
+LU,TOTAL,2020,497.737
+LV,TOTAL,2020,1115.366
+MD,TOTAL,2020,1203.437
+ME,TOTAL,2020,243.169
+MK,TOTAL,2020,508.56
+MT,TOTAL,2020,105.933
+NL,TOTAL,2020,9110.154
+NO,TOTAL,2020,4527.554
+PL,TOTAL,2020,21101.347
+PT,TOTAL,2020,3014.19
+RO,TOTAL,2020,8007.426
+RS,TOTAL,2020,3488.068
+SE,TOTAL,2020,7182.148
+SI,TOTAL,2020,1091.333
+SK,TOTAL,2020,2744.571
+TR,TOTAL,2020,26034.742
+XK,TOTAL,2020,608.818
+AL,coal,2021,NULL
+AT,coal,2021,9.285
+BA,coal,2021,60.607
+BE,coal,2021,45.584
+BG,coal,2021,139.648
+CY,coal,2021,NULL
+CZ,coal,2021,636.448
+DE,coal,2021,348.113
+DK,coal,2021,NULL
+EE,coal,2021,0.596
+EL,coal,2021,3.234
+ES,coal,2021,1.275
+FI,coal,2021,NULL
+FR,coal,2021,26.206
+GE,coal,2021,NULL
+HR,coal,2021,1.761
+HU,coal,2021,45.075
+IE,coal,2021,155.488
+IS,coal,2021,NULL
+IT,coal,2021,NULL
+LT,coal,2021,30.299
+LU,coal,2021,0.214
+LV,coal,2021,1.261
+MD,coal,2021,44.124
+ME,coal,2021,1.916
+MK,coal,2021,0.184
+MT,coal,2021,NULL
+NL,coal,2021,0.379
+NO,coal,2021,NULL
+PL,coal,2021,4857.368
+PT,coal,2021,NULL
+RO,coal,2021,46.456
+RS,coal,2021,147.967
+SE,coal,2021,NULL
+SI,coal,2021,0.031
+SK,coal,2021,55.674
+TR,coal,2021,3570.595
+XK,coal,2021,2.853
+AL,electricity,2021,301.346
+AT,electricity,2021,1894.03
+BA,electricity,2021,422.356
+BE,electricity,2021,1510.499
+BG,electricity,2021,1027.798
+CY,electricity,2021,156.269
+CZ,electricity,2021,1484.089
+DE,electricity,2021,11306.965
+DK,electricity,2021,939.659
+EE,electricity,2021,191.66
+EL,electricity,2021,1523.556
+ES,electricity,2021,6289.682
+FI,electricity,2021,2086.071
+FR,electricity,2021,14575.679
+GE,electricity,2021,227.085
+HR,electricity,2021,567.016
+HU,electricity,2021,1072.657
+IE,electricity,2021,751.653
+IS,electricity,2021,75.752
+IT,electricity,2021,5771.254
+LT,electricity,2021,293.216
+LU,electricity,2021,80.873
+LV,electricity,2021,154.427
+MD,electricity,2021,156.922
+ME,electricity,2021,114.91
+MK,electricity,2021,285.194
+MT,electricity,2021,81.498
+NL,electricity,2021,1932.055
+NO,electricity,2021,3575.041
+PL,electricity,2021,2630.267
+PT,electricity,2021,1227.68
+RO,electricity,2021,1224.782
+RS,electricity,2021,1193.176
+SE,electricity,2021,3972.485
+SI,electricity,2021,326.962
+SK,electricity,2021,513.156
+TR,electricity,2021,5287.964
+XK,electricity,2021,287.447
+AL,"natural gas",2021,NULL
+AT,"natural gas",2021,1562.29
+BA,"natural gas",2021,46.174
+BE,"natural gas",2021,3659.629
+BG,"natural gas",2021,113.423
+CY,"natural gas",2021,NULL
+CZ,"natural gas",2021,2081.591
+DE,"natural gas",2021,25128.124
+DK,"natural gas",2021,576.617
+EE,"natural gas",2021,60.358
+EL,"natural gas",2021,499.31
+ES,"natural gas",2021,3634.566
+FI,"natural gas",2021,28.068
+FR,"natural gas",2021,11505.062
+GE,"natural gas",2021,1032.062
+HR,"natural gas",2021,524.147
+HU,"natural gas",2021,3329.364
+IE,"natural gas",2021,593.79
+IS,"natural gas",2021,NULL
+IT,"natural gas",2021,17405.244
+LT,"natural gas",2021,219.905
+LU,"natural gas",2021,240.596
+LV,"natural gas",2021,115.401
+MD,"natural gas",2021,343.981
+ME,"natural gas",2021,NULL
+MK,"natural gas",2021,0.288
+MT,"natural gas",2021,NULL
+NL,"natural gas",2021,7175.828
+NO,"natural gas",2021,1.536
+PL,"natural gas",2021,4566.035
+PT,"natural gas",2021,287.759
+RO,"natural gas",2021,3238.374
+RS,"natural gas",2021,295.939
+SE,"natural gas",2021,29.841
+SI,"natural gas",2021,112.452
+SK,"natural gas",2021,1228.432
+TR,"natural gas",2021,13717.561
+XK,"natural gas",2021,NULL
+AL,"district heating",2021,NULL
+AT,"district heating",2021,904.772
+BA,"district heating",2021,99.718
+BE,"district heating",2021,15.083
+BG,"district heating",2021,338.831
+CY,"district heating",2021,NULL
+CZ,"district heating",2021,1090.528
+DE,"district heating",2021,3863.762
+DK,"district heating",2021,1751.579
+EE,"district heating",2021,320.054
+EL,"district heating",2021,35.776
+ES,"district heating",2021,NULL
+FI,"district heating",2021,1692.868
+FR,"district heating",2021,1438.348
+GE,"district heating",2021,NULL
+HR,"district heating",2021,122.862
+HU,"district heating",2021,500.717
+IE,"district heating",2021,NULL
+IS,"district heating",2021,411.298
+IT,"district heating",2021,707.864
+LT,"district heating",2021,501.123
+LU,"district heating",2021,NULL
+LV,"district heating",2021,416.086
+MD,"district heating",2021,122.098
+ME,"district heating",2021,NULL
+MK,"district heating",2021,40.57
+MT,"district heating",2021,NULL
+NL,"district heating",2021,317.197
+NO,"district heating",2021,147.509
+PL,"district heating",2021,4060.38
+PT,"district heating",2021,0.86
+RO,"district heating",2021,726.845
+RS,"district heating",2021,459.654
+SE,"district heating",2021,2745.581
+SI,"district heating",2021,81.841
+SK,"district heating",2021,415.496
+TR,"district heating",2021,NULL
+XK,"district heating",2021,13.19
+AL,"heating oil",2021,122.176
+AT,"heating oil",2021,32.354
+BA,"heating oil",2021,6.674
+BE,"heating oil",2021,156.582
+BG,"heating oil",2021,20.573
+CY,"heating oil",2021,37.805
+CZ,"heating oil",2021,48.123
+DE,"heating oil",2021,790.122
+DK,"heating oil",2021,20.661
+EE,"heating oil",2021,3.695
+EL,"heating oil",2021,105.844
+ES,"heating oil",2021,895.978
+FI,"heating oil",2021,5.529
+FR,"heating oil",2021,898.278
+GE,"heating oil",2021,8.148
+HR,"heating oil",2021,45.918
+HU,"heating oil",2021,73.836
+IE,"heating oil",2021,47.77
+IS,"heating oil",2021,1.179
+IT,"heating oil",2021,1154.767
+LT,"heating oil",2021,26.795
+LU,"heating oil",2021,0.233
+LV,"heating oil",2021,16.437
+MD,"heating oil",2021,53.394
+ME,"heating oil",2021,2.016
+MK,"heating oil",2021,4.756
+MT,"heating oil",2021,12.772
+NL,"heating oil",2021,23.214
+NO,"heating oil",2021,4.934
+PL,"heating oil",2021,521.878
+PT,"heating oil",2021,343.532
+RO,"heating oil",2021,256.789
+RS,"heating oil",2021,30.625
+SE,"heating oil",2021,4.11
+SI,"heating oil",2021,29.436
+SK,"heating oil",2021,8.79
+TR,"heating oil",2021,429.911
+XK,"heating oil",2021,6.44
+AL,"other petroleum products",2021,NULL
+AT,"other petroleum products",2021,NULL
+BA,"other petroleum products",2021,NULL
+BE,"other petroleum products",2021,35.15
+BG,"other petroleum products",2021,NULL
+CY,"other petroleum products",2021,11.984
+CZ,"other petroleum products",2021,NULL
+DE,"other petroleum products",2021,9.2
+DK,"other petroleum products",2021,0.216
+EE,"other petroleum products",2021,NULL
+EL,"other petroleum products",2021,2.092
+ES,"other petroleum products",2021,0.046
+FI,"other petroleum products",2021,NULL
+FR,"other petroleum products",2021,176.706
+GE,"other petroleum products",2021,NULL
+HR,"other petroleum products",2021,NULL
+HU,"other petroleum products",2021,NULL
+IE,"other petroleum products",2021,888.426
+IS,"other petroleum products",2021,NULL
+IT,"other petroleum products",2021,1.604
+LT,"other petroleum products",2021,NULL
+LU,"other petroleum products",2021,0.636
+LV,"other petroleum products",2021,NULL
+MD,"other petroleum products",2021,NULL
+ME,"other petroleum products",2021,NULL
+MK,"other petroleum products",2021,NULL
+MT,"other petroleum products",2021,NULL
+NL,"other petroleum products",2021,5.383
+NO,"other petroleum products",2021,NULL
+PL,"other petroleum products",2021,NULL
+PT,"other petroleum products",2021,0.036
+RO,"other petroleum products",2021,NULL
+RS,"other petroleum products",2021,NULL
+SE,"other petroleum products",2021,NULL
+SI,"other petroleum products",2021,NULL
+SK,"other petroleum products",2021,NULL
+TR,"other petroleum products",2021,2.112
+XK,"other petroleum products",2021,NULL
+AL,"domestic heating oil",2021,NULL
+AT,"domestic heating oil",2021,958.144
+BA,"domestic heating oil",2021,21.213
+BE,"domestic heating oil",2021,1912.857
+BG,"domestic heating oil",2021,0.473
+CY,"domestic heating oil",2021,50.662
+CZ,"domestic heating oil",2021,NULL
+DE,"domestic heating oil",2021,6997.667
+DK,"domestic heating oil",2021,122.637
+EE,"domestic heating oil",2021,1.01
+EL,"domestic heating oil",2021,1033.328
+ES,"domestic heating oil",2021,1564.975
+FI,"domestic heating oil",2021,194.664
+FR,"domestic heating oil",2021,3910.57
+GE,"domestic heating oil",2021,NULL
+HR,"domestic heating oil",2021,43.151
+HU,"domestic heating oil",2021,NULL
+IE,"domestic heating oil",2021,259.472
+IS,"domestic heating oil",2021,0.647
+IT,"domestic heating oil",2021,721.713
+LT,"domestic heating oil",2021,25.52
+LU,"domestic heating oil",2021,133.299
+LV,"domestic heating oil",2021,31.877
+MD,"domestic heating oil",2021,NULL
+ME,"domestic heating oil",2021,NULL
+MK,"domestic heating oil",2021,4.04
+MT,"domestic heating oil",2021,0.027
+NL,"domestic heating oil",2021,7.272
+NO,"domestic heating oil",2021,0.086
+PL,"domestic heating oil",2021,100.65
+PT,"domestic heating oil",2021,50.111
+RO,"domestic heating oil",2021,NULL
+RS,"domestic heating oil",2021,NULL
+SE,"domestic heating oil",2021,106.254
+SI,"domestic heating oil",2021,87.42
+SK,"domestic heating oil",2021,NULL
+TR,"domestic heating oil",2021,NULL
+XK,"domestic heating oil",2021,5.173
+AL,renewables/biomass,2021,116.634
+AT,renewables/biomass,2021,2023.561
+BA,renewables/biomass,2021,1124.63
+BE,renewables/biomass,2021,622.779
+BG,renewables/biomass,2021,750.893
+CY,renewables/biomass,2021,14.569
+CZ,renewables/biomass,2021,2292.385
+DE,renewables/biomass,2021,6645.242
+DK,renewables/biomass,2021,816.639
+EE,renewables/biomass,2021,387.884
+EL,renewables/biomass,2021,645.702
+ES,renewables/biomass,2021,1636.142
+FI,renewables/biomass,2021,1268.534
+FR,renewables/biomass,2021,6846.396
+GE,renewables/biomass,2021,233.989
+HR,renewables/biomass,2021,1101.862
+HU,renewables/biomass,2021,1317.522
+IE,renewables/biomass,2021,26.337
+IS,renewables/biomass,2021,NULL
+IT,renewables/biomass,2021,6600.445
+LT,renewables/biomass,2021,462.238
+LU,renewables/biomass,2021,15.96
+LV,renewables/biomass,2021,460.285
+MD,renewables/biomass,2021,595.491
+ME,renewables/biomass,2021,138.005
+MK,renewables/biomass,2021,189.168
+MT,renewables/biomass,2021,1.566
+NL,renewables/biomass,2021,380.21
+NO,renewables/biomass,2021,490.833
+PL,renewables/biomass,2021,4947.353
+PT,renewables/biomass,2021,767.88
+RO,renewables/biomass,2021,3252.206
+RS,renewables/biomass,2021,1428.129
+SE,renewables/biomass,2021,886.954
+SI,renewables/biomass,2021,461.803
+SK,renewables/biomass,2021,685.01
+TR,renewables/biomass,2021,1528.302
+XK,renewables/biomass,2021,339.637
+AL,"solar thermal",2021,8.12
+AT,"solar thermal",2021,132.91
+BA,"solar thermal",2021,NULL
+BE,"solar thermal",2021,23.104
+BG,"solar thermal",2021,12.254
+CY,"solar thermal",2021,63.971
+CZ,"solar thermal",2021,15.112
+DE,"solar thermal",2021,702.804
+DK,"solar thermal",2021,11.341
+EE,"solar thermal",2021,NULL
+EL,"solar thermal",2021,291.151
+ES,"solar thermal",2021,277.878
+FI,"solar thermal",2021,2.627
+FR,"solar thermal",2021,216.369
+GE,"solar thermal",2021,0.098
+HR,"solar thermal",2021,11.947
+HU,"solar thermal",2021,15.262
+IE,"solar thermal",2021,13.848
+IS,"solar thermal",2021,NULL
+IT,"solar thermal",2021,188.957
+LT,"solar thermal",2021,NULL
+LU,"solar thermal",2021,2.489
+LV,"solar thermal",2021,NULL
+MD,"solar thermal",2021,NULL
+ME,"solar thermal",2021,NULL
+MK,"solar thermal",2021,2.889
+MT,"solar thermal",2021,3.6
+NL,"solar thermal",2021,22.237
+NO,"solar thermal",2021,NULL
+PL,"solar thermal",2021,79.732
+PT,"solar thermal",2021,63.288
+RO,"solar thermal",2021,NULL
+RS,"solar thermal",2021,NULL
+SE,"solar thermal",2021,10.151
+SI,"solar thermal",2021,10.451
+SK,"solar thermal",2021,7.786
+TR,"solar thermal",2021,559
+XK,"solar thermal",2021,0.099
+AL,"heat pumps",2021,NULL
+AT,"heat pumps",2021,287.729
+BA,"heat pumps",2021,NULL
+BE,"heat pumps",2021,178.96
+BG,"heat pumps",2021,NULL
+CY,"heat pumps",2021,13.734
+CZ,"heat pumps",2021,215.89
+DE,"heat pumps",2021,1352.513
+DK,"heat pumps",2021,266.486
+EE,"heat pumps",2021,NULL
+EL,"heat pumps",2021,98.865
+ES,"heat pumps",2021,195.373
+FI,"heat pumps",2021,631.58
+FR,"heat pumps",2021,3629.392
+GE,"heat pumps",2021,NULL
+HR,"heat pumps",2021,15.957
+HU,"heat pumps",2021,19.968
+IE,"heat pumps",2021,35.356
+IS,"heat pumps",2021,NULL
+IT,"heat pumps",2021,642.28
+LT,"heat pumps",2021,58.374
+LU,"heat pumps",2021,4.874
+LV,"heat pumps",2021,0.335
+MD,"heat pumps",2021,NULL
+ME,"heat pumps",2021,NULL
+MK,"heat pumps",2021,NULL
+MT,"heat pumps",2021,10.781
+NL,"heat pumps",2021,195.893
+NO,"heat pumps",2021,549.295
+PL,"heat pumps",2021,345.824
+PT,"heat pumps",2021,267.968
+RO,"heat pumps",2021,NULL
+RS,"heat pumps",2021,NULL
+SE,"heat pumps",2021,NULL
+SI,"heat pumps",2021,51.693
+SK,"heat pumps",2021,51.28
+TR,"heat pumps",2021,NULL
+XK,"heat pumps",2021,NULL
+AL,TOTAL,2021,548.63
+AT,TOTAL,2021,7811.649
+BA,TOTAL,2021,1787.67
+BE,TOTAL,2021,8228.015
+BG,TOTAL,2021,2403.893
+CY,TOTAL,2021,355.143
+CZ,TOTAL,2021,7864.166
+DE,TOTAL,2021,57672.167
+DK,TOTAL,2021,4519.97
+EE,TOTAL,2021,965.256
+EL,TOTAL,2021,4278.524
+ES,TOTAL,2021,14513.752
+FI,TOTAL,2021,5962.385
+FR,TOTAL,2021,43310.438
+GE,TOTAL,2021,1507.717
+HR,TOTAL,2021,2441.87
+HU,TOTAL,2021,6374.4
+IE,TOTAL,2021,2983.656
+IS,TOTAL,2021,500.795
+IT,TOTAL,2021,33244.961
+LT,TOTAL,2021,1629.694
+LU,TOTAL,2021,479.175
+LV,TOTAL,2021,1202.993
+MD,TOTAL,2021,1316.674
+ME,TOTAL,2021,257.803
+MK,TOTAL,2021,527.087
+MT,TOTAL,2021,110.244
+NL,TOTAL,2021,10087.558
+NO,TOTAL,2021,4774.72
+PL,TOTAL,2021,22130.789
+PT,TOTAL,2021,3022.524
+RO,TOTAL,2021,8764.871
+RS,TOTAL,2021,3555.492
+SE,TOTAL,2021,7878.771
+SI,TOTAL,2021,1162.089
+SK,TOTAL,2021,2966.314
+TR,TOTAL,2021,26422.866
+XK,TOTAL,2021,655.497
+AL,coal,2022,NULL
+AT,coal,2022,8.331
+BA,coal,2022,53.947
+BE,coal,2022,31.911
+BG,coal,2022,42.011
+CY,coal,2022,NULL
+CZ,coal,2022,668.11
+DE,coal,2022,298.147
+DK,coal,2022,NULL
+EE,coal,2022,NULL
+EL,coal,2022,1.661
+ES,coal,2022,1.275
+FI,coal,2022,NULL
+FR,coal,2022,26.548
+GE,coal,2022,0.084
+HR,coal,2022,1.527
+HU,coal,2022,49.531
+IE,coal,2022,99.584
+IS,coal,2022,NULL
+IT,coal,2022,NULL
+LT,coal,2022,26.339
+LU,coal,2022,1.021
+LV,coal,2022,1.243
+MD,coal,2022,35.663
+ME,coal,2022,1.809
+MK,coal,2022,0.183
+MT,coal,2022,NULL
+NL,coal,2022,0.066
+NO,coal,2022,NULL
+PL,coal,2022,4119.228
+PT,coal,2022,NULL
+RO,coal,2022,45.472
+RS,coal,2022,131.12
+SE,coal,2022,NULL
+SI,coal,2022,0.009
+SK,coal,2022,50.548
+TR,coal,2022,2701.253
+XK,coal,2022,2.799
+AL,electricity,2022,288.807
+AT,electricity,2022,1818.532
+BA,electricity,2022,423.818
+BE,electricity,2022,1392.657
+BG,electricity,2022,1029.208
+CY,electricity,2022,152.905
+CZ,electricity,2022,1350.146
+DE,electricity,2022,11533.62
+DK,electricity,2022,833.966
+EE,electricity,2022,169.121
+EL,electricity,2022,1425.755
+ES,electricity,2022,6273.345
+FI,electricity,2022,1945.486
+FR,electricity,2022,13344.612
+GE,electricity,2022,230.61
+HR,electricity,2022,555.83
+HU,electricity,2022,1061.737
+IE,electricity,2022,705.707
+IS,electricity,2022,74.235
+IT,electricity,2022,5558.042
+LT,electricity,2022,282.812
+LU,electricity,2022,80.314
+LV,electricity,2022,144.894
+MD,electricity,2022,150.129
+ME,electricity,2022,118.083
+MK,electricity,2022,264.853
+MT,electricity,2022,88.708
+NL,electricity,2022,1872.894
+NO,electricity,2022,3125.336
+PL,electricity,2022,2481.513
+PT,electricity,2022,1195.532
+RO,electricity,2022,1160.562
+RS,electricity,2022,1150.405
+SE,electricity,2022,3494.067
+SI,electricity,2022,320.811
+SK,electricity,2022,506.535
+TR,electricity,2022,5306.144
+XK,electricity,2022,291.37
+AL,"natural gas",2022,NULL
+AT,"natural gas",2022,1298.999
+BA,"natural gas",2022,41.359
+BE,"natural gas",2022,2908.734
+BG,"natural gas",2022,86.989
+CY,"natural gas",2022,NULL
+CZ,"natural gas",2022,1662.033
+DE,"natural gas",2022,21370.549
+DK,"natural gas",2022,471.76
+EE,"natural gas",2022,48.706
+EL,"natural gas",2022,465.659
+ES,"natural gas",2022,3118.551
+FI,"natural gas",2022,19.085
+FR,"natural gas",2022,9575.106
+GE,"natural gas",2022,1126.535
+HR,"natural gas",2022,489.182
+HU,"natural gas",2022,2861.715
+IE,"natural gas",2022,538.699
+IS,"natural gas",2022,NULL
+IT,"natural gas",2022,14974.079
+LT,"natural gas",2022,197.53
+LU,"natural gas",2022,214.21
+LV,"natural gas",2022,104.631
+MD,"natural gas",2022,246.986
+ME,"natural gas",2022,NULL
+MK,"natural gas",2022,0.142
+MT,"natural gas",2022,NULL
+NL,"natural gas",2022,5347.99
+NO,"natural gas",2022,1.235
+PL,"natural gas",2022,4338.762
+PT,"natural gas",2022,267.919
+RO,"natural gas",2022,2709.262
+RS,"natural gas",2022,300.425
+SE,"natural gas",2022,25.716
+SI,"natural gas",2022,100.254
+SK,"natural gas",2022,1107.692
+TR,"natural gas",2022,14808.206
+XK,"natural gas",2022,NULL
+AL,"district heating",2022,NULL
+AT,"district heating",2022,862.957
+BA,"district heating",2022,93.341
+BE,"district heating",2022,10.636
+BG,"district heating",2022,307.398
+CY,"district heating",2022,NULL
+CZ,"district heating",2022,957.854
+DE,"district heating",2022,3450.201
+DK,"district heating",2022,1594.86
+EE,"district heating",2022,334.384
+EL,"district heating",2022,27.383
+ES,"district heating",2022,NULL
+FI,"district heating",2022,1580.921
+FR,"district heating",2022,1206.227
+GE,"district heating",2022,NULL
+HR,"district heating",2022,110.368
+HU,"district heating",2022,458.13
+IE,"district heating",2022,NULL
+IS,"district heating",2022,355.26
+IT,"district heating",2022,686.456
+LT,"district heating",2022,457.629
+LU,"district heating",2022,NULL
+LV,"district heating",2022,365.687
+MD,"district heating",2022,100.363
+ME,"district heating",2022,NULL
+MK,"district heating",2022,33.544
+MT,"district heating",2022,NULL
+NL,"district heating",2022,245.914
+NO,"district heating",2022,142.08
+PL,"district heating",2022,3636.906
+PT,"district heating",2022,0.597
+RO,"district heating",2022,610.531
+RS,"district heating",2022,381.362
+SE,"district heating",2022,2547.459
+SI,"district heating",2022,70.271
+SK,"district heating",2022,338.922
+TR,"district heating",2022,NULL
+XK,"district heating",2022,13.118
+AL,"heating oil",2022,114.266
+AT,"heating oil",2022,27.517
+BA,"heating oil",2022,7.354
+BE,"heating oil",2022,135.569
+BG,"heating oil",2022,17.073
+CY,"heating oil",2022,39.744
+CZ,"heating oil",2022,44.984
+DE,"heating oil",2022,866.254
+DK,"heating oil",2022,21.191
+EE,"heating oil",2022,2.173
+EL,"heating oil",2022,116.144
+ES,"heating oil",2022,1010.068
+FI,"heating oil",2022,4.423
+FR,"heating oil",2022,727.565
+GE,"heating oil",2022,5.613
+HR,"heating oil",2022,41.998
+HU,"heating oil",2022,66.122
+IE,"heating oil",2022,45.353
+IS,"heating oil",2022,1.122
+IT,"heating oil",2022,1071.128
+LT,"heating oil",2022,30.985
+LU,"heating oil",2022,0.251
+LV,"heating oil",2022,17.512
+MD,"heating oil",2022,51.38
+ME,"heating oil",2022,1.904
+MK,"heating oil",2022,3.698
+MT,"heating oil",2022,12.154
+NL,"heating oil",2022,23.213
+NO,"heating oil",2022,3.979
+PL,"heating oil",2022,508.694
+PT,"heating oil",2022,311.294
+RO,"heating oil",2022,265.419
+RS,"heating oil",2022,35.281
+SE,"heating oil",2022,4.11
+SI,"heating oil",2022,26.685
+SK,"heating oil",2022,7.691
+TR,"heating oil",2022,377.562
+XK,"heating oil",2022,7.857
+AL,"other petroleum products",2022,NULL
+AT,"other petroleum products",2022,NULL
+BA,"other petroleum products",2022,NULL
+BE,"other petroleum products",2022,32.012
+BG,"other petroleum products",2022,NULL
+CY,"other petroleum products",2022,12.278
+CZ,"other petroleum products",2022,NULL
+DE,"other petroleum products",2022,5.111
+DK,"other petroleum products",2022,0.043
+EE,"other petroleum products",2022,NULL
+EL,"other petroleum products",2022,2.531
+ES,"other petroleum products",2022,0.022
+FI,"other petroleum products",2022,NULL
+FR,"other petroleum products",2022,176.956
+GE,"other petroleum products",2022,NULL
+HR,"other petroleum products",2022,NULL
+HU,"other petroleum products",2022,NULL
+IE,"other petroleum products",2022,735.685
+IS,"other petroleum products",2022,NULL
+IT,"other petroleum products",2022,1.387
+LT,"other petroleum products",2022,NULL
+LU,"other petroleum products",2022,0.68
+LV,"other petroleum products",2022,NULL
+MD,"other petroleum products",2022,NULL
+ME,"other petroleum products",2022,NULL
+MK,"other petroleum products",2022,NULL
+MT,"other petroleum products",2022,NULL
+NL,"other petroleum products",2022,5.268
+NO,"other petroleum products",2022,NULL
+PL,"other petroleum products",2022,NULL
+PT,"other petroleum products",2022,0.018
+RO,"other petroleum products",2022,NULL
+RS,"other petroleum products",2022,NULL
+SE,"other petroleum products",2022,NULL
+SI,"other petroleum products",2022,NULL
+SK,"other petroleum products",2022,NULL
+TR,"other petroleum products",2022,1.786
+XK,"other petroleum products",2022,NULL
+AL,"domestic heating oil",2022,NULL
+AT,"domestic heating oil",2022,816.749
+BA,"domestic heating oil",2022,20.381
+BE,"domestic heating oil",2022,1653.017
+BG,"domestic heating oil",2022,1.055
+CY,"domestic heating oil",2022,55.852
+CZ,"domestic heating oil",2022,NULL
+DE,"domestic heating oil",2022,9842.099
+DK,"domestic heating oil",2022,128.281
+EE,"domestic heating oil",2022,1.01
+EL,"domestic heating oil",2022,1165.827
+ES,"domestic heating oil",2022,1461.783
+FI,"domestic heating oil",2022,138.243
+FR,"domestic heating oil",2022,2945.24
+GE,"domestic heating oil",2022,NULL
+HR,"domestic heating oil",2022,57.228
+HU,"domestic heating oil",2022,NULL
+IE,"domestic heating oil",2022,214.862
+IS,"domestic heating oil",2022,0.533
+IT,"domestic heating oil",2022,604.096
+LT,"domestic heating oil",2022,30.234
+LU,"domestic heating oil",2022,128.426
+LV,"domestic heating oil",2022,31.866
+MD,"domestic heating oil",2022,NULL
+ME,"domestic heating oil",2022,NULL
+MK,"domestic heating oil",2022,3.81
+MT,"domestic heating oil",2022,0.031
+NL,"domestic heating oil",2022,7.265
+NO,"domestic heating oil",2022,NULL
+PL,"domestic heating oil",2022,87.298
+PT,"domestic heating oil",2022,42.986
+RO,"domestic heating oil",2022,NULL
+RS,"domestic heating oil",2022,NULL
+SE,"domestic heating oil",2022,54.712
+SI,"domestic heating oil",2022,97.72
+SK,"domestic heating oil",2022,NULL
+TR,"domestic heating oil",2022,NULL
+XK,"domestic heating oil",2022,6.717
+AL,renewables/biomass,2022,111.972
+AT,renewables/biomass,2022,1868.409
+BA,renewables/biomass,2022,1197.955
+BE,renewables/biomass,2022,577.453
+BG,renewables/biomass,2022,640.213
+CY,renewables/biomass,2022,15.145
+CZ,renewables/biomass,2022,2149.951
+DE,renewables/biomass,2022,7237.747
+DK,renewables/biomass,2022,655.256
+EE,renewables/biomass,2022,408.485
+EL,renewables/biomass,2022,672.057
+ES,renewables/biomass,2022,1638.387
+FI,renewables/biomass,2022,1166.046
+FR,renewables/biomass,2022,6027.276
+GE,renewables/biomass,2022,206.339
+HR,renewables/biomass,2022,998.775
+HU,renewables/biomass,2022,1278.566
+IE,renewables/biomass,2022,23.336
+IS,renewables/biomass,2022,NULL
+IT,renewables/biomass,2022,5510.021
+LT,renewables/biomass,2022,440.671
+LU,renewables/biomass,2022,21.612
+LV,renewables/biomass,2022,441.971
+MD,renewables/biomass,2022,486.959
+ME,renewables/biomass,2022,126.063
+MK,renewables/biomass,2022,183.253
+MT,renewables/biomass,2022,1.802
+NL,renewables/biomass,2022,380.371
+NO,renewables/biomass,2022,522.646
+PL,renewables/biomass,2022,4703.283
+PT,renewables/biomass,2022,767.8
+RO,renewables/biomass,2022,3071.577
+RS,renewables/biomass,2022,1427.816
+SE,renewables/biomass,2022,816.232
+SI,renewables/biomass,2022,371.771
+SK,renewables/biomass,2022,594.487
+TR,renewables/biomass,2022,1642.684
+XK,renewables/biomass,2022,232.272
+AL,"solar thermal",2022,9.12
+AT,"solar thermal",2022,126.051
+BA,"solar thermal",2022,NULL
+BE,"solar thermal",2022,24.74
+BG,"solar thermal",2022,13.45
+CY,"solar thermal",2022,64.996
+CZ,"solar thermal",2022,15.641
+DE,"solar thermal",2022,800.158
+DK,"solar thermal",2022,13.031
+EE,"solar thermal",2022,NULL
+EL,"solar thermal",2022,306.172
+ES,"solar thermal",2022,286.281
+FI,"solar thermal",2022,2.627
+FR,"solar thermal",2022,228.156
+GE,"solar thermal",2022,0.115
+HR,"solar thermal",2022,11.242
+HU,"solar thermal",2022,15.692
+IE,"solar thermal",2022,13.891
+IS,"solar thermal",2022,NULL
+IT,"solar thermal",2022,204.991
+LT,"solar thermal",2022,NULL
+LU,"solar thermal",2022,2.52
+LV,"solar thermal",2022,NULL
+MD,"solar thermal",2022,NULL
+ME,"solar thermal",2022,NULL
+MK,"solar thermal",2022,2.899
+MT,"solar thermal",2022,3.21
+NL,"solar thermal",2022,22.308
+NO,"solar thermal",2022,NULL
+PL,"solar thermal",2022,99.688
+PT,"solar thermal",2022,64.419
+RO,"solar thermal",2022,NULL
+RS,"solar thermal",2022,NULL
+SE,"solar thermal",2022,9.793
+SI,"solar thermal",2022,10.371
+SK,"solar thermal",2022,8.169
+TR,"solar thermal",2022,783.855
+XK,"solar thermal",2022,0.095
+AL,"heat pumps",2022,NULL
+AT,"heat pumps",2022,275.27
+BA,"heat pumps",2022,NULL
+BE,"heat pumps",2022,202.577
+BG,"heat pumps",2022,NULL
+CY,"heat pumps",2022,12.76
+CZ,"heat pumps",2022,309.046
+DE,"heat pumps",2022,1549.513
+DK,"heat pumps",2022,267.178
+EE,"heat pumps",2022,NULL
+EL,"heat pumps",2022,105.076
+ES,"heat pumps",2022,211.631
+FI,"heat pumps",2022,688.64
+FR,"heat pumps",2022,3579.472
+GE,"heat pumps",2022,NULL
+HR,"heat pumps",2022,14.121
+HU,"heat pumps",2022,29.33
+IE,"heat pumps",2022,48.153
+IS,"heat pumps",2022,NULL
+IT,"heat pumps",2022,773.319
+LT,"heat pumps",2022,78.413
+LU,"heat pumps",2022,5.41
+LV,"heat pumps",2022,0.92
+MD,"heat pumps",2022,NULL
+ME,"heat pumps",2022,NULL
+MK,"heat pumps",2022,NULL
+MT,"heat pumps",2022,11.816
+NL,"heat pumps",2022,269.45
+NO,"heat pumps",2022,590.221
+PL,"heat pumps",2022,493.149
+PT,"heat pumps",2022,301.959
+RO,"heat pumps",2022,NULL
+RS,"heat pumps",2022,NULL
+SE,"heat pumps",2022,NULL
+SI,"heat pumps",2022,54.457
+SK,"heat pumps",2022,71.778
+TR,"heat pumps",2022,NULL
+XK,"heat pumps",2022,NULL
+AL,TOTAL,2022,524.447
+AT,TOTAL,2022,7108.457
+BA,TOTAL,2022,1840.954
+BE,TOTAL,2022,7036.456
+BG,TOTAL,2022,2137.397
+CY,TOTAL,2022,360.543
+CZ,TOTAL,2022,7157.766
+DE,TOTAL,2022,57434.806
+DK,TOTAL,2022,3998.544
+EE,TOTAL,2022,963.88
+EL,TOTAL,2022,4325.475
+ES,TOTAL,2022,14016.209
+FI,TOTAL,2022,5594.322
+FR,TOTAL,2022,37920.921
+GE,TOTAL,2022,1575.63
+HR,TOTAL,2022,2286.359
+HU,TOTAL,2022,5821.192
+IE,TOTAL,2022,2615.339
+IS,TOTAL,2022,443.212
+IT,TOTAL,2022,29426.979
+LT,TOTAL,2022,1558.114
+LU,TOTAL,2022,454.444
+LV,TOTAL,2022,1115.069
+MD,TOTAL,2022,1072.23
+ME,TOTAL,2022,248.872
+MK,TOTAL,2022,492.381
+MT,TOTAL,2022,117.719
+NL,TOTAL,2022,8201.73
+NO,TOTAL,2022,4390.55
+PL,TOTAL,2022,20492.124
+PT,TOTAL,2022,2965.934
+RO,TOTAL,2022,7894.699
+RS,TOTAL,2022,3426.41
+SE,TOTAL,2022,7062.293
+SI,TOTAL,2022,1052.349
+SK,TOTAL,2022,2686.513
+TR,TOTAL,2022,26948.909
+XK,TOTAL,2022,554.853
+AL,coal,2023,NULL
+AT,coal,2023,6.368
+BA,coal,2023,45.491
+BE,coal,2023,24.924
+BG,coal,2023,13.961
+CY,coal,2023,NULL
+CZ,coal,2023,427.951
+DE,coal,2023,279.832
+DK,coal,2023,NULL
+EE,coal,2023,0.238
+EL,coal,2023,NULL
+ES,coal,2023,NULL
+FI,coal,2023,NULL
+FR,coal,2023,19.404
+GE,coal,2023,0.352
+HR,coal,2023,1.087
+HU,coal,2023,32.251
+IE,coal,2023,74.726
+IS,coal,2023,NULL
+IT,coal,2023,NULL
+LT,coal,2023,13.74
+LU,coal,2023,0.242
+LV,coal,2023,1.129
+MD,coal,2023,32.012
+ME,coal,2023,1.409
+MK,coal,2023,0.163
+MT,coal,2023,NULL
+NL,coal,2023,0.059
+NO,coal,2023,NULL
+PL,coal,2023,4100.315
+PT,coal,2023,NULL
+RO,coal,2023,48.368
+RS,coal,2023,138.131
+SE,coal,2023,NULL
+SI,coal,2023,0.002
+SK,coal,2023,30.995
+TR,coal,2023,2565.133
+XK,coal,2023,2.622
+AL,electricity,2023,282.396
+AT,electricity,2023,1929.29
+BA,electricity,2023,429.923
+BE,electricity,2023,1364.832
+BG,electricity,2023,1058.619
+CY,electricity,2023,145.615
+CZ,electricity,2023,1330.754
+DE,electricity,2023,11303.009
+DK,electricity,2023,831.93
+EE,electricity,2023,186.004
+EL,electricity,2023,1300.883
+ES,electricity,2023,6289.905
+FI,electricity,2023,1885.211
+FR,electricity,2023,12960.987
+GE,electricity,2023,236.543
+HR,electricity,2023,552.115
+HU,electricity,2023,1077.558
+IE,electricity,2023,696.799
+IS,electricity,2023,74.517
+IT,electricity,2023,5452.535
+LT,electricity,2023,270.619
+LU,electricity,2023,78.575
+LV,electricity,2023,141.858
+MD,electricity,2023,143.508
+ME,electricity,2023,125.916
+MK,electricity,2023,257.871
+MT,electricity,2023,87.659
+NL,electricity,2023,1808.062
+NO,electricity,2023,3340.09
+PL,electricity,2023,2476.956
+PT,electricity,2023,1253.779
+RO,electricity,2023,1125.709
+RS,electricity,2023,1118.505
+SE,electricity,2023,3400.688
+SI,electricity,2023,350.706
+SK,electricity,2023,502.837
+TR,electricity,2023,5635.553
+XK,electricity,2023,269.09
+AL,"natural gas",2023,NULL
+AT,"natural gas",2023,1180.186
+BA,"natural gas",2023,36.909
+BE,"natural gas",2023,2855.854
+BG,"natural gas",2023,71.096
+CY,"natural gas",2023,NULL
+CZ,"natural gas",2023,1486.08
+DE,"natural gas",2023,19369.614
+DK,"natural gas",2023,443.166
+EE,"natural gas",2023,55.17
+EL,"natural gas",2023,364.268
+ES,"natural gas",2023,2923.968
+FI,"natural gas",2023,8.832
+FR,"natural gas",2023,8760.264
+GE,"natural gas",2023,1130.562
+HR,"natural gas",2023,479.689
+HU,"natural gas",2023,2492.111
+IE,"natural gas",2023,463.879
+IS,"natural gas",2023,NULL
+IT,"natural gas",2023,12882.563
+LT,"natural gas",2023,181.773
+LU,"natural gas",2023,189.598
+LV,"natural gas",2023,85.104
+MD,"natural gas",2023,205.399
+ME,"natural gas",2023,NULL
+MK,"natural gas",2023,0.116
+MT,"natural gas",2023,NULL
+NL,"natural gas",2023,4793.51
+NO,"natural gas",2023,1.838
+PL,"natural gas",2023,4205.247
+PT,"natural gas",2023,251.654
+RO,"natural gas",2023,2619.486
+RS,"natural gas",2023,290.689
+SE,"natural gas",2023,23.224
+SI,"natural gas",2023,84.09
+SK,"natural gas",2023,1049.699
+TR,"natural gas",2023,13969.951
+XK,"natural gas",2023,NULL
+AL,"district heating",2023,NULL
+AT,"district heating",2023,890.045
+BA,"district heating",2023,93.699
+BE,"district heating",2023,10.435
+BG,"district heating",2023,292.11
+CY,"district heating",2023,NULL
+CZ,"district heating",2023,809.049
+DE,"district heating",2023,3455.981
+DK,"district heating",2023,1646.297
+EE,"district heating",2023,321.094
+EL,"district heating",2023,25.576
+ES,"district heating",2023,NULL
+FI,"district heating",2023,1598.285
+FR,"district heating",2023,1244.438
+GE,"district heating",2023,NULL
+HR,"district heating",2023,103.384
+HU,"district heating",2023,431.618
+IE,"district heating",2023,NULL
+IS,"district heating",2023,365.036
+IT,"district heating",2023,611.769
+LT,"district heating",2023,452.135
+LU,"district heating",2023,NULL
+LV,"district heating",2023,347.565
+MD,"district heating",2023,96.709
+ME,"district heating",2023,NULL
+MK,"district heating",2023,34.427
+MT,"district heating",2023,NULL
+NL,"district heating",2023,240.569
+NO,"district heating",2023,165.503
+PL,"district heating",2023,3487.389
+PT,"district heating",2023,NULL
+RO,"district heating",2023,558.27
+RS,"district heating",2023,376.833
+SE,"district heating",2023,2677.654
+SI,"district heating",2023,67.461
+SK,"district heating",2023,294.831
+TR,"district heating",2023,NULL
+XK,"district heating",2023,13.264
+AL,"heating oil",2023,110.346
+AT,"heating oil",2023,23.505
+BA,"heating oil",2023,7.118
+BE,"heating oil",2023,132.293
+BG,"heating oil",2023,12.778
+CY,"heating oil",2023,37.956
+CZ,"heating oil",2023,53.353
+DE,"heating oil",2023,562.756
+DK,"heating oil",2023,21.569
+EE,"heating oil",2023,3.26
+EL,"heating oil",2023,108.477
+ES,"heating oil",2023,859.909
+FI,"heating oil",2023,3.318
+FR,"heating oil",2023,618.706
+GE,"heating oil",2023,5.492
+HR,"heating oil",2023,35.614
+HU,"heating oil",2023,63.827
+IE,"heating oil",2023,49.456
+IS,"heating oil",2023,1.101
+IT,"heating oil",2023,1067.604
+LT,"heating oil",2023,52.537
+LU,"heating oil",2023,0.147
+LV,"heating oil",2023,28.389
+MD,"heating oil",2023,50.093
+ME,"heating oil",2023,1.456
+MK,"heating oil",2023,3.536
+MT,"heating oil",2023,11.147
+NL,"heating oil",2023,23.212
+NO,"heating oil",2023,6.878
+PL,"heating oil",2023,473.085
+PT,"heating oil",2023,297.635
+RO,"heating oil",2023,243.257
+RS,"heating oil",2023,34.882
+SE,"heating oil",2023,4.11
+SI,"heating oil",2023,24.909
+SK,"heating oil",2023,6.592
+TR,"heating oil",2023,384.789
+XK,"heating oil",2023,7.866
+AL,"other petroleum products",2023,NULL
+AT,"other petroleum products",2023,NULL
+BA,"other petroleum products",2023,NULL
+BE,"other petroleum products",2023,30.338
+BG,"other petroleum products",2023,NULL
+CY,"other petroleum products",2023,8.417
+CZ,"other petroleum products",2023,NULL
+DE,"other petroleum products",2023,NULL
+DK,"other petroleum products",2023,0.077
+EE,"other petroleum products",2023,NULL
+EL,"other petroleum products",2023,1.924
+ES,"other petroleum products",2023,0.024
+FI,"other petroleum products",2023,NULL
+FR,"other petroleum products",2023,122.869
+GE,"other petroleum products",2023,NULL
+HR,"other petroleum products",2023,NULL
+HU,"other petroleum products",2023,NULL
+IE,"other petroleum products",2023,735.411
+IS,"other petroleum products",2023,NULL
+IT,"other petroleum products",2023,1.451
+LT,"other petroleum products",2023,NULL
+LU,"other petroleum products",2023,0.367
+LV,"other petroleum products",2023,NULL
+MD,"other petroleum products",2023,NULL
+ME,"other petroleum products",2023,NULL
+MK,"other petroleum products",2023,NULL
+MT,"other petroleum products",2023,NULL
+NL,"other petroleum products",2023,5.157
+NO,"other petroleum products",2023,NULL
+PL,"other petroleum products",2023,NULL
+PT,"other petroleum products",2023,0.015
+RO,"other petroleum products",2023,NULL
+RS,"other petroleum products",2023,NULL
+SE,"other petroleum products",2023,NULL
+SI,"other petroleum products",2023,NULL
+SK,"other petroleum products",2023,NULL
+TR,"other petroleum products",2023,1.55
+XK,"other petroleum products",2023,NULL
+AL,"domestic heating oil",2023,NULL
+AT,"domestic heating oil",2023,660.589
+BA,"domestic heating oil",2023,18.06
+BE,"domestic heating oil",2023,1604.951
+BG,"domestic heating oil",2023,0.166
+CY,"domestic heating oil",2023,46.398
+CZ,"domestic heating oil",2023,NULL
+DE,"domestic heating oil",2023,9307.222
+DK,"domestic heating oil",2023,115.604
+EE,"domestic heating oil",2023,1.01
+EL,"domestic heating oil",2023,786.141
+ES,"domestic heating oil",2023,1409.775
+FI,"domestic heating oil",2023,67.849
+FR,"domestic heating oil",2023,2559.841
+GE,"domestic heating oil",2023,NULL
+HR,"domestic heating oil",2023,53.862
+HU,"domestic heating oil",2023,NULL
+IE,"domestic heating oil",2023,214.783
+IS,"domestic heating oil",2023,0.423
+IT,"domestic heating oil",2023,526.575
+LT,"domestic heating oil",2023,29.414
+LU,"domestic heating oil",2023,133.946
+LV,"domestic heating oil",2023,31.866
+MD,"domestic heating oil",2023,NULL
+ME,"domestic heating oil",2023,NULL
+MK,"domestic heating oil",2023,2.625
+MT,"domestic heating oil",2023,0.024
+NL,"domestic heating oil",2023,7.266
+NO,"domestic heating oil",2023,NULL
+PL,"domestic heating oil",2023,82.163
+PT,"domestic heating oil",2023,36.091
+RO,"domestic heating oil",2023,NULL
+RS,"domestic heating oil",2023,NULL
+SE,"domestic heating oil",2023,47.316
+SI,"domestic heating oil",2023,96.781
+SK,"domestic heating oil",2023,NULL
+TR,"domestic heating oil",2023,NULL
+XK,"domestic heating oil",2023,6.999
+AL,renewables/biomass,2023,111.204
+AT,renewables/biomass,2023,2071.238
+BA,renewables/biomass,2023,1143.952
+BE,renewables/biomass,2023,605.052
+BG,renewables/biomass,2023,583.893
+CY,renewables/biomass,2023,12.86
+CZ,renewables/biomass,2023,1922.632
+DE,renewables/biomass,2023,5600.076
+DK,renewables/biomass,2023,704.692
+EE,renewables/biomass,2023,369.199
+EL,renewables/biomass,2023,706.812
+ES,renewables/biomass,2023,1645.959
+FI,renewables/biomass,2023,1126.923
+FR,renewables/biomass,2023,6060.773
+GE,renewables/biomass,2023,206.664
+HR,renewables/biomass,2023,962.658
+HU,renewables/biomass,2023,1217.493
+IE,renewables/biomass,2023,24.686
+IS,renewables/biomass,2023,NULL
+IT,renewables/biomass,2023,4906.481
+LT,renewables/biomass,2023,421.085
+LU,renewables/biomass,2023,27.272
+LV,renewables/biomass,2023,435.456
+MD,renewables/biomass,2023,480.486
+ME,renewables/biomass,2023,125.179
+MK,renewables/biomass,2023,172.935
+MT,renewables/biomass,2023,1.457
+NL,renewables/biomass,2023,379.995
+NO,renewables/biomass,2023,486.991
+PL,renewables/biomass,2023,4376.844
+PT,renewables/biomass,2023,787.664
+RO,renewables/biomass,2023,2938.128
+RS,renewables/biomass,2023,1429.729
+SE,renewables/biomass,2023,786.663
+SI,renewables/biomass,2023,344.113
+SK,renewables/biomass,2023,445.209
+TR,renewables/biomass,2023,1802.245
+XK,renewables/biomass,2023,229.889
+AL,"solar thermal",2023,9.309
+AT,"solar thermal",2023,126.576
+BA,"solar thermal",2023,NULL
+BE,"solar thermal",2023,23.455
+BG,"solar thermal",2023,13.96
+CY,"solar thermal",2023,65.95
+CZ,"solar thermal",2023,16.201
+DE,"solar thermal",2023,749.188
+DK,"solar thermal",2023,12.213
+EE,"solar thermal",2023,NULL
+EL,"solar thermal",2023,323.05
+ES,"solar thermal",2023,293.68
+FI,"solar thermal",2023,2.627
+FR,"solar thermal",2023,234.252
+GE,"solar thermal",2023,0.124
+HR,"solar thermal",2023,11.515
+HU,"solar thermal",2023,17.269
+IE,"solar thermal",2023,13.937
+IS,"solar thermal",2023,NULL
+IT,"solar thermal",2023,219.34
+LT,"solar thermal",2023,NULL
+LU,"solar thermal",2023,2.611
+LV,"solar thermal",2023,NULL
+MD,"solar thermal",2023,NULL
+ME,"solar thermal",2023,1.242
+MK,"solar thermal",2023,3.1
+MT,"solar thermal",2023,2.887
+NL,"solar thermal",2023,22.475
+NO,"solar thermal",2023,NULL
+PL,"solar thermal",2023,102.735
+PT,"solar thermal",2023,68.336
+RO,"solar thermal",2023,NULL
+RS,"solar thermal",2023,NULL
+SE,"solar thermal",2023,9.53
+SI,"solar thermal",2023,10.295
+SK,"solar thermal",2023,7.667
+TR,"solar thermal",2023,863.758
+XK,"solar thermal",2023,0.103
+AL,"heat pumps",2023,NULL
+AT,"heat pumps",2023,378.3
+BA,"heat pumps",2023,NULL
+BE,"heat pumps",2023,236.563
+BG,"heat pumps",2023,NULL
+CY,"heat pumps",2023,13.018
+CZ,"heat pumps",2023,370.138
+DE,"heat pumps",2023,1335.483
+DK,"heat pumps",2023,308.549
+EE,"heat pumps",2023,NULL
+EL,"heat pumps",2023,109.742
+ES,"heat pumps",2023,233.122
+FI,"heat pumps",2023,729.698
+FR,"heat pumps",2023,3983.84
+GE,"heat pumps",2023,NULL
+HR,"heat pumps",2023,14.565
+HU,"heat pumps",2023,34.991
+IE,"heat pumps",2023,63.12
+IS,"heat pumps",2023,NULL
+IT,"heat pumps",2023,826.099
+LT,"heat pumps",2023,101.963
+LU,"heat pumps",2023,5.927
+LV,"heat pumps",2023,1.435
+MD,"heat pumps",2023,NULL
+ME,"heat pumps",2023,NULL
+MK,"heat pumps",2023,NULL
+MT,"heat pumps",2023,12.848
+NL,"heat pumps",2023,367.014
+NO,"heat pumps",2023,630.257
+PL,"heat pumps",2023,587.075
+PT,"heat pumps",2023,311.08
+RO,"heat pumps",2023,NULL
+RS,"heat pumps",2023,NULL
+SE,"heat pumps",2023,NULL
+SI,"heat pumps",2023,62.558
+SK,"heat pumps",2023,87.016
+TR,"heat pumps",2023,NULL
+XK,"heat pumps",2023,NULL
+AL,TOTAL,2023,513.467
+AT,TOTAL,2023,7270.904
+BA,TOTAL,2023,1780.052
+BE,TOTAL,2023,6947.24
+BG,TOTAL,2023,2046.582
+CY,TOTAL,2023,336.459
+CZ,TOTAL,2023,6416.158
+DE,TOTAL,2023,52434.691
+DK,TOTAL,2023,4096.01
+EE,TOTAL,2023,935.976
+EL,TOTAL,2023,3773.874
+ES,TOTAL,2023,13671.209
+FI,TOTAL,2023,5465.387
+FR,TOTAL,2023,36640.154
+GE,TOTAL,2023,1586.086
+HR,TOTAL,2023,2224.526
+HU,TOTAL,2023,5367.117
+IE,TOTAL,2023,2497.658
+IS,TOTAL,2023,453.257
+IT,TOTAL,2023,26546.617
+LT,TOTAL,2023,1530.945
+LU,TOTAL,2023,438.685
+LV,TOTAL,2023,1079.133
+MD,TOTAL,2023,1009.203
+ME,TOTAL,2023,256.235
+MK,TOTAL,2023,474.773
+MT,TOTAL,2023,116.023
+NL,TOTAL,2023,7673.371
+NO,TOTAL,2023,4635.938
+PL,TOTAL,2023,19916.392
+PT,TOTAL,2023,3019.665
+RO,TOTAL,2023,7552.174
+RS,TOTAL,2023,3388.771
+SE,TOTAL,2023,7050.024
+SI,TOTAL,2023,1040.915
+SK,TOTAL,2023,2425.468
+TR,TOTAL,2023,25697.599
+XK,TOTAL,2023,530.47
+AL,coal,2024,NULL
+AT,coal,2024,3.867
+BA,coal,2024,35.75
+BE,coal,2024,21.593
+BG,coal,2024,12.853
+CY,coal,2024,NULL
+CZ,coal,2024,326.949
+DE,coal,2024,173.264
+DK,coal,2024,NULL
+EE,coal,2024,0.238
+EL,coal,2024,0.926
+ES,coal,2024,NULL
+FI,coal,2024,NULL
+FR,coal,2024,20.087
+GE,coal,2024,0.296
+HR,coal,2024,1.082
+HU,coal,2024,23.602
+IE,coal,2024,80.596
+IS,coal,2024,NULL
+IT,coal,2024,NULL
+LT,coal,2024,16.439
+LU,coal,2024,0.162
+LV,coal,2024,0.616
+MD,coal,2024,29.561
+ME,coal,2024,1.413
+MK,coal,2024,0.123
+MT,coal,2024,NULL
+NL,coal,2024,0.054
+NO,coal,2024,NULL
+PL,coal,2024,3616.748
+PT,coal,2024,NULL
+RO,coal,2024,56.255
+RS,coal,2024,55.903
+SE,coal,2024,NULL
+SI,coal,2024,0.001
+SK,coal,2024,31.74
+TR,coal,2024,2757.626
+XK,coal,2024,1.884
+AL,electricity,2024,293.025
+AT,electricity,2024,1878.914
+BA,electricity,2024,450.731
+BE,electricity,2024,1402.855
+BG,electricity,2024,1109.891
+CY,electricity,2024,161.337
+CZ,electricity,2024,1344.332
+DE,electricity,2024,11387.618
+DK,electricity,2024,885.075
+EE,electricity,2024,201.634
+EL,electricity,2024,1482.674
+ES,electricity,2024,6462.428
+FI,electricity,2024,1894.669
+FR,electricity,2024,12978.485
+GE,electricity,2024,254.428
+HR,electricity,2024,586.244
+HU,electricity,2024,1107.137
+IE,electricity,2024,719.776
+IS,electricity,2024,85.189
+IT,electricity,2024,5659.687
+LT,electricity,2024,280.241
+LU,electricity,2024,75.774
+LV,electricity,2024,149.643
+MD,electricity,2024,159.355
+ME,electricity,2024,133.276
+MK,electricity,2024,270.881
+MT,electricity,2024,93.408
+NL,electricity,2024,1860.323
+NO,electricity,2024,3358.047
+PL,electricity,2024,2796.531
+PT,electricity,2024,1269.77
+RO,electricity,2024,1195.815
+RS,electricity,2024,1137.179
+SE,electricity,2024,3419.776
+SI,electricity,2024,365.387
+SK,electricity,2024,495.615
+TR,electricity,2024,6417.842
+XK,electricity,2024,261.561
+AL,"natural gas",2024,NULL
+AT,"natural gas",2024,1088.842
+BA,"natural gas",2024,35.985
+BE,"natural gas",2024,2918.972
+BG,"natural gas",2024,81.161
+CY,"natural gas",2024,NULL
+CZ,"natural gas",2024,1460.038
+DE,"natural gas",2024,19264.67
+DK,"natural gas",2024,425.614
+EE,"natural gas",2024,58.936
+EL,"natural gas",2024,354.082
+ES,"natural gas",2024,2916.187
+FI,"natural gas",2024,6.44
+FR,"natural gas",2024,8618.978
+GE,"natural gas",2024,1283.124
+HR,"natural gas",2024,473.397
+HU,"natural gas",2024,2467.863
+IE,"natural gas",2024,478.996
+IS,"natural gas",2024,NULL
+IT,"natural gas",2024,13186.455
+LT,"natural gas",2024,180.126
+LU,"natural gas",2024,203.703
+LV,"natural gas",2024,89.638
+MD,"natural gas",2024,227.016
+ME,"natural gas",2024,NULL
+MK,"natural gas",2024,0.197
+MT,"natural gas",2024,NULL
+NL,"natural gas",2024,4687.379
+NO,"natural gas",2024,1.169
+PL,"natural gas",2024,4234.061
+PT,"natural gas",2024,254.926
+RO,"natural gas",2024,2628.647
+RS,"natural gas",2024,321.001
+SE,"natural gas",2024,21.251
+SI,"natural gas",2024,76.827
+SK,"natural gas",2024,994.72
+TR,"natural gas",2024,15579.126
+XK,"natural gas",2024,NULL
+AL,"district heating",2024,NULL
+AT,"district heating",2024,912.446
+BA,"district heating",2024,85.149
+BE,"district heating",2024,11.106
+BG,"district heating",2024,279.142
+CY,"district heating",2024,NULL
+CZ,"district heating",2024,829.809
+DE,"district heating",2024,3382.87
+DK,"district heating",2024,1679.347
+EE,"district heating",2024,225.722
+EL,"district heating",2024,24.09
+ES,"district heating",2024,30.405
+FI,"district heating",2024,1568.358
+FR,"district heating",2024,1264.717
+GE,"district heating",2024,NULL
+HR,"district heating",2024,104.521
+HU,"district heating",2024,420.297
+IE,"district heating",2024,NULL
+IS,"district heating",2024,395.551
+IT,"district heating",2024,694.339
+LT,"district heating",2024,446.499
+LU,"district heating",2024,NULL
+LV,"district heating",2024,350.898
+MD,"district heating",2024,105.546
+ME,"district heating",2024,NULL
+MK,"district heating",2024,34.636
+MT,"district heating",2024,NULL
+NL,"district heating",2024,244.666
+NO,"district heating",2024,161.084
+PL,"district heating",2024,3279.354
+PT,"district heating",2024,NULL
+RO,"district heating",2024,560.761
+RS,"district heating",2024,374.584
+SE,"district heating",2024,2617.034
+SI,"district heating",2024,66.077
+SK,"district heating",2024,294.354
+TR,"district heating",2024,NULL
+XK,"district heating",2024,13.277
+AL,"heating oil",2024,96.425
+AT,"heating oil",2024,22.042
+BA,"heating oil",2024,8.204
+BE,"heating oil",2024,145.963
+BG,"heating oil",2024,11.989
+CY,"heating oil",2024,38.016
+CZ,"heating oil",2024,54.4
+DE,"heating oil",2024,862.138
+DK,"heating oil",2024,22.727
+EE,"heating oil",2024,NULL
+EL,"heating oil",2024,109.627
+ES,"heating oil",2024,832.511
+FI,"heating oil",2024,3.318
+FR,"heating oil",2024,649.468
+GE,"heating oil",2024,5.215
+HR,"heating oil",2024,40.766
+HU,"heating oil",2024,58.351
+IE,"heating oil",2024,50.307
+IS,"heating oil",2024,1.148
+IT,"heating oil",2024,1058.669
+LT,"heating oil",2024,43.362
+LU,"heating oil",2024,0.246
+LV,"heating oil",2024,29.328
+MD,"heating oil",2024,51.6
+ME,"heating oil",2024,1.232
+MK,"heating oil",2024,3.395
+MT,"heating oil",2024,10.634
+NL,"heating oil",2024,23.214
+NO,"heating oil",2024,3.977
+PL,"heating oil",2024,428.49
+PT,"heating oil",2024,297.375
+RO,"heating oil",2024,263.924
+RS,"heating oil",2024,27.764
+SE,"heating oil",2024,4.11
+SI,"heating oil",2024,21.999
+SK,"heating oil",2024,4.395
+TR,"heating oil",2024,355.373
+XK,"heating oil",2024,8.012
+AL,"other petroleum products",2024,NULL
+AT,"other petroleum products",2024,NULL
+BA,"other petroleum products",2024,NULL
+BE,"other petroleum products",2024,26.467
+BG,"other petroleum products",2024,NULL
+CY,"other petroleum products",2024,7.816
+CZ,"other petroleum products",2024,NULL
+DE,"other petroleum products",2024,NULL
+DK,"other petroleum products",2024,NULL
+EE,"other petroleum products",2024,NULL
+EL,"other petroleum products",2024,1.555
+ES,"other petroleum products",2024,0.026
+FI,"other petroleum products",2024,NULL
+FR,"other petroleum products",2024,146.46
+GE,"other petroleum products",2024,NULL
+HR,"other petroleum products",2024,NULL
+HU,"other petroleum products",2024,NULL
+IE,"other petroleum products",2024,798.243
+IS,"other petroleum products",2024,NULL
+IT,"other petroleum products",2024,1.13
+LT,"other petroleum products",2024,NULL
+LU,"other petroleum products",2024,0.37
+LV,"other petroleum products",2024,NULL
+MD,"other petroleum products",2024,NULL
+ME,"other petroleum products",2024,NULL
+MK,"other petroleum products",2024,NULL
+MT,"other petroleum products",2024,NULL
+NL,"other petroleum products",2024,5.049
+NO,"other petroleum products",2024,NULL
+PL,"other petroleum products",2024,NULL
+PT,"other petroleum products",2024,0.001
+RO,"other petroleum products",2024,NULL
+RS,"other petroleum products",2024,NULL
+SE,"other petroleum products",2024,NULL
+SI,"other petroleum products",2024,NULL
+SK,"other petroleum products",2024,NULL
+TR,"other petroleum products",2024,1.023
+XK,"other petroleum products",2024,NULL
+AL,"domestic heating oil",2024,NULL
+AT,"domestic heating oil",2024,543.772
+BA,"domestic heating oil",2024,18.102
+BE,"domestic heating oil",2024,1606.697
+BG,"domestic heating oil",2024,0.056
+CY,"domestic heating oil",2024,45.913
+CZ,"domestic heating oil",2024,NULL
+DE,"domestic heating oil",2024,9053.334
+DK,"domestic heating oil",2024,102.416
+EE,"domestic heating oil",2024,NULL
+EL,"domestic heating oil",2024,802.478
+ES,"domestic heating oil",2024,1450.657
+FI,"domestic heating oil",2024,57.579
+FR,"domestic heating oil",2024,2562.436
+GE,"domestic heating oil",2024,NULL
+HR,"domestic heating oil",2024,53.964
+HU,"domestic heating oil",2024,NULL
+IE,"domestic heating oil",2024,233.133
+IS,"domestic heating oil",2024,0.449
+IT,"domestic heating oil",2024,407.614
+LT,"domestic heating oil",2024,27.467
+LU,"domestic heating oil",2024,120.79
+LV,"domestic heating oil",2024,31.866
+MD,"domestic heating oil",2024,NULL
+ME,"domestic heating oil",2024,NULL
+MK,"domestic heating oil",2024,1.951
+MT,"domestic heating oil",2024,0.023
+NL,"domestic heating oil",2024,7.272
+NO,"domestic heating oil",2024,NULL
+PL,"domestic heating oil",2024,100.65
+PT,"domestic heating oil",2024,37.997
+RO,"domestic heating oil",2024,NULL
+RS,"domestic heating oil",2024,NULL
+SE,"domestic heating oil",2024,61.648
+SI,"domestic heating oil",2024,86.862
+SK,"domestic heating oil",2024,NULL
+TR,"domestic heating oil",2024,NULL
+XK,"domestic heating oil",2024,7.699
+AL,renewables/biomass,2024,99.914
+AT,renewables/biomass,2024,1979.81
+BA,renewables/biomass,2024,1115.53
+BE,renewables/biomass,2024,605.665
+BG,renewables/biomass,2024,452.13
+CY,renewables/biomass,2024,8.316
+CZ,renewables/biomass,2024,1803.419
+DE,renewables/biomass,2024,5603.874
+DK,renewables/biomass,2024,652.281
+EE,renewables/biomass,2024,395.185
+EL,renewables/biomass,2024,548.594
+ES,renewables/biomass,2024,1625.084
+FI,renewables/biomass,2024,1070.722
+FR,renewables/biomass,2024,5902.483
+GE,renewables/biomass,2024,191.115
+HR,renewables/biomass,2024,919.607
+HU,renewables/biomass,2024,1181.284
+IE,renewables/biomass,2024,28.192
+IS,renewables/biomass,2024,NULL
+IT,renewables/biomass,2024,4646.496
+LT,renewables/biomass,2024,479.841
+LU,renewables/biomass,2024,32.911
+LV,renewables/biomass,2024,438.698
+MD,renewables/biomass,2024,455.169
+ME,renewables/biomass,2024,153.759
+MK,renewables/biomass,2024,162.358
+MT,renewables/biomass,2024,0.818
+NL,renewables/biomass,2024,379.411
+NO,renewables/biomass,2024,478.057
+PL,renewables/biomass,2024,4413.275
+PT,renewables/biomass,2024,758.158
+RO,renewables/biomass,2024,2717.355
+RS,renewables/biomass,2024,1431.633
+SE,renewables/biomass,2024,767.507
+SI,renewables/biomass,2024,335.521
+SK,renewables/biomass,2024,367.106
+TR,renewables/biomass,2024,1629
+XK,renewables/biomass,2024,183.911
+AL,"solar thermal",2024,9.527
+AT,"solar thermal",2024,120.107
+BA,"solar thermal",2024,NULL
+BE,"solar thermal",2024,22.38
+BG,"solar thermal",2024,14.323
+CY,"solar thermal",2024,66.939
+CZ,"solar thermal",2024,16.654
+DE,"solar thermal",2024,722.222
+DK,"solar thermal",2024,12.071
+EE,"solar thermal",2024,NULL
+EL,"solar thermal",2024,330.279
+ES,"solar thermal",2024,294.599
+FI,"solar thermal",2024,2.627
+FR,"solar thermal",2024,239.717
+GE,"solar thermal",2024,0.146
+HR,"solar thermal",2024,11.809
+HU,"solar thermal",2024,17.436
+IE,"solar thermal",2024,13.88
+IS,"solar thermal",2024,NULL
+IT,"solar thermal",2024,225.176
+LT,"solar thermal",2024,NULL
+LU,"solar thermal",2024,2.684
+LV,"solar thermal",2024,NULL
+MD,"solar thermal",2024,NULL
+ME,"solar thermal",2024,4.593
+MK,"solar thermal",2024,3.111
+MT,"solar thermal",2024,2.563
+NL,"solar thermal",2024,22.022
+NO,"solar thermal",2024,NULL
+PL,"solar thermal",2024,91.576
+PT,"solar thermal",2024,69.17
+RO,"solar thermal",2024,NULL
+RS,"solar thermal",2024,NULL
+SE,"solar thermal",2024,9.219
+SI,"solar thermal",2024,10.041
+SK,"solar thermal",2024,8.933
+TR,"solar thermal",2024,954.75
+XK,"solar thermal",2024,0.08
+AL,"heat pumps",2024,24.279
+AT,"heat pumps",2024,377.643
+BA,"heat pumps",2024,NULL
+BE,"heat pumps",2024,286.66
+BG,"heat pumps",2024,NULL
+CY,"heat pumps",2024,13.254
+CZ,"heat pumps",2024,393.809
+DE,"heat pumps",2024,1537.475
+DK,"heat pumps",2024,346.598
+EE,"heat pumps",2024,95.538
+EL,"heat pumps",2024,163.019
+ES,"heat pumps",2024,253.222
+FI,"heat pumps",2024,719.069
+FR,"heat pumps",2024,4162.827
+GE,"heat pumps",2024,NULL
+HR,"heat pumps",2024,15.463
+HU,"heat pumps",2024,51.495
+IE,"heat pumps",2024,78.278
+IS,"heat pumps",2024,NULL
+IT,"heat pumps",2024,855.784
+LT,"heat pumps",2024,138.769
+LU,"heat pumps",2024,6.396
+LV,"heat pumps",2024,1.575
+MD,"heat pumps",2024,NULL
+ME,"heat pumps",2024,NULL
+MK,"heat pumps",2024,NULL
+MT,"heat pumps",2024,14.176
+NL,"heat pumps",2024,435.611
+NO,"heat pumps",2024,658.259
+PL,"heat pumps",2024,648.038
+PT,"heat pumps",2024,238.832
+RO,"heat pumps",2024,NULL
+RS,"heat pumps",2024,NULL
+SE,"heat pumps",2024,NULL
+SI,"heat pumps",2024,70.452
+SK,"heat pumps",2024,102.399
+TR,"heat pumps",2024,NULL
+XK,"heat pumps",2024,NULL
+AL,TOTAL,2024,523.736
+AT,TOTAL,2024,6932.267
+BA,TOTAL,2024,1750.849
+BE,TOTAL,2024,7099.329
+BG,TOTAL,2024,1961.546
+CY,TOTAL,2024,347.807
+CZ,TOTAL,2024,6229.411
+DE,TOTAL,2024,52455.834
+DK,TOTAL,2024,4135.652
+EE,TOTAL,2024,978.233
+EL,TOTAL,2024,3862.774
+ES,TOTAL,2024,13879.984
+FI,TOTAL,2024,5362.842
+FR,TOTAL,2024,36623.464
+GE,TOTAL,2024,1740.68
+HR,TOTAL,2024,2213.975
+HU,TOTAL,2024,5327.465
+IE,TOTAL,2024,2627.755
+IS,TOTAL,2024,494.519
+IT,TOTAL,2024,26782.433
+LT,TOTAL,2024,1616.951
+LU,TOTAL,2024,443.037
+LV,TOTAL,2024,1099.341
+MD,TOTAL,2024,1028.916
+ME,TOTAL,2024,294.534
+MK,TOTAL,2024,476.652
+MT,TOTAL,2024,121.621
+NL,TOTAL,2024,7689.932
+NO,TOTAL,2024,4664.267
+PL,TOTAL,2024,19636.596
+PT,TOTAL,2024,2939.639
+RO,TOTAL,2024,7434.117
+RS,TOTAL,2024,3348.074
+SE,TOTAL,2024,6995.723
+SI,TOTAL,2024,1033.167
+SK,TOTAL,2024,2299.882
+TR,TOTAL,2024,28979.219
+XK,TOTAL,2024,477.211
