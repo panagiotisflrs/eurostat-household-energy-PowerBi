@@ -103,12 +103,12 @@ eu-household-energy-powerbi/
 │   ├── crossover_year.csv
 │   └── CAGR.csv
 ├── screenshots/
-│   ├── 01_total_energy_consumption.png
-│   ├── 02_renewable_vs_nonrenewable.png
-│   ├── 03_country_comparison.png
-│   ├── 04_energy_profile_by_country.png
-│   ├── 05_cagr_analysis.png
-│   └── 06_renewables_crossover.png
+│   ├── 01_Total_Energy_Consumption.png
+│   ├── 02_Renewable_vs_Non-renewable.png
+│   ├── 03_Country_Comparison.png
+│   ├── 04_Energy_Profile_by_Country.png
+│   ├── 05_CAGR_Analysis.png
+│   └── 06_Renewables_Crossover.png
 └── eu_household_energy.pbix
 ```
 
