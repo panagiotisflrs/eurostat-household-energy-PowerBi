@@ -92,7 +92,7 @@ Map showing which countries crossed over (renewables/biomass exceeded natural ga
 ## Project Structure
 
 ```text
-eu-household-energy-powerbi/
+eurostat-household-energy-PowerBi/
 │
 ├── README.md
 ├── dAshboard/
